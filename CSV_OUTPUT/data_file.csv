@@ -1,0 +1,1001 @@
+Actor1Geo_CountryCode,Actor2Geo_CountryCode,ActionGeo_CountryCode,Event Code,Reason,AC1_lat,AC1_lon,AC2_lat,AC2_lon,AC_lat,AC_lon,Source Url,Source City,Keyword
+GR,GR,GR,075,"Grant asylum
+",39,22,39,22,39,22,http://greece.greekreporter.com/2014/01/01/syrian-refugees-having-a-hard-time-in-greece/,Greece,Greece,
+UK,SY,SY,020,"Appeal, not specified below
+",51.5,-0.116667,35,38,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,"London, London, City of, United Kingdom",Syria,"suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+UK,SY,SY,051,"Praise or endorse
+",51.5,-0.116667,35,38,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,"London, London, City of, United Kingdom",Syria,"suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+UK,SY,SY,120,"Reject, not specified below
+",51.5,-0.116667,35,38,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,"London, London, City of, United Kingdom",Syria,"suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+LE,SY,LE,195,"Employ aerial weapons
+",33.8719,35.5097,35,38,33.8719,35.5097,http://www.aa.com.tr/en/news/269492--refugee-killed-3-injured-in-syrian-air-strike-on-lebanese-border-town,"Beirut, Beyrouth, Lebanon",Syria,"others,town,refugee,injuring,border,others,"
+LE,SY,SY,195,"Employ aerial weapons
+",33.8719,35.5097,35,38,35,38,http://www.aa.com.tr/en/news/269492--refugee-killed-3-injured-in-syrian-air-strike-on-lebanese-border-town,"Beirut, Beyrouth, Lebanon",Syria,"others,town,refugee,injuring,border,others,"
+SY,SY,SY,013,"Make optimistic comment
+",35,38,35,38,35,38,http://www.carbonated.tv/news/syrians-hoping-war-ends-and-they-find-peace-in-2014,Syria,Syria,"town,town,refugee,suffering,"
+IT,IT,IT,075,"Grant asylum
+",45.4667,9.2,45.4667,9.2,45.4667,9.2,http://www.unhcr.org/52c3e69c9.html,"Milan, Lombardia, Italy","Milan, Lombardia, Italy","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+SY,IT,IT,075,"Grant asylum
+",36.2028,37.1586,45.4667,9.2,45.4667,9.2,http://www.unhcr.org/52c3e69c9.html,"Aleppo, ?alab, Syria","Milan, Lombardia, Italy","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+LE,LE,LE,195,"Employ aerial weapons
+",34.1794,36.4208,34.1794,36.4208,34.1794,36.4208,http://www.worldbulletin.net/?aType=haber&ArticleID=126064,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Arsal, Mohafazat Baalbek-Hermel, Lebanon","town,refugee,injuring,border,others,"
+SY,LE,LE,195,"Employ aerial weapons
+",35,38,34.1794,36.4208,34.1794,36.4208,http://www.aa.com.tr/en/news/269492--refugee-killed-3-injured-in-syrian-air-strike-on-lebanese-border-town,Syria,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","others,town,refugee,injuring,border,others,"
+SY,UK,UK,120,"Reject, not specified below
+",35,38,51.5,-0.116667,51.5,-0.116667,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,Syria,"London, London, City of, United Kingdom","suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+SY,UK,SY,120,"Reject, not specified below
+",35,38,51.5,-0.116667,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,Syria,"London, London, City of, United Kingdom","suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+SY,SY,SY,010,"Make statement, not specified below
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52c3e69c9.html,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,Syria,Syria,"suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+SY,SY,SY,051,"Praise or endorse
+",35,38,35,38,35,38,http://www.expressandstar.com/comment/peter-rhodes/2014/01/01/time-to-do-the-decent-thing/,Syria,Syria,"suffering,suckered,help,freedom,Nazi,asylum,seekers,"
+LE,SY,SY,192,"Occupy territory
+",33.8333,36,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52c3e69c9.html,"Bekaa Valley, Béa, Lebanon","Aleppo, ?alab, Syria","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+TU,SY,SY,192,"Occupy territory
+",39,35,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52c3e69c9.html,Turkey,"Aleppo, ?alab, Syria","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+TU,SY,TU,192,"Occupy territory
+",39,35,36.2028,37.1586,39,35,http://www.unhcr.org/52c3e69c9.html,Turkey,"Aleppo, ?alab, Syria","refugee,Syria,refugee,facilities,established,help,Syria,enormous,Syria,refugee,refugee,refugee,established,billion,activities,Syria,billion,refugee,flee,sanitation,aid,sanitation,facilities,aid,Syria,aid,agency,Syria,help,"
+SY,KU,KU,051,"Praise or endorse
+",35,38,29.3375,47.6581,29.3375,47.6581,http://reliefweb.int/report/syrian-arab-republic/uk-allocates-16-million-support-healthcare-services-syrian-refugees,Syria,Kuwait,"aid,suffering,conflict,funding,help,help,humanitarian,"
+SY,KU,KU,084,"Return, release, not specified below
+",35,38,29.3375,47.6581,29.3375,47.6581,https://www.gov.uk/government/news/uk-provides-essential-healthcare-for-syrian-refugees,Syria,Kuwait,"aid,suffering,conflict,funding,help,help,humanitarian,"
+IZ,IS,SY,062,"Cooperate militarily
+",31.7133,44.5058,31.5,34.75,35,38,http://www.albawaba.com/news/lebanon-iran-544572,"Al Majid, An Najaf, Iraq",Israel,"Syria,attacks,attacks,"
+LE,SY,LE,043,"Host a visit
+",33.6667,35.8333,35,38,33.6667,35.8333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353414&Language=en,"Bekaa, Béa, Lebanon",Syria,"border,attacks,border,"
+LE,SY,SY,043,"Host a visit
+",34.1794,36.4208,36.2028,37.1586,36.2028,37.1586,http://gulfnews.com/news/region/syria/20-killed-in-aleppo-air-strike-1.1273209,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Aleppo, ?alab, Syria","border,missiles,border,town,conflict,Syria,"
+LE,SY,LE,190,"Use conventional military force, not specified below
+",34.1794,36.4208,33.5,36.3,34.1794,36.4208,http://www.globalpost.com/dispatch/news/afp/140102/shelling-wounds-syrian-at-lebanon-border-security-source,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Damascus, Dimashq, Syria","help,"
+LE,SY,SY,043,"Host a visit
+",34.1794,36.4208,36.2028,37.1586,36.2028,37.1586,http://gulfnews.com/news/region/syria/20-killed-in-aleppo-air-strike-1.1273209,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Aleppo, ?alab, Syria","border,missiles,border,town,conflict,Syria,"
+NO,SY,SY,060,"Engage in material cooperation, not specified below
+",62,10,33.5,36.3,33.5,36.3,http://www.globalpost.com/dispatch/news/afp/140102/shelling-wounds-syrian-at-lebanon-border-security-source,Norway,"Damascus, Dimashq, Syria","help,"
+SY,SY,LE,061,"Cooperate economically
+",33.8442,36.5469,33.8442,36.5469,33.8719,35.5097,http://www.voltairenet.org/article181612.html,"Maaloula, Rif Dimashq, Syria","Maaloula, Rif Dimashq, Syria","regional,attacks,regional,force,Syria,Syria,Syria,Syria,regional,chaos,conflict,Syria,Syria,suffering,border,border,town,refugee,others,attacks,Syria,coast,attacks,regional,others,town,police,others,freedom,conflict,Syria,regional,force,regional,Syria,Syria,force,Syria,Syria,activities,force,regional,help,Syria,force,Syria,town,conflict,Syria,Syria,force,town,town,border,Syria,town,freedom,attacks,town,town,attacks,Syria,painful,others,suffering,aid,attacks,Syria,town,"
+LE,LE,LE,061,"Cooperate economically
+",33.8719,35.5097,33.8719,35.5097,33.8719,35.5097,http://www.voltairenet.org/article181612.html,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon","regional,attacks,regional,force,Syria,Syria,Syria,Syria,regional,chaos,conflict,Syria,Syria,suffering,border,border,town,refugee,others,attacks,Syria,coast,attacks,regional,others,town,police,others,freedom,conflict,Syria,regional,force,regional,Syria,Syria,force,Syria,Syria,activities,force,regional,help,Syria,force,Syria,town,conflict,Syria,Syria,force,town,town,border,Syria,town,freedom,attacks,town,town,attacks,Syria,painful,others,suffering,aid,attacks,Syria,town,"
+SY,SY,SY,080,"Yield, not specified below 
+",35,38,35,38,35,38,http://www.cnn.com/2014/01/01/opinion/lemmon-syria-children/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29,Syria,Syria,"help,Syria,Refugees,conflict,refugee,Syria,Syria,Syria,humanitarian,Syria,humanitarian,humanitarian,help,"
+SW,SY,SW,043,"Host a visit
+",62,15,35,38,62,15,http://sverigesradio.se/sida/artikel.aspx?programid=2054&artikel=5746726,Sweden,Syria,"asylum,seekers,conflict,Syria,asylum,"
+IS,IZ,SY,062,"Cooperate militarily
+",31.5,34.75,31.7133,44.5058,35,38,http://www.albawaba.com/news/lebanon-iran-544572,Israel,"Al Majid, An Najaf, Iraq","Syria,attacks,attacks,"
+SY,SY,SY,195,"Employ aerial weapons
+",34.0862,36.6622,34.0862,36.6622,34.0862,36.6622,http://www.albawaba.com/news/syria-refugees-544513,"Jarajir, Rif Dimashq, Syria","Jarajir, Rif Dimashq, Syria","town,town,border,force,border,"
+SY,LE,LE,195,"Employ aerial weapons
+",34.0862,36.6622,33.8333,35.8333,33.8333,35.8333,http://www.albawaba.com/news/syria-refugees-544513,"Jarajir, Rif Dimashq, Syria",Lebanon,"town,town,border,force,border,"
+LE,SY,SY,195,"Employ aerial weapons
+",33.8333,35.8333,34.0862,36.6622,34.0862,36.6622,http://www.albawaba.com/news/syria-refugees-544513,Lebanon,"Jarajir, Rif Dimashq, Syria","town,town,border,force,border,"
+SY,FR,SY,051,"Praise or endorse
+",32.94,36.6564,46,2,32.94,36.6564,http://www.al-monitor.com/pulse/politics/2014/01/france-hollande-interview-syria-geneva-iran-egypt.html,"Al-Hayat, As Suwayda', Syria",France,"Syria,Syria,chaos,elections,regional,humanitarian,aid,chaos,Syria,condemn,elections,established,"
+SY,FR,JO,051,"Praise or endorse
+",32.94,36.6564,46,2,31,36,http://www.al-monitor.com/pulse/politics/2014/01/france-hollande-interview-syria-geneva-iran-egypt.html,"Al-Hayat, As Suwayda', Syria",France,"Syria,Syria,chaos,elections,regional,humanitarian,aid,chaos,Syria,condemn,elections,established,"
+SY,SY,SY,1712,"Destroy property
+",33.8442,36.5469,33.8442,36.5469,33.8442,36.5469,http://www.voltairenet.org/article181611.html,"Maaloula, Rif Dimashq, Syria","Maaloula, Rif Dimashq, Syria","attacks,regional,help,freedom,painful,Syria,Syria,town,agency,town,deterioration,regional,regional,affect,regional,regional,conflict,Syria,attacks,Syria,aid,attacks,Syria,help,Syria,Syria,regional,regional,regional,regional,Syria,Syria,help,Syria,Syria,aid,aid,Syria,Syria,Syria,attacks,Syria,conflict,conflict,Syria,others,Syria,Syria,Syria,regional,Syria,Syria,Syria,Syria,Syria,Syria,Syria,regional,Syria,Syria,regional,chaos,regional,conflict,Syria,Syria,force,funding,Syria,jihad,jihad,attacks,billion,attacks,freedom,Syria,Syria,Syria,funding,"
+CH,SY,SY,1712,"Destroy property
+",35,105,33.8442,36.5469,33.8442,36.5469,http://www.voltairenet.org/article181611.html,China,"Maaloula, Rif Dimashq, Syria","attacks,regional,help,freedom,painful,Syria,Syria,town,agency,town,deterioration,regional,regional,affect,regional,regional,conflict,Syria,attacks,Syria,aid,attacks,Syria,help,Syria,Syria,regional,regional,regional,regional,Syria,Syria,help,Syria,Syria,aid,aid,Syria,Syria,Syria,attacks,Syria,conflict,conflict,Syria,others,Syria,Syria,Syria,regional,Syria,Syria,Syria,Syria,Syria,Syria,Syria,regional,Syria,Syria,regional,chaos,regional,conflict,Syria,Syria,force,funding,Syria,jihad,jihad,attacks,billion,attacks,freedom,Syria,Syria,Syria,funding,"
+US,UK,US,1712,"Destroy property
+",44.6074,-69.3977,51.5,-0.116667,44.6074,-69.3977,http://www.voltairenet.org/article181611.html,"Maine, United States","London, London, City of, United Kingdom","attacks,regional,help,freedom,painful,Syria,Syria,town,agency,town,deterioration,regional,regional,affect,regional,regional,conflict,Syria,attacks,Syria,aid,attacks,Syria,help,Syria,Syria,regional,regional,regional,regional,Syria,Syria,help,Syria,Syria,aid,aid,Syria,Syria,Syria,attacks,Syria,conflict,conflict,Syria,others,Syria,Syria,Syria,regional,Syria,Syria,Syria,Syria,Syria,Syria,Syria,regional,Syria,Syria,regional,chaos,regional,conflict,Syria,Syria,force,funding,Syria,jihad,jihad,attacks,billion,attacks,freedom,Syria,Syria,Syria,funding,"
+SY,SY,SY,042,"Make a visit
+",34.0862,36.6622,34.0862,36.6622,34.0862,36.6622,http://www.albawaba.com/news/syria-refugees-544513,"Jarajir, Rif Dimashq, Syria","Jarajir, Rif Dimashq, Syria","town,town,border,force,border,"
+SY,LE,SY,042,"Make a visit
+",36.2028,37.1586,34.1794,36.4208,36.2028,37.1586,http://gulfnews.com/news/region/syria/20-killed-in-aleppo-air-strike-1.1273209,"Aleppo, ?alab, Syria","Arsal, Mohafazat Baalbek-Hermel, Lebanon","border,missiles,border,town,conflict,Syria,"
+SY,LE,LE,042,"Make a visit
+",35,38,33.6667,35.8333,33.6667,35.8333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353414&Language=en,Syria,"Bekaa, Béa, Lebanon","border,attacks,border,"
+SY,LE,SY,042,"Make a visit
+",36.2028,37.1586,34.1794,36.4208,36.2028,37.1586,http://gulfnews.com/news/region/syria/20-killed-in-aleppo-air-strike-1.1273209,"Aleppo, ?alab, Syria","Arsal, Mohafazat Baalbek-Hermel, Lebanon","border,missiles,border,town,conflict,Syria,"
+AF,AF,AF,042,"Make a visit
+",33,65,33,65,33,65,http://sverigesradio.se/sida/artikel.aspx?programid=2054&artikel=5746726,Afghanistan,Afghanistan,
+SY,SY,SY,043,"Host a visit
+",34.0862,36.6622,34.0862,36.6622,34.0862,36.6622,http://www.albawaba.com/news/syria-refugees-544513,"Jarajir, Rif Dimashq, Syria","Jarajir, Rif Dimashq, Syria","town,town,border,force,border,"
+SY,TU,TU,080,"Yield, not specified below 
+",35,38,36.2066,36.1572,36.2066,36.1572,http://www.albawaba.com/news/turkey-syria-544564,Syria,"Hatay, Hatay, Turkey","Syria,border,aid,"
+SY,TU,SY,080,"Yield, not specified below 
+",35,38,36.2066,36.1572,35,38,http://www.albawaba.com/news/turkey-syria-544564,Syria,"Hatay, Hatay, Turkey","Syria,border,aid,"
+IT,IT,IT,042,"Make a visit
+",35.5,12.6,35.5,12.6,35.5,12.6,http://www.aawsat.net/2014/01/article55326440,"Lampedusa, Italy (general), Italy","Lampedusa, Italy (general), Italy","established,"
+IT,SY,IT,042,"Make a visit
+",35.5,12.6,35,38,35.5,12.6,http://uk.reuters.com/article/2014/01/03/uk-italy-migrants-idUKBREA0209020140103?feedType=RSS&feedName=topNews,"Lampedusa, Italy (general), Italy",Syria,"coast,coast,"
+MT,MT,GR,042,"Make a visit
+",35.8333,14.5833,35.8333,14.5833,39,22,http://uk.reuters.com/article/2014/01/03/uk-italy-migrants-idUKBREA0209020140103?feedType=RSS&feedName=topNews,Malta,Malta,"coast,coast,"
+SY,SY,IT,042,"Make a visit
+",35,38,35,38,35.5,12.6,http://www.express.co.uk/news/uk/451808/UK-s-anti-immigration-media-is-driven-by-the-far-right-says-leading-Bulgarian-politician,Syria,Syria,"immigrants,immigrants,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.albawaba.com/news/syria-refugees-jordan-544708,Syria,Syria,"border,refugee,police,refugee,"
+BU,SY,SY,042,"Make a visit
+",41.9333,25.9,35,38,35,38,http://www.unhcr.org/52c691d59.html,"Harmanli, Khaskovo, Bulgaria",Syria,"agency,asylum,asylum,asylum,conflict,asylum,asylum,"
+BU,BU,BU,042,"Make a visit
+",42.6833,23.3167,42.6833,23.3167,42.6833,23.3167,http://www.novinite.com/view_news.php?id=156937,"Sofia, Sofiya-Grad, Bulgaria","Sofia, Sofiya-Grad, Bulgaria","asylum,agency,asylum,asylum,conflict,asylum,"
+BU,SY,SY,042,"Make a visit
+",43,25,35,38,35,38,http://www.timesofmalta.com/articles/view/20140103/world/unhcr-calls-for-halt-to-transfers-of-asylum-seekers-back-to-bulgaria-under-dublin-regulations.501254&c=jjhO5v81JKyLQqZVQQBzTubcNxukXnkIXOB1M-fOWDQ&mkt=en-us,Bulgaria,Syria,"agency,asylum,asylum,asylum,conflict,asylum,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.expatica.com/ch/news/local_news/un-warns-of-asylum-seeker-mistreatment-in-bulgaria_281987.html,Syria,Syria,"asylum,seekers,refugee,agency,asylum,Refugees,asylum,seekers,asylum,agency,asylum,seekers,conflict,border,asylum,asylum,seekers,"
+SY,SY,SY,080,"Yield, not specified below 
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.cfr.org/syria/syrias-children-suffer-world-just-shrugs/p32138,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","Syria,"
+SY,BU,SY,043,"Host a visit
+",35,38,41.9333,25.9,35,38,http://www.unhcr.org/52c691d59.html,Syria,"Harmanli, Khaskovo, Bulgaria","agency,asylum,asylum,asylum,conflict,asylum,asylum,"
+SY,BU,SY,043,"Host a visit
+",35,38,43,25,35,38,http://www.timesofmalta.com/articles/view/20140103/world/unhcr-calls-for-halt-to-transfers-of-asylum-seekers-back-to-bulgaria-under-dublin-regulations.501254&c=jjhO5v81JKyLQqZVQQBzTubcNxukXnkIXOB1M-fOWDQ&mkt=en-us,Syria,Bulgaria,"agency,asylum,asylum,asylum,conflict,asylum,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.expatica.com/ch/news/local_news/un-warns-of-asylum-seeker-mistreatment-in-bulgaria_281987.html,Syria,Syria,"asylum,seekers,refugee,agency,asylum,Refugees,asylum,seekers,asylum,agency,asylum,seekers,conflict,border,asylum,asylum,seekers,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.politics.co.uk/comment-analysis/2014/01/03/the-week-in-review-the-flood-that-never-came,Syria,Syria,"immigrants,recession,"
+SY,SY,SY,050,"Engage in diplomatic cooperation, not specified below
+",35.9306,36.6339,35.9306,36.6339,35.9306,36.6339,http://www.radioaustralia.net.au/international/2014-01-04/medecins-sans-frontieres-says-five-staff-members-taken-by-unknown-group-in-northern-syria/1242974,"Idlib, Idlib, Syria","Idlib, Idlib, Syria","Syria,humanitarian,Syria,Syria,Syria,aid,Syria,Syria,aid,aid,Syria,"
+IT,IT,IT,043,"Host a visit
+",35.5,12.6,35.5,12.6,35.5,12.6,http://www.aawsat.net/2014/01/article55326440,"Lampedusa, Italy (general), Italy","Lampedusa, Italy (general), Italy","established,"
+SY,IT,IT,043,"Host a visit
+",35,38,35.5,12.6,35.5,12.6,http://uk.reuters.com/article/2014/01/03/uk-italy-migrants-idUKBREA0209020140103?feedType=RSS&feedName=topNews,Syria,"Lampedusa, Italy (general), Italy","coast,coast,"
+SY,SY,IT,043,"Host a visit
+",35,38,35,38,35.5,12.6,http://www.express.co.uk/news/uk/451808/UK-s-anti-immigration-media-is-driven-by-the-far-right-says-leading-Bulgarian-politician,Syria,Syria,"immigrants,immigrants,"
+SY,BU,BU,073,"Provide humanitarian aid
+",35,38,43,25,43,25,http://www.libdemvoice.org/lord-roberts-writes-it-is-time-to-open-our-doors-to-some-of-the-most-vulnerable-people-in-the-world-37703.html,Syria,Bulgaria,"conflict,Syria,aid,arrive,help,Syria,asylum,refugee,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.politics.co.uk/comment-analysis/2014/01/03/the-week-in-review-the-flood-that-never-came,Syria,Syria,"immigrants,recession,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.albawaba.com/news/syria-refugees-jordan-544708,Syria,Syria,"border,refugee,police,refugee,"
+SY,TU,TU,042,"Make a visit
+",35,38,39,35,39,35,http://www.expatica.com/ch/news/local_news/un-warns-of-asylum-seeker-mistreatment-in-bulgaria_281987.html,Syria,Turkey,"asylum,seekers,refugee,agency,asylum,Refugees,asylum,seekers,asylum,agency,asylum,seekers,conflict,border,asylum,asylum,seekers,"
+TU,SY,TU,043,"Host a visit
+",39,35,35,38,39,35,http://www.expatica.com/ch/news/local_news/un-warns-of-asylum-seeker-mistreatment-in-bulgaria_281987.html,Turkey,Syria,"asylum,seekers,refugee,agency,asylum,Refugees,asylum,seekers,asylum,agency,asylum,seekers,conflict,border,asylum,asylum,seekers,"
+FI,SY,SY,010,"Make statement, not specified below
+",60.1756,24.9342,35,38,35,38,http://www.helsinkitimes.fi/finland/finland-news/domestic/8867-finland-receives-149-asylum-applications-from-syrians-sweden-16-300.html,"Helsinki, Eteläuomen Läi, Finland",Syria,"regional,"
+SY,FI,SY,010,"Make statement, not specified below
+",35,38,60.1756,24.9342,35,38,http://www.helsinkitimes.fi/finland/finland-news/domestic/8867-finland-receives-149-asylum-applications-from-syrians-sweden-16-300.html,Syria,"Helsinki, Eteläuomen Läi, Finland","regional,"
+FI,SW,SY,010,"Make statement, not specified below
+",60.1756,24.9342,62,15,35,38,http://www.helsinkitimes.fi/finland/finland-news/domestic/8867-finland-receives-149-asylum-applications-from-syrians-sweden-16-300.html,"Helsinki, Eteläuomen Läi, Finland",Sweden,"regional,"
+SY,FI,SW,010,"Make statement, not specified below
+",35,38,60.1756,24.9342,62,15,http://www.helsinkitimes.fi/finland/finland-news/domestic/8867-finland-receives-149-asylum-applications-from-syrians-sweden-16-300.html,Syria,"Helsinki, Eteläuomen Läi, Finland","regional,"
+SY,SY,IT,042,"Make a visit
+",35,38,35,38,35.5,12.6,http://www.ndtv.com/article/world/italian-navy-rescues-over-1000-migrants-from-boats-in-24-hours-466620,Syria,Syria,"coast,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.ndtv.com/article/world/italian-navy-rescues-over-1000-migrants-from-boats-in-24-hours-466620,Syria,Syria,"coast,"
+JO,SY,SY,043,"Host a visit
+",31.95,35.9333,35,38,35,38,http://www.english.globalarabnetwork.com/2014010413310/Economics/aid-easy-credit-and-investment-jordan-attracts-foreign-funds.html,"Amman, (JO11), Jordan",Syria,"funding,help,aid,"
+LE,LE,KU,046,"Engage in negotiation
+",33.8333,35.8333,33.8333,35.8333,29.3375,47.6581,http://www.zawya.com/story/QRC_discusses_medical_situation_of_Syrian_refugees-ZAWYA20140105040541/,Lebanon,Lebanon,"regional,Syria,help,donors,"
+SY,LE,KU,046,"Engage in negotiation
+",35,38,33.8333,35.8333,29.3375,47.6581,http://www.zawya.com/story/QRC_discusses_medical_situation_of_Syrian_refugees-ZAWYA20140105040541/,Syria,Lebanon,"regional,Syria,help,donors,"
+LY,SY,LY,040,"Consult, not specified below
+",32.8925,13.18,32.7359,35.7441,32.8925,13.18,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Tripoli, Tarabulus, Libya","Wadi Khaled, Al Qunaytirah, Syria","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,SY,SY,042,"Make a visit
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.educationsansfrontieres.org/article48557.html,Syria,Syria,"refugee,agency,agency,asylum,asylum,asylum,conflict,asylum,agency,asylum,"
+SY,SY,SY,043,"Host a visit
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.educationsansfrontieres.org/article48557.html,Syria,Syria,"refugee,agency,agency,asylum,asylum,asylum,conflict,asylum,agency,asylum,"
+SY,SY,SY,020,"Appeal, not specified below
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+LE,LE,LE,020,"Appeal, not specified below
+",34.5428,36.0797,34.5428,36.0797,34.5428,36.0797,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Halba, AakkâLE, Lebanon","Halba, AakkâLE, Lebanon","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,SY,SY,050,"Engage in diplomatic cooperation, not specified below
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,http://www.aina.org/news/20140104035312.htm,"Latakia, Al Ladhiqiyah, Syria","Latakia, Al Ladhiqiyah, Syria","humanitarian,Syria,Syria,Syria,Syria,Syria,aid,Syria,"
+LE,LE,LE,070,"Provide aid, not specified below
+",33.8719,35.5097,33.8719,35.5097,33.8719,35.5097,http://www.zawya.com/story/RCA_continues_providing_aid_to_Syrian_refugees_in_Lebanon-WAM20140104081022827/,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon","aid,"
+IS,SY,IS,190,"Use conventional military force, not specified below
+",31.5,34.75,35,38,31.5,34.75,http://weekly.ahram.org.eg/News/5033/21/The-new-regional-interference.aspx,Israel,Syria,"elections,occasions,regional,attacks,Syria,regional,regional,"
+SY,SY,IT,043,"Host a visit
+",35,38,35,38,35.5,12.6,http://www.ndtv.com/article/world/italian-navy-rescues-over-1000-migrants-from-boats-in-24-hours-466620,Syria,Syria,"coast,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.ndtv.com/article/world/italian-navy-rescues-over-1000-migrants-from-boats-in-24-hours-466620,Syria,Syria,"coast,"
+SY,JO,SY,042,"Make a visit
+",35,38,31.95,35.9333,35,38,http://www.english.globalarabnetwork.com/2014010413310/Economics/aid-easy-credit-and-investment-jordan-attracts-foreign-funds.html,Syria,"Amman, (JO11), Jordan","funding,help,aid,"
+LE,LE,LE,020,"Appeal, not specified below
+",34.5428,36.0797,34.5428,36.0797,34.5428,36.0797,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Halba, AakkâLE, Lebanon","Halba, AakkâLE, Lebanon","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,LE,SY,046,"Engage in negotiation
+",35,38,33.8333,35.8333,35,38,http://www.zawya.com/story/QRC_discusses_medical_situation_of_Syrian_refugees-ZAWYA20140105040541/,Syria,Lebanon,"regional,Syria,help,donors,"
+LE,LE,LE,070,"Provide aid, not specified below
+",33.8719,35.5097,33.8719,35.5097,33.8719,35.5097,http://www.zawya.com/story/RCA_continues_providing_aid_to_Syrian_refugees_in_Lebanon-WAM20140104081022827/,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon","aid,"
+SY,LY,LY,040,"Consult, not specified below
+",32.7359,35.7441,32.8925,13.18,32.8925,13.18,http://www.zawya.com/story/League_seeks_to_represent_Syrian_refugees_in_north_Lebanon-DS04012014_dsart*243073/,"Wadi Khaled, Al Qunaytirah, Syria","Tripoli, Tarabulus, Libya","humanitarian,aid,aid,refugee,Refugees,aid,others,established,humanitarian,others,aid,others,aid,others,help,refugee,"
+SY,TU,SY,042,"Make a visit
+",36.4402,37.4751,39.9272,32.8644,36.4402,37.4751,http://gulfnews.com/opinions/columnists/car-bombs-can-t-replace-regional-diplomacy-1.1273762,"Hadath, ?alab, Syria","Ankara, Ankara, Turkey","regional,injuring,injuring,conflict,Syria,regional,conflict,conflict,regional,conflict,regional,activities,regional,Syria,others,regional,established,suffering,"
+TU,SY,SY,043,"Host a visit
+",39.9272,32.8644,36.4402,37.4751,36.4402,37.4751,http://gulfnews.com/opinions/columnists/car-bombs-can-t-replace-regional-diplomacy-1.1273762,"Ankara, Ankara, Turkey","Hadath, ?alab, Syria","regional,injuring,injuring,conflict,Syria,regional,conflict,conflict,regional,conflict,regional,activities,regional,Syria,others,regional,established,suffering,"
+SY,KU,KU,051,"Praise or endorse
+",35,38,29.3375,47.6581,29.3375,47.6581,http://reliefweb.int/report/syrian-arab-republic/uk-provides-essential-healthcare-syrian-refugees,Syria,Kuwait,"aid,suffering,conflict,funding,help,help,humanitarian,Syria,help,help,humanitarian,Syria,Syria,aid,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353829&language=en,Syria,Syria,"humanitarian,aid,"
+IS,SY,SY,043,"Host a visit
+",31.4167,34.3333,35,38,35,38,http://www.imemc.org/article/66684,"Gaza City, Israel (general), Israel",Syria,"Syria,activities,conflict,Syria,"
+LE,SY,SY,010,"Make statement, not specified below
+",33.8719,35.5097,33.5,36.3,33.5,36.3,http://www.ipsnews.net/2014/01/best-wishes-less-destitute-new-year/,"Beirut, Beyrouth, Lebanon","Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,Syria,Syria,Syria,help,"
+SY,SY,SY,010,"Make statement, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.ipsnews.net/2014/01/best-wishes-less-destitute-new-year/,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,Syria,Syria,Syria,help,"
+BU,BU,BU,042,"Make a visit
+",42.6833,23.3167,42.6833,23.3167,42.6833,23.3167,http://www.novinite.com/articles/156937/UNHCR:+Halt+Transfers+of+Asylum-Seekers+Back+to+Bulgaria,"Sofia, Sofiya-Grad, Bulgaria","Sofia, Sofiya-Grad, Bulgaria","asylum,agency,asylum,asylum,conflict,asylum,"
+SY,SY,SY,073,"Provide humanitarian aid
+",35,38,35,38,35,38,http://en.ammonnews.net/article.aspx?articleno=23928,Syria,Syria,"refugee,refugee,refugee,"
+SY,IS,SY,042,"Make a visit
+",35,38,31.4167,34.3333,35,38,http://www.imemc.org/article/66684,Syria,"Gaza City, Israel (general), Israel","Syria,activities,conflict,Syria,"
+SY,BU,SY,043,"Host a visit
+",35,38,42.6833,23.3167,35,38,http://www.novinite.com/articles/156937/UNHCR:+Halt+Transfers+of+Asylum-Seekers+Back+to+Bulgaria,Syria,"Sofia, Sofiya-Grad, Bulgaria","asylum,agency,asylum,asylum,conflict,asylum,"
+SY,SY,JO,043,"Host a visit
+",35,38,35,38,31.95,35.9333,http://www.bna.bh/portal/en/news/596124,Syria,Syria,"regional,conflict,"
+JO,SY,JO,100,"Demand, not specified below
+",31.95,35.9333,35,38,31.95,35.9333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353750&language=en,"Amman, (JO11), Jordan",Syria,"conflict,suffering,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353829&language=en,Syria,Syria,"humanitarian,aid,"
+JO,JO,JO,051,"Praise or endorse
+",31.95,35.9333,31.95,35.9333,31.95,35.9333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353829&language=en,"Amman, (JO11), Jordan","Amman, (JO11), Jordan","humanitarian,aid,"
+JO,SY,SY,051,"Praise or endorse
+",31.95,35.9333,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353829&language=en,"Amman, (JO11), Jordan",Syria,"humanitarian,aid,"
+SY,JO,JO,111,"Criticize or denounce 
+",35,38,31.95,35.9333,31.95,35.9333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353750&language=en,Syria,"Amman, (JO11), Jordan","conflict,suffering,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2353750&language=en,Syria,Syria,"conflict,suffering,"
+SY,SY,JO,042,"Make a visit
+",35,38,35,38,31.95,35.9333,http://www.bna.bh/portal/en/news/596124,Syria,Syria,"regional,conflict,"
+SY,SY,IT,042,"Make a visit
+",35,38,35,38,35.5,12.6,http://brussels.cta.int/index.php?option=com_k2&id=8116:italian-navy-rescues-over-1000-migrants-in-24-hours&view=item&Itemid=54,Syria,Syria,"immigrants,agency,coast,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://brussels.cta.int/index.php?option=com_k2&id=8116:italian-navy-rescues-over-1000-migrants-in-24-hours&view=item&Itemid=54,Syria,Syria,"immigrants,agency,coast,"
+SY,SY,SY,071,"Provide economic aid
+",35,38,35,38,35,38,http://www.natomasbuzz.com/2014/01/natomas-cares-np3-raises-money-for-syria-refugees/,Syria,Syria,"Syria,"
+UK,SY,SY,075,"Grant asylum
+",53.4,-2.15,35,38,35,38,http://www.theguardian.com/world/2014/jan/06/civilised-britain-open-borders-syrians,"Stockport, Stockport, United Kingdom",Syria,"Syria,asylum,asylum,Syria,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.zawya.com/story/King_meets_Kerry_over_peace_plan-ZAWYA20140106045418/,Syria,Syria,
+LE,SY,LE,100,"Demand, not specified below
+",33.8339,35.5442,35,38,33.8339,35.5442,http://www.almanar.com.lb/english/adetails.php?eid=128819&cid=23&fromval=1,"Baabda, Mont-Liban, Lebanon",Syria,"refugee,"
+SY,SY,SY,042,"Make a visit
+",36.2028,37.1586,35.4406,36.65,36.2028,37.1586,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Aleppo, ?alab, Syria","Khan Shaykhun, Idlib, Syria","help,humanitarian,"
+SY,SY,SY,042,"Make a visit
+",35.4406,36.65,35.4406,36.65,35.4406,36.65,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Khan Shaykhun, Idlib, Syria","Khan Shaykhun, Idlib, Syria","help,humanitarian,"
+SY,SY,SY,046,"Engage in negotiation
+",36.2028,37.1586,35.4406,36.65,35.4406,36.65,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Aleppo, ?alab, Syria","Khan Shaykhun, Idlib, Syria","help,humanitarian,"
+SY,SY,SY,046,"Engage in negotiation
+",35.4406,36.65,35.4406,36.65,35.4406,36.65,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Khan Shaykhun, Idlib, Syria","Khan Shaykhun, Idlib, Syria","help,humanitarian,"
+IS,SY,TU,112,"Accuse, not specified below
+",31.5,34.75,33.5,36.3,39,35,http://english.farsnews.com/newstext.aspx?nn=13921016000324,Israel,"Damascus, Dimashq, Syria","border,Syria,town,others,refugee,refugee,town,"
+LE,SY,SY,010,"Make statement, not specified below
+",33.8719,35.5097,33.5,36.3,33.5,36.3,http://reliefweb.int/report/lebanon/best-wishes-less-destitute-new-year,"Beirut, Beyrouth, Lebanon","Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,Syria,Syria,Syria,help,"
+SY,SY,SY,010,"Make statement, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://reliefweb.int/report/lebanon/best-wishes-less-destitute-new-year,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,Syria,Syria,Syria,help,"
+IS,SY,TU,112,"Accuse, not specified below
+",31.5,34.75,33.5,36.3,39,35,http://english.farsnews.com/newstext.aspx?nn=13921016000324,Israel,"Damascus, Dimashq, Syria","border,Syria,town,others,refugee,refugee,town,"
+SY,SY,SY,046,"Engage in negotiation
+",35.4406,36.65,36.2028,37.1586,35.4406,36.65,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Khan Shaykhun, Idlib, Syria","Aleppo, ?alab, Syria","help,humanitarian,"
+SY,SY,SY,046,"Engage in negotiation
+",35.4406,36.65,35.4406,36.65,35.4406,36.65,http://reliefweb.int/report/syrian-arab-republic/unhcr-syria-update-issue-19-december-2013,"Khan Shaykhun, Idlib, Syria","Khan Shaykhun, Idlib, Syria","help,humanitarian,"
+SY,SY,SY,012,"Make pessimistic comment
+",35,38,35,38,35,38,http://reliefweb.int/report/syrian-arab-republic/press-conference-security-council-president-work-programme-january,Syria,Syria,"conflict,condemn,refugee,refugee,conflict,"
+CQ,CQ,CQ,075,"Grant asylum
+",19.4355,144.888,19.4355,144.888,19.4355,144.888,http://www.oxfordmail.co.uk/news/10915199.COMMENT__We_must_offer_safety_to_the_Syrian_refugees/,Northern Mariana Islands,Northern Mariana Islands,"worse,Syria,conflict,aid,asylum,Refugees,humanitarian,asylum,help,terrible,suffering,"
+SY,SY,IT,043,"Host a visit
+",35,38,35,38,35.5,12.6,http://brussels.cta.int/index.php?option=com_k2&id=8116:italian-navy-rescues-over-1000-migrants-in-24-hours&view=item&Itemid=54,Syria,Syria,"immigrants,agency,coast,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://brussels.cta.int/index.php?option=com_k2&id=8116:italian-navy-rescues-over-1000-migrants-in-24-hours&view=item&Itemid=54,Syria,Syria,"immigrants,agency,coast,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.zawya.com/story/King_meets_Kerry_over_peace_plan-ZAWYA20140106045418/,Syria,Syria,
+SY,SY,SY,010,"Make statement, not specified below
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52caab976.html,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","suffering,refugee,conflict,Syria,conflict,Syria,Syria,"
+LE,SY,SY,192,"Occupy territory
+",33.8333,36,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52caab976.html,"Bekaa Valley, Béa, Lebanon","Aleppo, ?alab, Syria","suffering,refugee,conflict,Syria,conflict,Syria,Syria,"
+TU,SY,SY,192,"Occupy territory
+",39,35,36.2028,37.1586,36.2028,37.1586,http://www.unhcr.org/52caab976.html,Turkey,"Aleppo, ?alab, Syria","suffering,refugee,conflict,Syria,conflict,Syria,Syria,"
+TU,SY,TU,192,"Occupy territory
+",39,35,36.2028,37.1586,39,35,http://www.unhcr.org/52caab976.html,Turkey,"Aleppo, ?alab, Syria","suffering,refugee,conflict,Syria,conflict,Syria,Syria,"
+SY,SY,SY,111,"Criticize or denounce 
+",35,38,35,38,35,38,http://www.theguardian.com/politics/2014/jan/07/ukip-immigration-policy-nigel-farage-migrants-ban,Syria,Syria,"established,immigrants,asylum,seekers,asylum,seekers,asylum,asylum,asylum,seekers,Syria,asylum,asylum,"
+UK,SY,SY,010,"Make statement, not specified below
+",54,-2,35,38,35,38,http://www.bbc.co.uk/news/uk-politics-25645773,United Kingdom,Syria,"asylum,seekers,asylum,seekers,asylum,asylum,seekers,refugee,conflict,help,help,Syria,asylum,asylum,seekers,Syria,asylum,terrible,humanitarian,"
+IS,IS,IS,075,"Grant asylum
+",31.7667,35.2333,31.7667,35.2333,31.7667,35.2333,http://www.jpost.com/Breaking-News/Britain-UK-has-granted-asylum-to-1500-Syrian-refugees-337388,"Jerusalem, Israel (general), Israel","Jerusalem, Israel (general), Israel","asylum,asylum,aid,others,"
+UK,SY,SY,120,"Reject, not specified below
+",54,-2,35,38,35,38,http://www.thetimes.co.uk/tto/news/politics/article3968350.ece,United Kingdom,Syria,"asylum,seekers,Syria,help,asylum,"
+IT,IT,IT,020,"Appeal, not specified below
+",45.4667,9.2,45.4667,9.2,45.4667,9.2,http://www.unhcr.org/52cba9099.html,"Milan, Lombardia, Italy","Milan, Lombardia, Italy","aid,Syria,billion,humanitarian,aid,Syria,billion,established,Syria,funding,"
+SY,IT,SY,020,"Appeal, not specified below
+",33.8,36.4333,45.4667,9.2,33.8,36.4333,http://www.unhcr.org/52cba9099.html,"Qalamoun, Rif Dimashq, Syria","Milan, Lombardia, Italy","aid,Syria,billion,humanitarian,aid,Syria,billion,established,Syria,funding,"
+IZ,SY,IZ,020,"Appeal, not specified below
+",33.3386,44.3939,35,38,34,45,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,"Baghdad, Baghdad, Iraq",Syria,"refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+IZ,SY,SY,020,"Appeal, not specified below
+",34,45,35,38,35,38,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,"Diyala, DiyaláZ, Iraq",Syria,"refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.unmultimedia.org/radio/english/2014/01/syrians-stream-into-iraq-to-buy-supplies-following-reopening-of-border/,Syria,Syria,"refugee,agency,aid,border,Syria,"
+IZ,SY,IZ,043,"Host a visit
+",33.3667,43.7167,34.1527,36.7415,33.3667,43.7167,http://www.unhcr.org/52cbf3a39.html,"Anbar, Al Anbar, Iraq","Qarah, Rif Dimashq, Syria","border,Syria,Syria,Syria,Syria,refugee,refugee,"
+IZ,IZ,IZ,043,"Host a visit
+",33.3667,43.7167,33.3667,43.7167,33.3667,43.7167,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,"Anbar, Al Anbar, Iraq","Anbar, Al Anbar, Iraq","refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+IZ,SY,IZ,043,"Host a visit
+",33.3667,43.7167,35,38,33.3667,43.7167,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,"Anbar, Al Anbar, Iraq",Syria,"refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+IZ,IZ,IZ,043,"Host a visit
+",34,45,34,45,34,45,http://www.aa.com.tr/en/news/271742--thousands-of-syrians-stopped-at-iraqi-kurdistan-border,"Diyala, DiyaláZ, Iraq","Diyala, DiyaláZ, Iraq","border,border,Syria,Syria,refugee,"
+IZ,IZ,IZ,073,"Provide humanitarian aid
+",33.3386,44.3939,33.3386,44.3939,33.3386,44.3939,http://www.ekurd.net/mismas/articles/misc2014/1/syriakurd1002.htm,"Baghdad, Baghdad, Iraq","Baghdad, Baghdad, Iraq","arrive,border,"
+JO,JO,JO,020,"Appeal, not specified below
+",31,36,31,36,31,36,http://www.worldbulletin.net/?aType=haber&ArticleID=126398&c=E3XwDL5twr2sQVvAl_tPmZHiXXTC4j4OaCcCeoOOOis&mkt=en-us,Jordan,Jordan,"Syria,refugee,conflict,"
+LE,SY,LE,043,"Host a visit
+",33.8719,35.5097,35,38,33.8719,35.5097,http://news.xinhuanet.com/english/world/2014-01/08/c_133026269.htm,"Beirut, Beyrouth, Lebanon",Syria,"occasions,"
+LE,LE,LE,043,"Host a visit
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,http://www.worldbulletin.net/?aType=haber&ArticleID=126417,Lebanon,Lebanon,"conflict,"
+SY,SY,LE,043,"Host a visit
+",35,38,35,38,33.8719,35.5097,http://news.xinhuanet.com/english/world/2014-01/08/c_133026269.htm,Syria,Syria,"occasions,"
+SY,SY,LE,043,"Host a visit
+",35,38,35,38,33.8333,35.8333,http://english.cri.cn/6966/2014/01/08/2702s807035.htm,Syria,Syria,"occasions,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.patheos.com/blogs/catholicnews/2014/01/lebanese-bishop-appeals-for-christian-syrian-refugees/,Syria,Syria,"Syria,flee,help,agency,help,"
+UK,SY,UK,075,"Grant asylum
+",51.5,-0.116667,35,38,51.5,-0.116667,http://www.news24.com/World/News/Britain-accepts-1-500-Syrian-refugees-20140107,"London, London, City of, United Kingdom",Syria,"asylum,conflict,refugee,aid,help,asylum,asylum,asylum,seekers,asylum,asylum,aid,aid,help,"
+UK,SY,SY,075,"Grant asylum
+",51.5,-0.116667,35,38,35,38,http://www.news24.com/World/News/Britain-accepts-1-500-Syrian-refugees-20140107,"London, London, City of, United Kingdom",Syria,"asylum,conflict,refugee,aid,help,asylum,asylum,asylum,seekers,asylum,asylum,aid,aid,help,"
+SY,RO,UK,013,"Make optimistic comment
+",35,38,46,25,54,-2,http://www.ibtimes.co.uk/nick-clegg-reveals-1500-syrians-granted-asylum-britain-past-year-1431371,Syria,Romania,"asylum,seekers,Syria,asylum,seekers,Syria,asylum,Syria,aid,terrible,humanitarian,humanitarian,aid,humanitarian,asylum,"
+SY,UK,SY,013,"Make optimistic comment
+",35,38,54,-2,35,38,http://www.ibtimes.co.uk/nick-clegg-reveals-1500-syrians-granted-asylum-britain-past-year-1431371,Syria,United Kingdom,"asylum,seekers,Syria,asylum,seekers,Syria,asylum,Syria,aid,terrible,humanitarian,humanitarian,aid,humanitarian,asylum,"
+LE,SY,SY,190,"Use conventional military force, not specified below
+",34.1794,36.4208,35,38,35,38,http://www.state.gov/j/prm/releases/remarks/2014/219388.htm,"Arsal, Mohafazat Baalbek-Hermel, Lebanon",Syria,"Syria,refugee,conflict,Syria,Syria,conflict,refugee,town,Syria,billion,billion,billion,refugee,Syria,flee,Refugees,humanitarian,refugee,refugee,Refugees,humanitarian,Syria,billion,Refugees,others,Syria,asylum,others,aid,help,humanitarian,help,Refugees,Syria,help,help,billion,help,Syria,humanitarian,help,funding,billion,humanitarian,Syria,humanitarian,help,donors,refugee,donors,refugee,refugee,refugee,refugee,refugee,Refugees,refugee,agency,refugee,funding,help,funding,funding,refugee,refugee,refugee,others,refugee,refugee,Syria,humanitarian,activities,help,Syria,others,border,help,refugee,help,Syria,refugee,activities,"
+SY,SY,SY,013,"Make optimistic comment
+",35,38,35,38,35,38,http://www.state.gov/j/prm/releases/remarks/2014/219388.htm,Syria,Syria,"Syria,refugee,conflict,Syria,Syria,conflict,refugee,town,Syria,billion,billion,billion,refugee,Syria,flee,Refugees,humanitarian,refugee,refugee,Refugees,humanitarian,Syria,billion,Refugees,others,Syria,asylum,others,aid,help,humanitarian,help,Refugees,Syria,help,help,billion,help,Syria,humanitarian,help,funding,billion,humanitarian,Syria,humanitarian,help,donors,refugee,donors,refugee,refugee,refugee,refugee,refugee,Refugees,refugee,agency,refugee,funding,help,funding,funding,refugee,refugee,refugee,others,refugee,refugee,Syria,humanitarian,activities,help,Syria,others,border,help,refugee,help,Syria,refugee,activities,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.unmultimedia.org/radio/english/2014/01/syrians-stream-into-iraq-to-buy-supplies-following-reopening-of-border/,Syria,Syria,"refugee,agency,aid,border,Syria,"
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,Syria,Syria,"refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+SY,SY,SY,030,"Express intent to cooperate, not specified below
+",35,38,35,38,35,38,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,Syria,Syria,"refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+SY,SY,SY,051,"Praise or endorse
+",35,38,35,38,35,38,http://www.ibtimes.co.uk/nick-clegg-reveals-1500-syrians-granted-asylum-britain-past-year-1431371,Syria,Syria,"asylum,seekers,Syria,asylum,seekers,Syria,asylum,Syria,aid,terrible,humanitarian,humanitarian,aid,humanitarian,asylum,"
+IT,SY,SY,075,"Grant asylum
+",45.4667,9.2,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52cba9099.html,"Milan, Lombardia, Italy","Qalamoun, Rif Dimashq, Syria","aid,Syria,billion,humanitarian,aid,Syria,billion,established,Syria,funding,"
+SY,IT,IT,075,"Grant asylum
+",33.8,36.4333,45.4667,9.2,45.4667,9.2,http://www.unhcr.org/52cba9099.html,"Qalamoun, Rif Dimashq, Syria","Milan, Lombardia, Italy","aid,Syria,billion,humanitarian,aid,Syria,billion,established,Syria,funding,"
+SY,SY,SY,080,"Yield, not specified below 
+",35,38,35,38,35,38,http://www.patheos.com/blogs/catholicnews/2014/01/lebanese-bishop-appeals-for-christian-syrian-refugees/,Syria,Syria,"Syria,flee,help,agency,help,"
+SY,LE,SY,190,"Use conventional military force, not specified below
+",35,38,34.1794,36.4208,35,38,http://www.state.gov/j/prm/releases/remarks/2014/219388.htm,Syria,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Syria,refugee,conflict,Syria,Syria,conflict,refugee,town,Syria,billion,billion,billion,refugee,Syria,flee,Refugees,humanitarian,refugee,refugee,Refugees,humanitarian,Syria,billion,Refugees,others,Syria,asylum,others,aid,help,humanitarian,help,Refugees,Syria,help,help,billion,help,Syria,humanitarian,help,funding,billion,humanitarian,Syria,humanitarian,help,donors,refugee,donors,refugee,refugee,refugee,refugee,refugee,Refugees,refugee,agency,refugee,funding,help,funding,funding,refugee,refugee,refugee,others,refugee,refugee,Syria,humanitarian,activities,help,Syria,others,border,help,refugee,help,Syria,refugee,activities,"
+SY,SY,JO,036,"Express intent to meet or negotiate
+",35,38,35,38,31,36,http://www.jpost.com/Middle-East/Jordan-takes-helm-of-UN-Security-Council-amid-questions-of-reform-Syria-337424,Syria,Syria,"Syria,conflict,Syria,force,humanitarian,conflict,others,"
+SY,SY,SY,036,"Express intent to meet or negotiate
+",35,38,35,38,35,38,http://www.jpost.com/Middle-East/Jordan-takes-helm-of-UN-Security-Council-amid-questions-of-reform-Syria-337424,Syria,Syria,"Syria,conflict,Syria,force,humanitarian,conflict,others,"
+SY,SY,UK,075,"Grant asylum
+",35,38,35,38,51.5,-0.116667,http://www.news24.com/World/News/Britain-accepts-1-500-Syrian-refugees-20140107,Syria,Syria,"asylum,conflict,refugee,aid,help,asylum,asylum,asylum,seekers,asylum,asylum,aid,aid,help,"
+SY,SY,SY,075,"Grant asylum
+",35,38,35,38,35,38,http://www.news24.com/World/News/Britain-accepts-1-500-Syrian-refugees-20140107,Syria,Syria,"asylum,conflict,refugee,aid,help,asylum,asylum,asylum,seekers,asylum,asylum,aid,aid,help,"
+SY,SY,SY,1043,"Demand rights
+",35,38,35,38,35,38,http://reliefweb.int/report/jordan/cash-assistance-gets-older-syrians-back-their-feet,Syria,Syria,"conflict,refugee,suffering,freedom,"
+SY,SY,SY,120,"Reject, not specified below
+",35,38,35,38,35,38,http://www.bbc.co.uk/news/uk-politics-25645773,Syria,Syria,"asylum,seekers,asylum,seekers,asylum,asylum,seekers,refugee,conflict,help,help,Syria,asylum,asylum,seekers,Syria,asylum,terrible,humanitarian,"
+SY,US,SY,0233,"Appeal for humanitarian aid
+",35,38,38,-97,35,38,http://www.voanews.com/content/us-aid-syrian-refugees-examined-criticized-lawmakers/1825490.html,Syria,United States,"refugee,aid,humanitarian,refugee,humanitarian,aid,help,humanitarian,aid,Syria,humanitarian,refugee,Syria,regional,humanitarian,"
+SY,SY,SY,013,"Make optimistic comment
+",35,38,35,38,35,38,http://www.state.gov/j/prm/releases/remarks/2014/219388.htm,Syria,Syria,"Syria,refugee,conflict,Syria,Syria,conflict,refugee,town,Syria,billion,billion,billion,refugee,Syria,flee,Refugees,humanitarian,refugee,refugee,Refugees,humanitarian,Syria,billion,Refugees,others,Syria,asylum,others,aid,help,humanitarian,help,Refugees,Syria,help,help,billion,help,Syria,humanitarian,help,funding,billion,humanitarian,Syria,humanitarian,help,donors,refugee,donors,refugee,refugee,refugee,refugee,refugee,Refugees,refugee,agency,refugee,funding,help,funding,funding,refugee,refugee,refugee,others,refugee,refugee,Syria,humanitarian,activities,help,Syria,others,border,help,refugee,help,Syria,refugee,activities,"
+SY,IZ,IZ,042,"Make a visit
+",34.1527,36.7415,33.3667,43.7167,33.3667,43.7167,http://www.unhcr.org/52cbf3a39.html,"Qarah, Rif Dimashq, Syria","Anbar, Al Anbar, Iraq","border,Syria,Syria,Syria,Syria,refugee,refugee,"
+IZ,IZ,IZ,042,"Make a visit
+",33.3667,43.7167,33.3667,43.7167,33.3667,43.7167,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,"Anbar, Al Anbar, Iraq","Anbar, Al Anbar, Iraq","refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+SY,IZ,IZ,042,"Make a visit
+",35,38,33.3667,43.7167,33.3667,43.7167,http://www.voanews.com/content/syrian-refugees-flee-to-iraq-by-barge-/1825005.html,Syria,"Anbar, Al Anbar, Iraq","refugee,agency,border,Syria,Syria,refugee,agency,flee,agency,Syria,asylum,refugee,agency,refugee,help,flee,billion,humanitarian,aid,"
+SY,IZ,IZ,042,"Make a visit
+",35,38,33.3386,44.3939,33.3386,44.3939,http://www.aa.com.tr/en/news/271742--thousands-of-syrians-stopped-at-iraqi-kurdistan-border,Syria,"Baghdad, Baghdad, Iraq","border,border,Syria,Syria,refugee,"
+SY,LE,LE,042,"Make a visit
+",35,38,33.8719,35.5097,33.8719,35.5097,http://news.xinhuanet.com/english/world/2014-01/08/c_133026269.htm,Syria,"Beirut, Beyrouth, Lebanon","occasions,"
+SY,SY,LE,042,"Make a visit
+",35,38,35,38,33.8719,35.5097,http://news.xinhuanet.com/english/world/2014-01/08/c_133026269.htm,Syria,Syria,"occasions,"
+SY,SY,LE,042,"Make a visit
+",35,38,35,38,33.8333,35.8333,http://english.cri.cn/6966/2014/01/08/2702s807035.htm,Syria,Syria,"occasions,"
+LE,GM,GM,075,"Grant asylum
+",33.8719,35.5097,52.4,7.98333,52.4,7.98333,http://reliefweb.int/report/lebanon/syrian-refugees-leave-beirut-temporary-resettlement-germany,"Beirut, Beyrouth, Lebanon","Bramsche, Niedersachsen, Germany","conflict,humanitarian,help,billion,humanitarian,"
+LE,LE,GM,075,"Grant asylum
+",33.8719,35.5097,33.8719,35.5097,52.4,7.98333,http://reliefweb.int/report/lebanon/syrian-refugees-leave-beirut-temporary-resettlement-germany,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon","conflict,humanitarian,help,billion,humanitarian,"
+SY,SY,SY,080,"Yield, not specified below 
+",35,38,35,38,35,38,http://www.bbc.co.uk/news/uk-politics-25645773,Syria,Syria,"asylum,seekers,asylum,seekers,asylum,asylum,seekers,refugee,conflict,help,help,Syria,asylum,asylum,seekers,Syria,asylum,terrible,humanitarian,"
+US,SY,SY,060,"Engage in material cooperation, not specified below
+",38.8951,-77.0364,33.5,36.3,33.5,36.3,http://www.reuters.com/article/2014/01/07/us-syria-crisis-usa-idUSBREA061D520140107,"Washington, District of Columbia, United States","Damascus, Dimashq, Syria","donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+SY,SY,SY,070,"Provide aid, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.dnaindia.com/world/report-us-senators-push-to-admit-more-syrian-refugees-1947066,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+US,SY,US,070,"Provide aid, not specified below
+",38.8951,-77.0364,33.5,36.3,38.8951,-77.0364,http://www.reuters.com/article/2014/01/07/us-syria-crisis-usa-idUSBREA061D520140107,"Washington, District of Columbia, United States","Damascus, Dimashq, Syria","donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+SY,SY,SY,075,"Grant asylum
+",35,38,35,38,35,38,"http://www.ynetnews.com/articles/0,7340,L-4474351,00.html",Syria,Syria,"aid,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.albawaba.com/business/jordan-water-545798,Syria,Syria,"refugee,infrastructure,aid,"
+JO,JO,JO,010,"Make statement, not specified below
+",31.8333,36.8333,31.8333,36.8333,31.8333,36.8333,http://www.albawaba.com/business/jordan-water-545798,"Zarqa Governorate, Az Zarqa, Jordan","Zarqa Governorate, Az Zarqa, Jordan","refugee,infrastructure,aid,"
+IS,SY,IS,080,"Yield, not specified below 
+",32.9656,35.5005,33.5,36.3,32.9656,35.5005,http://www.globaltimes.cn/content/836440.shtml,"Safad, Ha?afon, Israel","Damascus, Dimashq, Syria","worse,Syria,suffering,worse,Syria,force,conflict,Syria,"
+JO,SY,SY,042,"Make a visit
+",31,36,35,38,35,38,http://reliefweb.int/report/jordan/joint-assessment-review-syrian-refugee-response-jordan,Jordan,Syria,"Syria,refugee,"
+SY,SY,SY,043,"Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-09/243527-palestinians-fear-war-with-hezbollah.ashx,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","worse,"
+LE,SY,LE,043,"Host a visit
+",33.2422,35.2142,33.5,36.3,33.2422,35.2142,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-09/243527-palestinians-fear-war-with-hezbollah.ashx,"Rashidieh, Liban-Sud, Lebanon","Damascus, Dimashq, Syria","worse,"
+LE,LE,LE,043,"Host a visit
+",33.2422,35.2142,33.2422,35.2142,33.2422,35.2142,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-09/243527-palestinians-fear-war-with-hezbollah.ashx,"Rashidieh, Liban-Sud, Lebanon","Rashidieh, Liban-Sud, Lebanon","worse,"
+IS,SY,IS,080,"Yield, not specified below 
+",32.9656,35.5005,33.5,36.3,32.9656,35.5005,http://www.globaltimes.cn/content/836440.shtml,"Safad, Ha?afon, Israel","Damascus, Dimashq, Syria","worse,Syria,suffering,worse,Syria,force,conflict,Syria,"
+JO,SY,JO,042,"Make a visit
+",31.8333,36.8333,35,38,31.8333,36.8333,http://www.albawaba.com/business/jordan-water-545798,"Zarqa Governorate, Az Zarqa, Jordan",Syria,"refugee,infrastructure,aid,"
+SY,SY,SY,043,"Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-09/243526-un-aided-380000-victims-of-gender-violence.ashx,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","help,Syria,humanitarian,Syria,agency,"
+JO,SY,JO,042,"Make a visit
+",31.8333,36.8333,35,38,31.8333,36.8333,http://www.albawaba.com/business/jordan-water-545798,"Zarqa Governorate, Az Zarqa, Jordan",Syria,"refugee,infrastructure,aid,"
+SY,IS,IS,051,"Praise or endorse
+",33.5,36.3,31.5,34.75,31.5,34.75,http://electronicintifada.net/content/lebanon-charges-punitive-registration-fees-palestinians-fleeing-syria-war/13065,"Damascus, Dimashq, Syria",Israel,"refugee,Syria,chaos,Syria,Refugees,Syria,Syria,Syria,refugee,Syria,agency,help,humanitarian,Syria,"
+SY,LE,LE,042,"Make a visit
+",33.5,36.3,33.2422,35.2142,33.2422,35.2142,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-09/243527-palestinians-fear-war-with-hezbollah.ashx,"Damascus, Dimashq, Syria","Rashidieh, Liban-Sud, Lebanon","worse,"
+LE,LE,LE,042,"Make a visit
+",33.2422,35.2142,33.2422,35.2142,33.2422,35.2142,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-09/243527-palestinians-fear-war-with-hezbollah.ashx,"Rashidieh, Liban-Sud, Lebanon","Rashidieh, Liban-Sud, Lebanon","worse,"
+SY,IS,IS,051,"Praise or endorse
+",33.5,36.3,31.5,34.75,31.5,34.75,http://electronicintifada.net/content/lebanon-charges-punitive-registration-fees-palestinians-fleeing-syria-war/13065,"Damascus, Dimashq, Syria",Israel,"refugee,Syria,chaos,Syria,Refugees,Syria,Syria,Syria,refugee,Syria,agency,help,humanitarian,Syria,"
+SY,SY,SY,190,"Use conventional military force, not specified below
+",35,38,35,38,35,38,http://www.un.org/apps/news/story.asp?NewsID=46893&Cr=&Cr1=,Syria,Syria,"attacks,attacks,Refugees,humanitarian,humanitarian,"
+SY,SY,SY,042,"Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-09/243526-un-aided-380000-victims-of-gender-violence.ashx,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","help,Syria,humanitarian,Syria,agency,"
+SY,JO,JO,043,"Host a visit
+",35,38,31.8333,36.8333,31.8333,36.8333,http://www.albawaba.com/business/jordan-water-545798,Syria,"Zarqa Governorate, Az Zarqa, Jordan","refugee,infrastructure,aid,"
+IZ,IZ,IZ,1712,"Destroy property
+",33.3558,43.7861,33.3558,43.7861,33.3558,43.7861,http://www.jpost.com/Opinion/Columnists/The-US-and-the-fight-for-survival-of-Assad-Obamas-strange-allies-337501,"Falluja, Al Anbar, Iraq","Falluja, Al Anbar, Iraq","Syria,Syria,Syria,Syria,Syria,Syria,Syria,chaos,others,"
+SY,SY,SY,1712,"Destroy property
+",35,38,35,38,35,38,http://www.jpost.com/Opinion/Columnists/The-US-and-the-fight-for-survival-of-Assad-Obamas-strange-allies-337501,Syria,Syria,"Syria,Syria,Syria,Syria,Syria,Syria,Syria,chaos,others,"
+SY,SY,GR,190,"Use conventional military force, not specified below
+",35,38,35,38,39,22,http://uk.news.yahoo.com/bulgarian-golden-dawn-nationalists-launch-attacks-against-syrian-175747395.html,Syria,Syria,"attacks,refugee,Refugees,aid,established,refugee,refugee,attacks,police,"
+TU,TU,TU,043,"Host a visit
+",39.9272,32.8644,39.9272,32.8644,39.9272,32.8644,http://thehimalayantimes.com/rssReference.php?headline=Turkish+police+purge+reaches+top+ranks+amid+graft+scandal&NewsID=402361,"Ankara, Ankara, Turkey","Ankara, Ankara, Turkey","police,police,force,injuring,aid,billion,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://thehimalayantimes.com/rssReference.php?headline=Turkish+police+purge+reaches+top+ranks+amid+graft+scandal&NewsID=402361,Syria,Syria,"police,police,force,injuring,aid,billion,"
+SY,SY,SY,030,"Express intent to cooperate, not specified below
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.irishtimes.com/news/world/middle-east/syrian-rebels-seize-headquarters-of-al-qaeda-linked-faction-1.1648794,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","regional,Syria,Syria,Syria,conflict,attacks,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.albawaba.com/business/jordan-water-545798,Syria,Syria,"refugee,infrastructure,aid,"
+SY,UK,UK,030,"Express intent to cooperate, not specified below
+",35,38,54,-2,54,-2,http://www.worldbulletin.net/?aType=haber&ArticleID=126509,Syria,United Kingdom,"asylum,seekers,asylum,Syria,asylum,asylum,seekers,Syria,asylum,asylum,seekers,refugee,aid,aid,"
+SY,JO,JO,0233,"Appeal for humanitarian aid
+",35,38,31,36,31,36,http://www.IRINnews.org/report/99440/iraq-fighting-prevents-aid-workers-reaching-displaced,Syria,Jordan,"humanitarian,regional,humanitarian,humanitarian,humanitarian,agency,conflict,border,refugee,sanitation,"
+SY,JO,SY,043,"Host a visit
+",35,38,31,36,35,38,http://reliefweb.int/report/jordan/joint-assessment-review-syrian-refugee-response-jordan,Syria,Jordan,"Syria,refugee,"
+SY,JO,JO,043,"Host a visit
+",35,38,31.8333,36.8333,31.8333,36.8333,http://www.albawaba.com/business/jordan-water-545798,Syria,"Zarqa Governorate, Az Zarqa, Jordan","refugee,infrastructure,aid,"
+TU,TU,TU,042,"Make a visit
+",39.9272,32.8644,39.9272,32.8644,39.9272,32.8644,http://thehimalayantimes.com/rssReference.php?headline=Turkish+police+purge+reaches+top+ranks+amid+graft+scandal&NewsID=402361,"Ankara, Ankara, Turkey","Ankara, Ankara, Turkey","police,police,force,injuring,aid,billion,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://thehimalayantimes.com/rssReference.php?headline=Turkish+police+purge+reaches+top+ranks+amid+graft+scandal&NewsID=402361,Syria,Syria,"police,police,force,injuring,aid,billion,"
+TU,SY,SY,0874,"Retreat or surrender militarily
+",39,35,35,38,35,38,http://www.sbs.com.au/news/article/2014/01/09/navy-violence-unsurprising-advocate,Turkey,Syria,"asylum,seekers,refugee,refugee,asylum,asylum,asylum,seekers,asylum,seekers,force,asylum,seekers,border,"
+TU,SY,TU,0874,"Retreat or surrender militarily
+",39,35,35,38,39,35,http://www.sbs.com.au/news/article/2014/01/09/navy-violence-unsurprising-advocate,Turkey,Syria,"asylum,seekers,refugee,refugee,asylum,asylum,asylum,seekers,asylum,seekers,force,asylum,seekers,border,"
+US,SY,SY,060,"Engage in material cooperation, not specified below
+",38.8951,-77.0364,33.5,36.3,33.5,36.3,http://gulfnews.com/news/region/syria/us-senators-push-to-let-in-more-syrian-refugees-1.1275049,"Washington, District of Columbia, United States","Damascus, Dimashq, Syria","donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+US,SY,SY,060,"Engage in material cooperation, not specified below
+",38.8951,-77.0364,35,38,35,38,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-09/243524-us-senators-urge-admission-of-refugees.ashx,"Washington, District of Columbia, United States",Syria,"asylum,billion,humanitarian,aid,immigrants,"
+US,SY,US,070,"Provide aid, not specified below
+",38.8951,-77.0364,33.5,36.3,38.8951,-77.0364,http://gulfnews.com/news/region/syria/us-senators-push-to-let-in-more-syrian-refugees-1.1275049,"Washington, District of Columbia, United States","Damascus, Dimashq, Syria","donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+US,SY,US,070,"Provide aid, not specified below
+",38.8951,-77.0364,35,38,38.8951,-77.0364,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-09/243524-us-senators-urge-admission-of-refugees.ashx,"Washington, District of Columbia, United States",Syria,"asylum,billion,humanitarian,aid,immigrants,"
+SY,SY,SY,070,"Provide aid, not specified below
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126478,Syria,Syria,"donors,humanitarian,refugee,asylum,billion,humanitarian,aid,immigrants,Syria,"
+CU,CU,CU,075,"Grant asylum
+",21.5,-80,21.5,-80,21.5,-80,http://www.timesofisrael.com/senators-push-to-allow-more-syrian-refugees/,Cuba,Cuba,"aid,arrive,"
+TU,SY,TU,090,"Investigate, not specified below
+",39,35,35,38,39,35,http://voiceofrussia.com/2014_01_10/Manger-for-monsters-children-become-part-of-criminal-world-3978/,Turkey,Syria,"police,police,Syria,humanitarian,Syria,dysfunctional,"
+UK,UK,UK,020,"Appeal, not specified below
+",53.3333,-3.83333,53.3333,-3.83333,53.3333,-3.83333,http://www.walesonline.co.uk/news/wales-news/welsh-leaders-call-uk-open-6481968,"Llandudno, Conwy, United Kingdom","Llandudno, Conwy, United Kingdom","asylum,seekers,asylum,seekers,Syria,Syria,refugee,humanitarian,asylum,help,refugee,terrible,humanitarian,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,Syria,Syria,"Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,Syria,Syria,"Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+JO,SY,SY,192,"Occupy territory
+",31,36,35,38,35,38,http://www.albawaba.com/business/jordan-syria-refugees-546088,Jordan,Syria,"infrastructure,Syria,Syria,refugee,border,infrastructure,others,aid,Syria,humanitarian,"
+IS,SY,SY,010,"Make statement, not specified below
+",31.5,34.75,33.5,36.3,33.5,36.3,http://www.algemeiner.com/2014/01/09/world-is-silent-as-lebanon-abuses-palestinian-refugees/,Israel,"Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,help,Syria,worse,Syria,condemn,"
+IS,IS,IS,010,"Make statement, not specified below
+",31.5,34.75,31.5,34.75,31.5,34.75,http://www.algemeiner.com/2014/01/09/world-is-silent-as-lebanon-abuses-palestinian-refugees/,Israel,Israel,"chaos,Syria,Refugees,Syria,Syria,help,Syria,worse,Syria,condemn,"
+JO,JO,JO,071,"Provide economic aid
+",32.5,35.8333,32.5,35.8333,32.5,35.8333,http://www.ansa.it/ansamed/en/news/sections/generalnews/2014/01/09/EU-grants-Jordan-40-mln-euros-Syrian-refugee-crisis_9873870.html,"Governorate Of Irbid, Irbid, Jordan","Governorate Of Irbid, Irbid, Jordan","refugee,help,refugee,sanitation,help,refugee,help,help,"
+LE,SY,LE,043,"Host a visit
+",33.8333,35.8333,35,38,33.8333,35.8333,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,Lebanon,Syria,"Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+LE,SY,SY,051,"Praise or endorse
+",33.8333,35.8333,35,38,35,38,http://reliefweb.int/report/lebanon/lebanon-development-operational-plan-2014,Lebanon,Syria,"humanitarian,humanitarian,humanitarian,suffering,"
+LE,LE,LE,070,"Provide aid, not specified below
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,http://reliefweb.int/report/lebanon/red-crescent-authority-continues-provide-relief-aid-syrian-refugees-lebanon,Lebanon,Lebanon,"humanitarian,refugee,humanitarian,aid,suffering,aid,humanitarian,"
+IS,SY,SY,010,"Make statement, not specified below
+",31.5,34.75,33.5,36.3,33.5,36.3,http://www.algemeiner.com/2014/01/09/world-is-silent-as-lebanon-abuses-palestinian-refugees/,Israel,"Damascus, Dimashq, Syria","chaos,Syria,Refugees,Syria,Syria,help,Syria,worse,Syria,condemn,"
+IS,IS,IS,010,"Make statement, not specified below
+",31.5,34.75,31.5,34.75,31.5,34.75,http://www.algemeiner.com/2014/01/09/world-is-silent-as-lebanon-abuses-palestinian-refugees/,Israel,Israel,"chaos,Syria,Refugees,Syria,Syria,help,Syria,worse,Syria,condemn,"
+SY,SY,AE,020,"Appeal, not specified below
+",35,38,35,38,25.4069,55.4441,http://reliefweb.int/report/jordan/human-appeal-international-supports-unrwa,Syria,Syria,"conflict,Syria,Syria,refugee,agency,established,help,infrastructure,activities,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://reliefweb.int/report/jordan/human-appeal-international-supports-unrwa,Syria,Syria,"conflict,Syria,Syria,refugee,agency,established,help,infrastructure,activities,"
+LE,SY,LE,043,"Host a visit
+",33.2422,35.2142,33.5,36.3,33.2422,35.2142,http://www.albawaba.com/news/lebanon-palestine-hezbollah-546020,"Rashidieh, Liban-Sud, Lebanon","Damascus, Dimashq, Syria","refugee,Syria,refugee,worse,force,others,refugee,Syria,Syria,others,Syria,"
+US,US,US,070,"Provide aid, not specified below
+",38.8951,-77.0364,38.8951,-77.0364,38.8951,-77.0364,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,"Washington, District of Columbia, United States","Washington, District of Columbia, United States","Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContentP/1/91237/Egypt/Syrian-doctors-running-Cairo-clinic-arrested-and-d.aspx,Syria,Syria,"police,police,refugee,agency,conflict,refugee,refugee,refugee,refugee,"
+SY,LE,LE,042,"Make a visit
+",33.5,36.3,33.2422,35.2142,33.2422,35.2142,http://www.albawaba.com/news/lebanon-palestine-hezbollah-546020,"Damascus, Dimashq, Syria","Rashidieh, Liban-Sud, Lebanon","refugee,Syria,refugee,worse,force,others,refugee,Syria,Syria,others,Syria,"
+LE,LE,LE,042,"Make a visit
+",33.2422,35.2142,33.2422,35.2142,33.2422,35.2142,http://www.zawya.com/story/Palestinians_fear_war_with_Hezbollah-DS09012014_dsart*243527/,"Rashidieh, Liban-Sud, Lebanon","Rashidieh, Liban-Sud, Lebanon","refugee,worse,force,others,refugee,Syria,Syria,others,Syria,"
+CG,CG,CG,190,"Use conventional military force, not specified below
+",0,25,0,25,0,25,http://www.ndtv.com/article/india/indian-peacekeepers-second-highest-casualties-in-2013-attacks-un-469064,Democratic Republic Of The Congo,Democratic Republic Of The Congo,"attacks,attacks,Refugees,police,humanitarian,humanitarian,"
+SY,SY,SY,190,"Use conventional military force, not specified below
+",35,38,35,38,35,38,http://www.ndtv.com/article/india/indian-peacekeepers-second-highest-casualties-in-2013-attacks-un-469064,Syria,Syria,"attacks,attacks,Refugees,police,humanitarian,humanitarian,"
+SY,US,US,070,"Provide aid, not specified below
+",35,38,38.8951,-77.0364,38.8951,-77.0364,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,Syria,"Washington, District of Columbia, United States","Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113309-syrian-child-sexually-assaulted-by-hiv-positive-man-in-marjeyoun,Syria,Syria,"town,refugee,others,"
+TU,TU,TU,190,"Use conventional military force, not specified below
+",40.2477,28.4278,40.2477,28.4278,40.2477,28.4278,http://www.standartnews.com/english/read/the_bulgarian_golden_dawn_nationalists_launch_attacks_against_syrian_refugees__report-2316.html,"Harmanli, Bursa, Turkey","Harmanli, Bursa, Turkey","attacks,refugee,Refugees,aid,established,refugee,refugee,attacks,police,"
+SY,SY,SY,043,"Host a visit
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,http://www.ansamed.info/ansamed/en/news/sections/generalnews/2014/01/09/Syria-OPCW-says-60-days-needed-destroy-toxic-gases_9872332.html,"Latakia, Al Ladhiqiyah, Syria","Latakia, Al Ladhiqiyah, Syria","attacks,established,arrive,Syria,humanitarian,flee,refugee,Syria,billion,"
+TU,SY,SY,043,"Host a visit
+",37.0017,35.3289,37.1981,42.1189,37.1981,42.1189,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Adana, Adana, Turkey","Bab Al-Hawa, Al ?asakah, Syria","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+TU,TU,TU,043,"Host a visit
+",39.9272,32.8644,39.9272,32.8644,39.9272,32.8644,http://www.thejakartaglobe.com/international/turkish-police-purge-reaches-top-ranks-amid-graft-scandal/,"Ankara, Ankara, Turkey","Ankara, Ankara, Turkey","police,police,elections,agency,Syria,police,elections,"
+JO,JO,JO,043,"Host a visit
+",31.95,35.9333,31.95,35.9333,31.95,35.9333,http://www.ansa.it/ansamed/en/news/nations/lebanon/2014/01/09/Half-Syrian-population-poverty-35-years-lost-_9872921.html,"Amman, (JO11), Jordan","Amman, (JO11), Jordan","Syria,humanitarian,flee,refugee,Syria,billion,"
+SY,SY,SY,043,"Host a visit
+",37.1981,42.1189,37.1981,42.1189,37.1981,42.1189,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Bab Al-Hawa, Al ?asakah, Syria","Bab Al-Hawa, Al ?asakah, Syria","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://zeenews.india.com/news/world/us-concerned-about-turkey-s-political-crisis_902951.html,Syria,Syria,"police,elections,chaos,"
+SY,SY,IZ,1821,"Sexually assault
+",36.2251,37.3266,36.2251,37.3266,36.1926,44.0106,http://www.ekurd.net/mismas/articles/misc2014/1/state7647.htm,"Afrin, ?alab, Syria","Afrin, ?alab, Syria","police,police,police,refugee,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113309-syrian-child-sexually-assaulted-by-hiv-positive-man-in-marjeyoun,Syria,Syria,"town,refugee,others,"
+SY,SY,SY,173,"Arrest, detain, or charge with legal action 
+",35,38,35,38,35,38,http://www.albawaba.com/editorchoice/four-syrian-sexually-lebanon-546216,Syria,Syria,"town,Syria,"
+SY,SY,LE,180,"Use unconventional violence, not specified below
+",35,38,35,38,33.3603,35.5911,http://www.albawaba.com/editorchoice/four-syrian-sexually-lebanon-546216,Syria,Syria,"town,Syria,"
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContentP/1/91237/Egypt/Syrian-doctors-running-Cairo-clinic-arrested-and-d.aspx,Syria,Syria,"police,police,refugee,agency,conflict,refugee,refugee,refugee,refugee,"
+SY,SY,IZ,1821,"Sexually assault
+",36.2251,37.3266,36.2251,37.3266,36.1926,44.0106,http://www.ekurd.net/mismas/articles/misc2014/1/state7647.htm,"Afrin, ?alab, Syria","Afrin, ?alab, Syria","police,police,police,refugee,"
+SY,SY,IZ,1821,"Sexually assault
+",36.2251,37.3266,36.2251,37.3266,36.1926,44.0106,http://www.ekurd.net/mismas/articles/misc2014/1/state7647.htm,"Afrin, ?alab, Syria","Afrin, ?alab, Syria","police,police,police,refugee,"
+SY,JO,JO,0233,"Appeal for humanitarian aid
+",35,38,31,36,31,36,http://www.globalsecurity.org/wmd/library/news/iraq/2014/iraq-140108-irin01.htm,Syria,Jordan,"aid,humanitarian,regional,humanitarian,humanitarian,humanitarian,agency,conflict,border,refugee,sanitation,humanitarian,"
+SY,LE,LE,042,"Make a visit
+",35,38,33.8333,35.8333,33.8333,35.8333,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,Syria,Lebanon,"Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+LE,LE,LE,180,"Use unconventional violence, not specified below
+",33.3603,35.5911,33.3603,35.5911,33.3603,35.5911,http://www.albawaba.com/editorchoice/four-syrian-sexually-lebanon-546216,"Marjayoun, Nabatî, Lebanon","Marjayoun, Nabatî, Lebanon","town,Syria,"
+SY,LE,SY,181,"Abduct, hijack, or take hostage 
+",35,38,33.8333,35.8333,35,38,http://www.zawya.com/story/Lebanese_kidnapper_of_Syrian_girl_apprehended-DS09012014_dsart*243531/,Syria,Lebanon,
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.zawya.com/story/Hamdan_bin_Zayed_hails_role_of_philanthropists_in_supporting_RCAs_initiatives-WAM20140109161043772/,Syria,Syria,"humanitarian,humanitarian,"
+SY,SY,SY,042,"Make a visit
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,http://www.ansamed.info/ansamed/en/news/sections/generalnews/2014/01/09/Syria-OPCW-says-60-days-needed-destroy-toxic-gases_9872332.html,"Latakia, Al Ladhiqiyah, Syria","Latakia, Al Ladhiqiyah, Syria","attacks,established,arrive,Syria,humanitarian,flee,refugee,Syria,billion,"
+TU,TU,TU,042,"Make a visit
+",39.9272,32.8644,39.9272,32.8644,39.9272,32.8644,http://www.thejakartaglobe.com/international/turkish-police-purge-reaches-top-ranks-amid-graft-scandal/,"Ankara, Ankara, Turkey","Ankara, Ankara, Turkey","police,police,elections,agency,Syria,police,elections,"
+US,US,US,042,"Make a visit
+",39.1368,-77.7147,39.1368,-77.7147,39.1368,-77.7147,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Purcellville, Virginia, United States","Purcellville, Virginia, United States","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+SY,SY,SY,042,"Make a visit
+",37.1981,42.1189,37.1981,42.1189,37.1981,42.1189,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Bab Al-Hawa, Al ?asakah, Syria","Bab Al-Hawa, Al ?asakah, Syria","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://zeenews.india.com/news/world/us-concerned-about-turkey-s-political-crisis_902951.html,Syria,Syria,"police,elections,chaos,"
+SY,SY,SY,051,"Praise or endorse
+",35,38,35,38,35,38,http://reliefweb.int/report/lebanon/lebanon-development-operational-plan-2014,Syria,Syria,"humanitarian,humanitarian,humanitarian,suffering,"
+SY,SY,SY,070,"Provide aid, not specified below
+",35,38,35,38,35,38,http://www.zawya.com/story/Hamdan_bin_Zayed_hails_role_of_philanthropists_in_supporting_RCAs_initiatives-WAM20140109161043772/,Syria,Syria,"humanitarian,humanitarian,"
+SY,SY,SY,173,"Arrest, detain, or charge with legal action 
+",35,38,35,38,35,38,http://www.albawaba.com/editorchoice/four-syrian-sexually-lebanon-546216,Syria,Syria,"town,Syria,"
+SY,TU,TU,042,"Make a visit
+",33.5,36.3,41.0186,28.9647,41.0186,28.9647,http://spectator.org/articles/57377/turkey-simmering,"Damascus, Dimashq, Syria","Istanbul, Istanbul, Turkey","police,attacks,police,border,"
+SY,SY,SY,042,"Make a visit
+",37.1981,42.1189,37.1981,42.1189,37.1981,42.1189,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Bab Al-Hawa, Al ?asakah, Syria","Bab Al-Hawa, Al ?asakah, Syria","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+TU,SY,SY,043,"Host a visit
+",37.0017,35.3289,37.1981,42.1189,37.1981,42.1189,http://www.loudountimes.com/news/article/a_humbling_experience_loudoun_leaders_meet_syrian_refugees543,"Adana, Adana, Turkey","Bab Al-Hawa, Al ?asakah, Syria","refugee,refugee,others,help,help,aid,regional,help,help,help,Syria,"
+TU,TU,TU,043,"Host a visit
+",41.0186,28.9647,41.0186,28.9647,41.0186,28.9647,http://spectator.org/articles/57377/turkey-simmering,"Istanbul, Istanbul, Turkey","Istanbul, Istanbul, Turkey","police,attacks,police,border,"
+US,SY,SY,075,"Grant asylum
+",38.8951,-77.0364,35,38,35,38,http://politicalnews.me/?id=26555&keys=SYRIA-WORST-HUMANITARIAN-CRISIS,"Washington, District of Columbia, United States",Syria,"Refugees,Refugees,refugee,Syria,humanitarian,refugee,humanitarian,help,suffering,billion,humanitarian,aid,refugee,refugee,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.northcountrypublicradio.org/news/npr/261081863/a-wolf-on-the-loose-and-loving-the-carnage,Syria,Syria,"force,others,"
+JO,JO,SY,036,"Express intent to meet or negotiate
+",31.95,35.9333,31.95,35.9333,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,"Amman, (JO11), Jordan","Amman, (JO11), Jordan","billion,"
+KU,SY,KU,036,"Express intent to meet or negotiate
+",29.3375,47.6581,35,38,29.3375,47.6581,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Kuwait,Syria,"billion,"
+SY,KU,KU,036,"Express intent to meet or negotiate
+",35,38,29.3375,47.6581,29.3375,47.6581,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Syria,Kuwait,"billion,"
+UK,UK,UK,020,"Appeal, not specified below
+",54,-2,54,-2,54,-2,http://www.gazetteandherald.co.uk/news/national/news/10795311.Syria_crisis__may_resurrect_polio_/,United Kingdom,United Kingdom,"Refugees,Syria,Syria,Syria,conflict,Syria,conflict,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354755&language=en,Syria,Syria,"donors,donors,"
+KU,SY,KU,036,"Express intent to meet or negotiate
+",29.3375,47.6581,35,38,29.3375,47.6581,http://www.huffingtonpost.com/mehrunisa-qayyum/syrian-refugees-plight-go_b_4575676.html?,Kuwait,Syria,"Syria,Syria,conflict,humanitarian,humanitarian,Syria,Refugees,funding,funding,Syria,refugee,Refugees,refugee,humanitarian,aid,funding,billion,aid,aid,funding,refugee,Refugees,refugee,refugee,aid,refugee,"
+IZ,SY,SY,042,"Make a visit
+",33.3558,43.7861,35,38,35,38,http://famagusta-gazette.com/bomb-kills-in-iraq-as-bloodshed-continues-p21975-69.htm,"Falluja, Al Anbar, Iraq",Syria,"help,border,Syria,help,border,Syria,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://famagusta-gazette.com/bomb-kills-in-iraq-as-bloodshed-continues-p21975-69.htm,Syria,Syria,"help,border,Syria,help,border,Syria,"
+IZ,SY,SY,043,"Host a visit
+",33,44,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354755&language=en,Iraq,Syria,"donors,donors,"
+LE,SY,LE,040,"Consult, not specified below
+",33.8333,35.8333,35,38,33.8333,35.8333,http://www.iloubnan.info/social/78412/Syrian-refugees:-UN-Special-Coordinator-for-Lebanon-Derek-Plumbly-meets-Lebanese-Social-Affairs-Minister-Wael-Abou-Faour&c=cVQ-o_xGPPoMmQqsS2Zh7bZl5n5q4U-b-IwlMTDigOg&mkt=en-us,Lebanon,Syria,"deterioration,humanitarian,humanitarian,Syria,conflict,humanitarian,billion,refugee,refugee,conflict,"
+LE,LE,LE,070,"Provide aid, not specified below
+",33.8719,35.5097,33.8719,35.5097,33.8719,35.5097,http://www.uaeinteract.com/docs/Red_Crescent_Authority_continues_to_provide_relief_aid_to_Syrian_refugees_in_Lebanon/59333.htm,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon","aid,humanitarian,refugee,humanitarian,aid,suffering,aid,humanitarian,"
+SY,SY,SY,0874,"Retreat or surrender militarily
+",35,38,35,38,35,38,http://www.zawya.com/story/Wipe_the_tears_of_Syrian_children-WAM20140110071025803/,Syria,Syria,
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContent/1/0/91237/Egypt/Syrian-doctors-running-Cairo-clinic-arrested-and-d.aspx,Syria,Syria,"police,police,refugee,agency,conflict,refugee,refugee,refugee,refugee,"
+SY,IZ,SY,043,"Host a visit
+",35,38,33.3558,43.7861,35,38,http://famagusta-gazette.com/bomb-kills-in-iraq-as-bloodshed-continues-p21975-69.htm,Syria,"Falluja, Al Anbar, Iraq","help,border,Syria,help,border,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://famagusta-gazette.com/bomb-kills-in-iraq-as-bloodshed-continues-p21975-69.htm,Syria,Syria,"help,border,Syria,help,border,Syria,"
+SY,IZ,SY,080,"Yield, not specified below 
+",35,38,35.4224,45.58,35,38,http://reliefweb.int/report/iraq/syrian-women-and-girls-struggle-survive-camps,Syria,"Arbat, As Sulaymaniyah, Iraq","Refugees,refugee,refugee,help,established,help,"
+SY,IZ,SY,0874,"Retreat or surrender militarily
+",35,38,35.4224,45.58,35,38,http://reliefweb.int/report/iraq/syrian-women-and-girls-struggle-survive-camps,Syria,"Arbat, As Sulaymaniyah, Iraq","Refugees,refugee,refugee,help,established,help,"
+SY,SY,SY,090,"Investigate, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.rawstory.com/rs/2014/01/10/41-palestinians-dead-from-hunger-medical-shortages-in-syrian-camp/,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","refugee,Syria,agency,conflict,"
+SY,IS,SY,090,"Investigate, not specified below
+",33.5,36.3,31.5,34.75,33.5,36.3,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-11/243783-palestinians-die-from-hunger-medical-shortages-in-yarmouk.ashx,"Damascus, Dimashq, Syria",Israel,"suffering,conflict,"
+IS,IS,IS,090,"Investigate, not specified below
+",31.5,34.75,31.5,34.75,31.5,34.75,http://www.yalibnan.com/2014/01/10/41-palestinians-die-of-hunger-in-syria-camp/,Israel,Israel,"Syria,agency,conflict,Refugees,"
+SY,SY,SY,090,"Investigate, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.rawstory.com/rs/2014/01/10/41-palestinians-dead-from-hunger-medical-shortages-in-syrian-camp/,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","refugee,Syria,agency,conflict,"
+SY,IS,SY,090,"Investigate, not specified below
+",33.5,36.3,31.5,34.75,33.5,36.3,http://www.dailystar.com.lb/News/Middle-East/2014/Jan-11/243783-palestinians-die-from-hunger-medical-shortages-in-yarmouk.ashx,"Damascus, Dimashq, Syria",Israel,"suffering,conflict,"
+IS,IS,IS,090,"Investigate, not specified below
+",31.5,34.75,31.5,34.75,31.5,34.75,http://www.yalibnan.com/2014/01/10/41-palestinians-die-of-hunger-in-syria-camp/,Israel,Israel,"Syria,agency,conflict,Refugees,"
+SY,IZ,SY,080,"Yield, not specified below 
+",35,38,35.4224,45.58,35,38,http://reliefweb.int/report/iraq/syrian-women-and-girls-struggle-survive-camps,Syria,"Arbat, As Sulaymaniyah, Iraq","Refugees,refugee,refugee,help,established,help,"
+SY,IZ,SY,0874,"Retreat or surrender militarily
+",35,38,35.4224,45.58,35,38,http://reliefweb.int/report/iraq/syrian-women-and-girls-struggle-survive-camps,Syria,"Arbat, As Sulaymaniyah, Iraq","Refugees,refugee,refugee,help,established,help,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113379-social-affairs-ministry-child-sex-abuse-victim-undergoing-checkups-evaluation,Syria,Syria,"suffering,refugee,"
+SY,SY,JO,010,"Make statement, not specified below
+",35,38,35,38,31,36,http://www.zawya.com/story/RCA_team_to_travel_to_Jordan_to_assess_basic_relief_requirements_for_Syrian_refugees-WAM20140110104032408/,Syria,Syria,
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://www.zawya.com/story/RCA_team_to_travel_to_Jordan_to_assess_basic_relief_requirements_for_Syrian_refugees-WAM20140110104032408/,Syria,Syria,"humanitarian,aid,humanitarian,"
+SY,SY,SY,036,"Express intent to meet or negotiate
+",35.95,39.0167,35.95,39.0167,35.95,39.0167,http://www.lse.co.uk/AllNews.asp?code=0m34bel0&headline=UPDATE_About_500_killed_in_Syria_rebel_infighting_watchdog_says,"Raqqa, Ar Raqqah, Syria","Raqqa, Ar Raqqah, Syria","Syria,Syria,Syria,humanitarian,aid,aid,"
+SY,SY,SY,036,"Express intent to meet or negotiate
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Syria,Syria,"billion,"
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.uaeinteract.com/docs/Hamdan_bin_Zayed_hails_role_of_philanthropists_in_supporting_RCAs_initiatives/59334.htm,Syria,Syria,"humanitarian,humanitarian,"
+SY,SY,US,043,"Host a visit
+",35,38,35,38,38.8951,-77.0364,http://www.naharnet.com/stories/en/113354-u-s-concerned-about-turkey-s-political-crisis,Syria,Syria,"police,elections,chaos,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContent/2/8/91259/World/Region/US-concerned-about-Turkeys-political-crisis.aspx,Syria,Syria,"police,elections,chaos,"
+SY,SY,SY,046,"Engage in negotiation
+",35.95,39.0167,35.95,39.0167,35.95,39.0167,http://www.lse.co.uk/AllNews.asp?code=0m34bel0&headline=UPDATE_About_500_killed_in_Syria_rebel_infighting_watchdog_says,"Raqqa, Ar Raqqah, Syria","Raqqa, Ar Raqqah, Syria","Syria,Syria,Syria,humanitarian,aid,aid,"
+SY,SY,SY,192,"Occupy territory
+",35,38,35,38,35,38,http://gulfnews.com/opinions/editorials/world-running-out-of-answers-on-syria-1.1276057,Syria,Syria,"conflict,Syria,worse,Syria,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113379-social-affairs-ministry-child-sex-abuse-victim-undergoing-checkups-evaluation,Syria,Syria,"suffering,refugee,"
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContent/1/0/91237/Egypt/Syrian-doctors-running-Cairo-clinic-arrested-and-d.aspx,Syria,Syria,"police,police,refugee,agency,conflict,refugee,refugee,refugee,refugee,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354755&language=en,Syria,Syria,"donors,donors,"
+SY,KU,KU,036,"Express intent to meet or negotiate
+",35,38,29.3375,47.6581,29.3375,47.6581,http://www.huffingtonpost.com/mehrunisa-qayyum/syrian-refugees-plight-go_b_4575676.html?,Syria,Kuwait,
+SY,IZ,SY,042,"Make a visit
+",35,38,33,44,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354755&language=en,Syria,Iraq,"donors,donors,"
+SY,JO,JO,010,"Make statement, not specified below
+",35,38,31,36,31,36,http://www.zawya.com/story/RCA_team_to_travel_to_Jordan_to_assess_basic_relief_requirements_for_Syrian_refugees-WAM20140110104032408/,Syria,Jordan,
+SY,JO,SY,020,"Appeal, not specified below
+",35,38,31,36,35,38,http://www.zawya.com/story/RCA_team_to_travel_to_Jordan_to_assess_basic_relief_requirements_for_Syrian_refugees-WAM20140110104032408/,Syria,Jordan,"humanitarian,aid,humanitarian,"
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.iloubnan.info/social/78412/Syrian-refugees:-UN-Special-Coordinator-for-Lebanon-Derek-Plumbly-meets-Lebanese-Social-Affairs-Minister-Wael-Abou-Faour&c=cVQ-o_xGPPoMmQqsS2Zh7bZl5n5q4U-b-IwlMTDigOg&mkt=en-us,Syria,Syria,"deterioration,humanitarian,humanitarian,Syria,conflict,humanitarian,billion,refugee,refugee,conflict,"
+SY,SY,SY,036,"Express intent to meet or negotiate
+",35.95,39.0167,35.95,39.0167,35.95,39.0167,http://www.lse.co.uk/AllNews.asp?code=0m34bel0&headline=UPDATE_About_500_killed_in_Syria_rebel_infighting_watchdog_says,"Raqqa, Ar Raqqah, Syria","Raqqa, Ar Raqqah, Syria","Syria,Syria,Syria,humanitarian,aid,aid,"
+SY,SY,SY,036,"Express intent to meet or negotiate
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Syria,Syria,"billion,"
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.uaeinteract.com/docs/Hamdan_bin_Zayed_hails_role_of_philanthropists_in_supporting_RCAs_initiatives/59334.htm,Syria,Syria,"humanitarian,humanitarian,"
+SY,SY,US,042,"Make a visit
+",35,38,35,38,38.8951,-77.0364,http://www.naharnet.com/stories/en/113354-u-s-concerned-about-turkey-s-political-crisis,Syria,Syria,"police,elections,chaos,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://english.ahram.org.eg/NewsContent/2/8/91259/World/Region/US-concerned-about-Turkeys-political-crisis.aspx,Syria,Syria,"police,elections,chaos,"
+SY,SY,SY,046,"Engage in negotiation
+",35.95,39.0167,35.95,39.0167,35.95,39.0167,http://www.lse.co.uk/AllNews.asp?code=0m34bel0&headline=UPDATE_About_500_killed_in_Syria_rebel_infighting_watchdog_says,"Raqqa, Ar Raqqah, Syria","Raqqa, Ar Raqqah, Syria","Syria,Syria,Syria,humanitarian,aid,aid,"
+SY,SY,SY,070,"Provide aid, not specified below
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Syria,Syria,"billion,"
+SY,SY,SY,075,"Grant asylum
+",35,38,35,38,35,38,http://www.huffingtonpost.com/mehrunisa-qayyum/syrian-refugees-plight-go_b_4575676.html?,Syria,Syria,
+SY,SY,SY,192,"Occupy territory
+",35,38,35,38,35,38,http://gulfnews.com/opinions/editorials/world-running-out-of-answers-on-syria-1.1276057,Syria,Syria,"conflict,Syria,worse,Syria,"
+SY,JO,JO,026,"Appeal to others to meet or negotiate
+",35,38,31.95,35.9333,31.95,35.9333,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354672&language=en,Syria,"Amman, (JO11), Jordan","billion,"
+SY,SY,SY,051,"Praise or endorse
+",35,38,35,38,35,38,http://www.npr.org/2014/01/10/261271898/u-s-slow-to-allow-syrian-refugees-to-emmigrate,Syria,Syria,"Refugees,conflict,refugee,Syria,help,billion,"
+US,US,US,051,"Praise or endorse
+",31.106,-97.6475,31.106,-97.6475,31.106,-97.6475,http://www.npr.org/2014/01/10/261271898/u-s-slow-to-allow-syrian-refugees-to-emmigrate?ft=1&f=3,"Texas, United States","Texas, United States","Refugees,conflict,refugee,Syria,help,billion,"
+US,SY,SY,051,"Praise or endorse
+",38,-97,35,38,35,38,http://www.npr.org/2014/01/10/261271898/u-s-slow-to-allow-syrian-refugees-to-emmigrate?ft=1&f=,United States,Syria,"Refugees,conflict,refugee,Syria,help,billion,"
+US,SY,US,051,"Praise or endorse
+",38,-97,35,38,38,-97,http://www.npr.org/2014/01/10/261271898/u-s-slow-to-allow-syrian-refugees-to-emmigrate?ft=1&f=,United States,Syria,"Refugees,conflict,refugee,Syria,help,billion,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+IZ,SY,IZ,073,"Provide humanitarian aid
+",36.8671,42.9884,35,38,36.8671,42.9884,http://www.reuters.com/video/2014/01/11/syrians-flee-to-iraq-on-barges?videoId=276396260&feedType=VideoRSS&feedName=WorldNews&videoChannel=117760&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUSVideoWorldNews+%28Video+%2F+US+%2F+Wor,"Dohuk, Dahuk, Iraq",Syria,"border,border,conflict,others,border,"
+IZ,SY,SY,073,"Provide humanitarian aid
+",36.8671,42.9884,35,38,35,38,http://www.reuters.com/video/2014/01/11/syrians-flee-to-iraq-on-barges?videoId=276396260&feedType=VideoRSS&feedName=WorldNews&videoChannel=117760&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUSVideoWorldNews+%28Video+%2F+US+%2F+Wor,"Dohuk, Dahuk, Iraq",Syria,"border,border,conflict,others,border,"
+US,US,US,073,"Provide humanitarian aid
+",42.2373,-71.5314,42.2373,-71.5314,42.2373,-71.5314,http://www.boston.com/news/world/middle-east/2014/01/11/syrians-flee-iraq-barges/B3mow9AgOguA4OsKWN5KXK/video.html,"Massachusetts, United States","Massachusetts, United States","border,"
+IZ,SY,SY,043,"Host a visit
+",36.1926,44.0106,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,"Erbil, Liwa' Irbil, Iraq",Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,KU,KU,070,"Provide aid, not specified below
+",35,38,29.3375,47.6581,29.3375,47.6581,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354864&language=en,Syria,Kuwait,"aid,"
+LE,SY,SY,051,"Praise or endorse
+",33.8333,35.8333,33.5,36.3,33.5,36.3,http://www.huffingtonpost.com/raghida-dergham/role-of-international-and_b_4576483.html?,Lebanon,"Damascus, Dimashq, Syria","regional,regional,help,regional,regional,regional,humanitarian,regional,occasions,Syria,Syria,Syria,Syria,Syria,regional,Syria,"
+SY,SY,SY,080,"Yield, not specified below 
+",35,38,35,38,35,38,http://edition.cnn.com/2013/09/06/world/iyw-how-to-help-syrian-refugees/index.html,Syria,Syria,"refugee,refugee,aid,Syria,Syria,refugee,aid,sanitation,help,Syria,help,refugee,facilities,refugee,Syria,Syria,Syria,help,Syria,refugee,sanitation,help,refugee,Refugees,Syria,refugee,refugee,refugee,Syria,help,help,refugee,Syria,Syria,help,Syria,"
+SY,SY,SY,090,"Investigate, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.worldbulletin.net/?aType=haber&ArticleID=126718,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,refugee,"
+SY,SY,SY,090,"Investigate, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.worldbulletin.net/?aType=haber&ArticleID=126718,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,refugee,"
+SY,SY,SY,080,"Yield, not specified below 
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.aljazeera.com/indepth/features/2014/01/asylum-seekers-perilous-path-sweden-20141792744288806.html&c=WIAeu-rsWeiuMapySuVAVsx0CsvjDniTT5ALI_Nn_gU&mkt=en-us,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","coast,asylum,asylum,asylum,seekers,asylum,town,Syria,Syria,refugee,Syria,refugee,asylum,asylum,asylum,asylum,seekers,refugee,asylum,seekers,Syria,refugee,agency,"
+KU,KU,KU,010,"Make statement, not specified below
+",29.3375,47.6581,29.3375,47.6581,29.3375,47.6581,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354864&language=en,Kuwait,Kuwait,"aid,"
+SY,KU,SY,010,"Make statement, not specified below
+",35,38,29.3375,47.6581,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354864&language=en,Syria,Kuwait,"aid,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,SY,SY,070,"Provide aid, not specified below
+",35,38,35,38,35,38,http://edition.cnn.com/2013/09/06/world/iyw-how-to-help-syrian-refugees/index.html,Syria,Syria,"refugee,refugee,aid,Syria,Syria,refugee,aid,sanitation,help,Syria,help,refugee,facilities,refugee,Syria,Syria,Syria,help,Syria,refugee,sanitation,help,refugee,Refugees,Syria,refugee,refugee,refugee,Syria,help,help,refugee,Syria,Syria,help,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,IZ,SY,042,"Make a visit
+",35,38,36.1926,44.0106,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,"Erbil, Liwa' Irbil, Iraq","elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,JO,JO,036,"Express intent to meet or negotiate
+",35,38,31.95,35.9333,31.95,35.9333,http://www.zawya.com/story/EU_grants_Jordan_EUR40m_for_Syrian_refugee_crisis-ZAWYA20140111055801/,Syria,"Amman, (JO11), Jordan","help,refugee,sanitation,help,refugee,help,help,"
+SY,SY,SY,050,"Engage in diplomatic cooperation, not specified below
+",35,38,35,38,35,38,http://inhabitat.com/wakawaka-provides-portable-solar-power-to-syrian-refugees/?utm_content=buffer6fca9&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer,Syria,Syria,"flee,help,humanitarian,refugee,"
+SY,SY,SY,051,"Praise or endorse
+",35,38,35,38,35,38,http://inhabitat.com/wakawaka-provides-portable-solar-power-to-syrian-refugees/?utm_content=buffer6fca9&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer,Syria,Syria,"flee,help,humanitarian,refugee,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1485.htm,Syria,Syria,"elections,donors,donors,humanitarian,donors,billion,conflict,Syria,police,force,town,activities,activities,activities,town,border,border,agency,"
+SY,SY,SY,051,"Praise or endorse
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.huffingtonpost.com/raghida-dergham/role-of-international-and_b_4576483.html?,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","regional,regional,help,regional,regional,regional,humanitarian,regional,occasions,Syria,Syria,Syria,Syria,Syria,regional,Syria,"
+LE,LE,LE,051,"Praise or endorse
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,http://www.huffingtonpost.com/raghida-dergham/role-of-international-and_b_4576483.html?,Lebanon,Lebanon,"regional,regional,help,regional,regional,regional,humanitarian,regional,occasions,Syria,Syria,Syria,Syria,Syria,regional,Syria,"
+SY,SY,SY,030,"Express intent to cooperate, not specified below
+",35,38,35,38,35,38,http://www.galleonnews.com/2014/01/government-announces-16-million-support-for-syrian-refugees/,Syria,Syria,"allocate,help,help,help,help,Syria,Syria,humanitarian,suffering,conflict,funding,"
+UK,UK,UK,051,"Praise or endorse
+",54,-2,54,-2,54,-2,http://www.galleonnews.com/2014/01/government-announces-16-million-support-for-syrian-refugees/,United Kingdom,United Kingdom,"allocate,help,help,help,help,Syria,Syria,humanitarian,suffering,conflict,funding,"
+SY,SY,JO,012,"Make pessimistic comment
+",35,38,35,38,31,36,http://www.menafn.com/1093754139/EU-Grants-40-Million-Euro-For-Syrian-Refugee-Crisis,Syria,Syria,"help,refugee,help,help,refugee,sanitation,agency,help,refugee,help,"
+SY,SY,SY,012,"Make pessimistic comment
+",35,38,35,38,35,38,http://www.menafn.com/1093754139/EU-Grants-40-Million-Euro-For-Syrian-Refugee-Crisis,Syria,Syria,"help,refugee,help,help,refugee,sanitation,agency,help,refugee,help,"
+SY,SY,SY,075,"Grant asylum
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+US,US,US,075,"Grant asylum
+",42.1497,-74.9384,42.1497,-74.9384,42.1497,-74.9384,http://www.aina.org/news/20140112153719.htm,"New York, United States","New York, United States","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,SY,SY,075,"Grant asylum
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+KU,SY,KU,020,"Appeal, not specified below
+",29.3375,47.6581,35,38,29.3375,47.6581,http://reliefweb.int/report/syrian-arab-republic/kuwaiti-charities-launch-appeal-raise-usd-142-mln-syrian-refugee-housing,Kuwait,Syria,"suffering,infrastructure,"
+KU,KU,KU,073,"Provide humanitarian aid
+",29.3375,47.6581,29.3375,47.6581,29.3375,47.6581,http://reliefweb.int/report/syrian-arab-republic/kuwaiti-charities-launch-appeal-raise-usd-142-mln-syrian-refugee-housing,Kuwait,Kuwait,"suffering,infrastructure,"
+LE,SY,SY,025,"Appeal to yield
+",33.8333,35.8333,35.6635,36.7959,35.6635,36.7959,http://reliefweb.int/report/syrian-arab-republic/crisis-syria-what-oxfam-doing,Lebanon,"Balqa, Idlib, Syria","Syria,Syria,Syria,help,aid,agency,Syria,conflict,conflict,humanitarian,suffering,Syria,conflict,flee,Syria,refugee,Syria,Syria,help,sanitation,Syria,refugee,help,aid,Syria,humanitarian,"
+LE,SY,SY,043,"Host a visit
+",33.2092,35.515,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Houla, Nabatî, Lebanon","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+QA,QA,QA,070,"Provide aid, not specified below
+",25.2867,51.5333,25.2867,51.5333,25.2867,51.5333,http://www.4-traders.com/DOHA-BANK-QSC-6498228/news/Doha-Bank-QSC--Doha-Bank-donates-QR100000-for-Syrian-refugees-17799477/,"Doha, Ad Daw?ah, Qatar","Doha, Ad Daw?ah, Qatar","infrastructure,infrastructure,infrastructure,"
+SY,QA,QA,070,"Provide aid, not specified below
+",35,38,25.2867,51.5333,25.2867,51.5333,http://www.4-traders.com/DOHA-BANK-QSC-6498228/news/Doha-Bank-QSC--Doha-Bank-donates-QR100000-for-Syrian-refugees-17799477/,Syria,"Doha, Ad Daw?ah, Qatar","infrastructure,infrastructure,infrastructure,"
+QA,SY,JO,036,"Express intent to meet or negotiate
+",25.5,51.25,35,38,31,36,http://www.menafn.com/1093754139/EU-Grants-40-Million-Euro-For-Syrian-Refugee-Crisis,Qatar,Syria,"help,refugee,help,help,refugee,sanitation,agency,help,refugee,help,"
+SY,SY,SY,025,"Appeal to yield
+",33.5,36.3,33.5,36.3,33.5,36.3,http://reliefweb.int/report/syrian-arab-republic/crisis-syria-what-oxfam-doing,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,Syria,help,aid,agency,Syria,conflict,conflict,humanitarian,suffering,Syria,conflict,flee,Syria,refugee,Syria,Syria,help,sanitation,Syria,refugee,help,aid,Syria,humanitarian,"
+SY,SY,SY,040,"Consult, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355010&language=en,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,humanitarian,aid,"
+US,SY,US,070,"Provide aid, not specified below
+",31.106,-97.6475,36.2028,37.1586,31.106,-97.6475,http://www.aina.org/news/20140112153719.htm,"Texas, United States","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,SY,SY,040,"Consult, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355010&language=en,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,humanitarian,aid,"
+SY,SY,SY,075,"Grant asylum
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+US,US,US,075,"Grant asylum
+",42.1497,-74.9384,42.1497,-74.9384,42.1497,-74.9384,http://www.aina.org/news/20140112153719.htm,"New York, United States","New York, United States","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,SY,SY,0233,"Appeal for humanitarian aid
+",36.187,36.7234,36.187,36.7234,36.187,36.7234,http://www.theguardian.com/world/2014/jan/12/syria-refugees-bab-al-hawa-turkey,"Sarmada, Idlib, Syria","Sarmada, Idlib, Syria","border,Syria,Syria,refugee,border,Syria,border,refugee,border,town,force,force,refugee,"
+SY,SY,SY,040,"Consult, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355010&language=en,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,humanitarian,aid,"
+SY,US,US,070,"Provide aid, not specified below
+",36.2028,37.1586,31.106,-97.6475,31.106,-97.6475,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Texas, United States","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113309,Syria,Syria,"town,refugee,others,"
+SY,SY,SY,020,"Appeal, not specified below
+",35,38,35,38,35,38,http://reliefweb.int/report/syrian-arab-republic/kuwaiti-charities-launch-appeal-raise-usd-142-mln-syrian-refugee-housing,Syria,Syria,"suffering,infrastructure,"
+KU,KU,KU,075,"Grant asylum
+",29.3697,47.9783,29.3697,47.9783,29.3697,47.9783,http://www.kuna.net.kw/ArticleDetails.aspx?id=2354931&language=en,"Kuwait City, Kuwait (general), Kuwait","Kuwait City, Kuwait (general), Kuwait","donors,humanitarian,Syria,humanitarian,aid,"
+SY,SY,SY,040,"Consult, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355010&language=en,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,humanitarian,aid,"
+SY,SY,SY,180,"Use unconventional violence, not specified below
+",35,38,35,38,35,38,http://www.naharnet.com/stories/en/113309,Syria,Syria,"town,refugee,others,"
+SY,KU,SY,020,"Appeal, not specified below
+",35,38,29.3375,47.6581,35,38,http://reliefweb.int/report/syrian-arab-republic/kuwaiti-charities-launch-appeal-raise-usd-142-mln-syrian-refugee-housing,Syria,Kuwait,"suffering,infrastructure,"
+SY,LE,SY,042,"Make a visit
+",36.2028,37.1586,33.2092,35.515,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Houla, Nabatî, Lebanon","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,QA,JO,036,"Express intent to meet or negotiate
+",35,38,25.5,51.25,31,36,http://www.menafn.com/1093754139/EU-Grants-40-Million-Euro-For-Syrian-Refugee-Crisis,Syria,Qatar,"help,refugee,help,help,refugee,sanitation,agency,help,refugee,help,"
+TU,TU,SY,0233,"Appeal for humanitarian aid
+",39.9272,32.8644,39.9272,32.8644,32.6189,36.1021,http://www.focus-fen.net/index.php?id=f3502,"Ankara, Ankara, Turkey","Ankara, Ankara, Turkey","elections,elections,regional,"
+US,TU,TU,0233,"Appeal for humanitarian aid
+",38,-97,39.9272,32.8644,39.9272,32.8644,http://www.focus-fen.net/index.php?id=f3502,United States,"Ankara, Ankara, Turkey","elections,elections,regional,"
+SY,US,SY,042,"Make a visit
+",36.2028,37.1586,42.1497,-74.9384,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","New York, United States","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+US,SY,SY,043,"Host a visit
+",42.1497,-74.9384,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"New York, United States","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+SY,SY,SY,070,"Provide aid, not specified below
+",36.2028,37.1586,36.2028,37.1586,36.2028,37.1586,http://www.aina.org/news/20140112153719.htm,"Aleppo, ?alab, Syria","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+US,SY,US,070,"Provide aid, not specified below
+",34.0522,-118.244,36.2028,37.1586,34.0522,-118.244,http://www.aina.org/news/20140112153719.htm,"Los Angeles, California, United States","Aleppo, ?alab, Syria","flee,Syria,humanitarian,Syria,asylum,Syria,humanitarian,refugee,humanitarian,help,suffering,Syria,conflict,refugee,billion,humanitarian,aid,refugee,refugee,refugee,Syria,aid,refugee,humanitarian,refugee,"
+UK,SY,UK,0333,"Express intent to provide humanitarian aid
+",54.5833,-5.93333,35,38,54.5833,-5.93333,http://www.belfasttelegraph.co.uk/news/local-national/uk/stars-plead-for-uk-to-take-refugees-29913286.html,"Belfast, Belfast, United Kingdom",Syria,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+UK,SY,UK,0333,"Express intent to provide humanitarian aid
+",51.5,-0.116667,35,38,51.5,-0.116667,http://www.standard.co.uk/showbiz/celebrity-news/stars-call-on-prime-minister-to-save-syrian-refugees-from-bloodshed-9057354.html,"London, London, City of, United Kingdom",Syria,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+UK,SY,UK,0333,"Express intent to provide humanitarian aid
+",54,-2,35,38,54,-2,http://www.herefordtimes.com/uk_national_news/10934128.Stars_plead_for_UK_to_take_refugees/,United Kingdom,Syria,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+SY,SY,SY,012,"Make pessimistic comment
+",35,38,35,38,35,38,http://www.ekurd.net/mismas/articles/misc2014/1/kurdlocal1487.htm,Syria,Syria,"regional,regional,force,force,Refugees,agency,"
+US,US,US,090,"Investigate, not specified below
+",38.8951,-77.0364,38.8951,-77.0364,38.8951,-77.0364,http://middleeastvoices.voanews.com/2014/01/quicktake-syria-extremists-restricting-womens-rights-97572/,"Washington, District of Columbia, United States","Washington, District of Columbia, United States","Syria,affect,Syria,"
+SY,SY,SY,090,"Investigate, not specified below
+",35,38,35,38,35,38,http://middleeastvoices.voanews.com/2014/01/quicktake-syria-extremists-restricting-womens-rights-97572/,Syria,Syria,"Syria,affect,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://reliefweb.int/report/lebanon/bringing-learning-syrian-refugee-children-lebanon,Syria,Syria,"refugee,others,activities,refugee,activities,refugee,refugee,conflict,humanitarian,"
+NL,NL,NL,020,"Appeal, not specified below
+",52.5,5.75,52.5,5.75,52.5,5.75,http://www.theguardian.com/global-development/2014/jan/13/open-thread-stories-forced-migration-displacement,Netherlands,Netherlands,"flee,"
+UK,SY,SY,020,"Appeal, not specified below
+",51.5,-0.116667,35,38,35,38,http://www.standard.co.uk/showbiz/celebrity-news/stars-call-on-prime-minister-to-save-syrian-refugees-from-bloodshed-9057354.html,"London, London, City of, United Kingdom",Syria,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+SY,UK,UK,020,"Appeal, not specified below
+",35,38,54.5833,-5.93333,54.5833,-5.93333,http://www.belfasttelegraph.co.uk/news/local-national/uk/stars-plead-for-uk-to-take-refugees-29913286.html,Syria,"Belfast, Belfast, United Kingdom","Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+SY,UK,UK,020,"Appeal, not specified below
+",35,38,54,-2,54,-2,http://www.herefordtimes.com/uk_national_news/10934128.Stars_plead_for_UK_to_take_refugees/,Syria,United Kingdom,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+SY,SY,SY,080,"Yield, not specified below 
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.chinadaily.com.cn/world/2014-01/13/content_17232181.htm,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","aid,humanitarian,aid,aid,Syria,humanitarian,"
+SY,SY,SY,192,"Occupy territory
+",33.8,36.4333,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Qalamoun, Rif Dimashq, Syria","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+IZ,SY,IZ,043,"Host a visit
+",33.3386,44.3939,35,38,33.3386,44.3939,http://www.almanar.com.lb/english/adetails.php?eid=129963&cid=23&fromval=1,"Baghdad, Baghdad, Iraq",Syria,"Syria,"
+KU,SY,IZ,043,"Host a visit
+",29.3375,47.6581,35,38,33.3386,44.3939,http://www.almanar.com.lb/english/adetails.php?eid=129963&cid=23&fromval=1,Kuwait,Syria,"Syria,"
+IT,SY,IT,043,"Host a visit
+",35.5,12.6,35,38,35.5,12.6,http://www.theguardian.com/world/2014/jan/13/lampedusa-sea-disaster-survivors-released-un-italy,"Lampedusa, Italy (general), Italy",Syria,"asylum,seekers,refugee,agency,coast,asylum,seekers,asylum,seekers,asylum,seekers,"
+JO,SY,JO,042,"Make a visit
+",31.95,35.9333,35,38,31.95,35.9333,http://reliefweb.int/report/jordan/families-divided-conflict-syria-hoping-return-home-soon,"Amman, (JO11), Jordan",Syria,"border,Syria,border,conflict,"
+SY,SY,SY,043,"Host a visit
+",35.9306,36.6339,35.9306,36.6339,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,"Idlib, Idlib, Syria","Idlib, Idlib, Syria","Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+JO,SY,SY,043,"Host a visit
+",31,36,35.9306,36.6339,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,Jordan,"Idlib, Idlib, Syria","Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+JO,SY,SY,043,"Host a visit
+",31,36,35.9306,36.6339,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,Jordan,"Idlib, Idlib, Syria","Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+LE,SY,SY,043,"Host a visit
+",33.8333,35.8333,35.9306,36.6339,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,Lebanon,"Idlib, Idlib, Syria","Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+LE,SY,LE,073,"Provide humanitarian aid
+",33.8333,36,35,38,33.8333,36,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,"Bekaa Valley, Béa, Lebanon",Syria,"refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+LE,SY,SY,073,"Provide humanitarian aid
+",33.8333,36,35,38,35,38,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,"Bekaa Valley, Béa, Lebanon",Syria,"refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+SY,LE,SY,073,"Provide humanitarian aid
+",35,38,33.8333,36,35,38,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,Syria,"Bekaa Valley, Béa, Lebanon","refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+LE,SY,SY,075,"Grant asylum
+",33.8333,35.8333,35,38,35,38,http://reliefweb.int/report/lebanon/bringing-learning-syrian-refugee-children-lebanon,Lebanon,Syria,"refugee,others,activities,refugee,activities,refugee,refugee,conflict,humanitarian,"
+LE,SY,LE,182,"Physically assault, not specified below
+",33.8333,36,35,38,33.8333,36,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,"Bekaa Valley, Béa, Lebanon",Syria,"refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+SY,LE,LE,182,"Physically assault, not specified below
+",35,38,33.8333,36,33.8333,36,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,Syria,"Bekaa Valley, Béa, Lebanon","refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+LE,SY,LE,043,"Host a visit
+",34.1794,36.4208,33.8,36.4333,34.1794,36.4208,http://www.unhcr.org/52d40b4d6.html,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+SY,SY,SY,013,"Make optimistic comment
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355297&language=en,Syria,Syria,"humanitarian,help,suffering,"
+SY,SY,SY,0333,"Express intent to provide humanitarian aid
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355297&language=en,Syria,Syria,"humanitarian,help,suffering,"
+SY,SY,SY,172,"Impose administrative sanctions, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.wsws.org/en/articles/2014/01/13/syri-j13.html,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,Syria,others,Syria,Syria,aid,aid,aid,attacks,aid,Syria,Syria,flee,refugee,Syria,humanitarian,refugee,border,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Syria,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SY,SY,043,"Host a visit
+",33.8442,36.5469,33.8442,36.5469,33.8442,36.5469,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-13/243957-arsal-mayor-says-helping-to-free-syria-nuns.ashx,"Maaloula, Rif Dimashq, Syria","Maaloula, Rif Dimashq, Syria","town,help,Syria,Syria,town,Syria,"
+LE,LE,LE,043,"Host a visit
+",34.1794,36.4208,34.1794,36.4208,34.1794,36.4208,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-13/243957-arsal-mayor-says-helping-to-free-syria-nuns.ashx,"Arsal, Mohafazat Baalbek-Hermel, Lebanon","Arsal, Mohafazat Baalbek-Hermel, Lebanon","town,help,Syria,Syria,town,Syria,"
+AF,AF,AF,060,"Engage in material cooperation, not specified below
+",33,65,33,65,33,65,http://www.kjonline.com/news/Lawmakers_unveil_massive__1_1_trillion_spending_plan_.html,Afghanistan,Afghanistan,"billion,funding,agency,agency,funding,funding,help,billion,billion,aid,"
+AF,SY,AF,060,"Engage in material cooperation, not specified below
+",33,65,35,38,33,65,http://www.thehindubusinessline.com/news/international/us-congress-unveils-massive-spending-bill/article5576333.ece,Afghanistan,Syria,
+EG,EG,EG,060,"Engage in material cooperation, not specified below
+",27,30,27,30,27,30,http://www.thehindubusinessline.com/news/international/us-congress-unveils-massive-spending-bill/article5576333.ece,Egypt,Egypt,"billion,funding,agency,funding,billion,billion,aid,"
+SY,SY,AF,060,"Engage in material cooperation, not specified below
+",35,38,35,38,33,65,http://www.kjonline.com/news/Lawmakers_unveil_massive__1_1_trillion_spending_plan_.html,Syria,Syria,"billion,funding,agency,agency,funding,funding,help,billion,billion,aid,"
+SY,SY,SY,075,"Grant asylum
+",35,38,35,38,35,38,http://reliefweb.int/report/syrian-arab-republic/urgent-steps-must-be-taken-end-syrian-humanitarian-crisis,Syria,Syria,"suffering,Syria,humanitarian,aid,conflict,others,aid,humanitarian,help,billion,humanitarian,Syria,humanitarian,refugee,humanitarian,humanitarian,humanitarian,conflict,help,"
+US,US,US,090,"Investigate, not specified below
+",38.8951,-77.0364,38.8951,-77.0364,38.8951,-77.0364,http://middleeastvoices.voanews.com/2014/01/quicktake-syria-extremists-restricting-womens-rights-97572/,"Washington, District of Columbia, United States","Washington, District of Columbia, United States","Syria,affect,Syria,"
+GM,SY,SY,040,"Consult, not specified below
+",51,9,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Germany,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Syria,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SY,SY,0233,"Appeal for humanitarian aid
+",33.8,36.4333,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Qalamoun, Rif Dimashq, Syria","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+LE,SY,SY,0233,"Appeal for humanitarian aid
+",33.8333,36,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Bekaa Valley, Béa, Lebanon","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+SY,SY,SY,044,"Meet at a ÒhirdÓlocation
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.spacewar.com/reports/Syria_war_boost_jihadist_threat_in_Lebanon_999.html,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,refugee,agency,force,force,attacks,refugee,police,billion,"
+SY,SY,SZ,044,"Meet at a ÒhirdÓlocation
+",33.5,36.3,33.5,36.3,46.1956,6.14811,http://www.spacewar.com/reports/Syria_war_boost_jihadist_threat_in_Lebanon_999.html,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,refugee,agency,force,force,attacks,refugee,police,billion,"
+SY,SY,SZ,044,"Meet at a ÒhirdÓlocation
+",35,38,35,38,46.1956,6.14811,http://www.spacewar.com/reports/Women_must_be_part_of_Syria_talks_activists_say_999.html,Syria,Syria,"Syria,Syria,refugee,agency,"
+SY,SY,SY,044,"Meet at a ÒhirdÓlocation
+",35,38,35,38,35,38,http://www.spacewar.com/reports/Women_must_be_part_of_Syria_talks_activists_say_999.html,Syria,Syria,"Syria,Syria,refugee,agency,"
+SY,SY,SY,0874,"Retreat or surrender militarily
+",33.8,36.4333,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Qalamoun, Rif Dimashq, Syria","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+LE,SY,SY,0874,"Retreat or surrender militarily
+",33.8333,36,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Bekaa Valley, Béa, Lebanon","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+SY,SY,SY,042,"Make a visit
+",33.8,36.4333,33.8,36.4333,33.8,36.4333,http://www.unhcr.org/52d40b4d6.html,"Qalamoun, Rif Dimashq, Syria","Qalamoun, Rif Dimashq, Syria","town,town,town,refugee,town,Syria,"
+SY,SY,SY,042,"Make a visit
+",34.7517,35.9896,34.7517,35.9896,34.7517,35.9896,http://reliefweb.int/report/lebanon/after-hours-classes-let-syrian-refugee-children-continue-studies,"Qusayr, Tartus, Syria","Qusayr, Tartus, Syria","town,town,town,refugee,town,Syria,"
+SY,SY,SY,010,"Make statement, not specified below
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Syria,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SY,SY,0233,"Appeal for humanitarian aid
+",36.187,36.7234,36.187,36.7234,36.187,36.7234,http://www.dawn.com/news/1080387/we-dont-know-who-is-fighting-in-syria-say-refugees,"Sarmada, Idlib, Syria","Sarmada, Idlib, Syria","border,Syria,Syria,refugee,border,refugee,border,force,force,refugee,"
+SY,SY,SY,042,"Make a visit
+",33.8,36.4333,33.8,36.4333,33.8,36.4333,http://www.dailystar.com.lb/News/Lebanon-News/2014/Jan-13/243957-arsal-mayor-says-helping-to-free-syria-nuns.ashx,"Qalamoun, Rif Dimashq, Syria","Qalamoun, Rif Dimashq, Syria","town,help,Syria,Syria,town,Syria,"
+SY,SY,SY,043,"Host a visit
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Syria,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SZ,SY,070,"Provide aid, not specified below
+",35,38,46.4337,6.91318,35,38,http://www.swissinfo.ch/eng/politics/Switzerland_ups_its_aid_pledge_to_Syria.html?cid=37726628&c=V-zpn7XXV6qmOobugpFJoGnYFO5_4ydqCtgZBM6DiLg&mkt=en-us,Syria,"Montreux, Vaud, Switzerland","humanitarian,aid,Syria,billion,Syria,humanitarian,aid,Syria,Syria,aid,refugee,Syria,humanitarian,aid,humanitarian,aid,humanitarian,humanitarian,"
+SY,SY,SY,070,"Provide aid, not specified below
+",35,38,35,38,35,38,http://www.swissinfo.ch/eng/politics/Switzerland_ups_its_aid_pledge_to_Syria.html?cid=37726628&c=V-zpn7XXV6qmOobugpFJoGnYFO5_4ydqCtgZBM6DiLg&mkt=en-us,Syria,Syria,"humanitarian,aid,Syria,billion,Syria,humanitarian,aid,Syria,Syria,aid,refugee,Syria,humanitarian,aid,humanitarian,aid,humanitarian,humanitarian,"
+RS,RS,RS,080,"Yield, not specified below 
+",60,100,60,100,60,100,http://reliefweb.int/report/syrian-arab-republic/urgent-steps-must-be-taken-end-syrian-humanitarian-crisis,Russia,Russia,"suffering,Syria,humanitarian,aid,conflict,others,aid,humanitarian,help,billion,humanitarian,Syria,humanitarian,refugee,humanitarian,humanitarian,humanitarian,conflict,help,"
+SY,SY,SY,080,"Yield, not specified below 
+",35,38,35,38,35,38,http://reliefweb.int/report/syrian-arab-republic/urgent-steps-must-be-taken-end-syrian-humanitarian-crisis,Syria,Syria,"suffering,Syria,humanitarian,aid,conflict,others,aid,humanitarian,help,billion,humanitarian,Syria,humanitarian,refugee,humanitarian,humanitarian,humanitarian,conflict,help,"
+SY,SY,SY,090,"Investigate, not specified below
+",35,38,35,38,35,38,http://www.theguardian.com/world/video/2014/jan/13/fortress-europe-syria-refugee-crisis-video,Syria,Syria,"refugee,border,"
+SY,SY,SY,044,"Meet at a ÒhirdÓlocation
+",33.5,36.3,33.5,36.3,33.5,36.3,http://www.spacewar.com/reports/Syria_war_boost_jihadist_threat_in_Lebanon_999.html,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,refugee,agency,force,force,attacks,refugee,police,billion,"
+SY,SY,SZ,044,"Meet at a ÒhirdÓlocation
+",33.5,36.3,33.5,36.3,46.1956,6.14811,http://www.spacewar.com/reports/Syria_war_boost_jihadist_threat_in_Lebanon_999.html,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria","Syria,Syria,refugee,agency,force,force,attacks,refugee,police,billion,"
+SY,SY,SZ,044,"Meet at a ÒhirdÓlocation
+",35,38,35,38,46.1956,6.14811,http://www.spacewar.com/reports/Women_must_be_part_of_Syria_talks_activists_say_999.html,Syria,Syria,"Syria,Syria,refugee,agency,"
+SY,SY,SY,044,"Meet at a ÒhirdÓlocation
+",35,38,35,38,35,38,http://www.spacewar.com/reports/Women_must_be_part_of_Syria_talks_activists_say_999.html,Syria,Syria,"Syria,Syria,refugee,agency,"
+SY,SY,SY,040,"Consult, not specified below
+",35,38,35,38,35,38,http://www.worldbulletin.net/?aType=haber&ArticleID=126831,Syria,Syria,"refugee,refugee,asylum,asylum,seekers,arrive,help,"
+SY,SY,SY,075,"Grant asylum
+",35,38,35,38,35,38,http://www.kuna.net.kw/ArticleDetails.aspx?id=2355297&language=en,Syria,Syria,"humanitarian,help,suffering,"
+LE,LE,LE,090,"Investigate, not specified below
+",33.8333,36,33.8333,36,33.8333,36,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,"Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon","refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+LE,LE,US,090,"Investigate, not specified below
+",33.8333,36,33.8333,36,39.0724,-76.7902,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,"Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon","refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+SY,SY,SY,042,"Make a visit
+",35,38,35,38,35,38,http://reliefweb.int/report/lebanon/bringing-learning-syrian-refugee-children-lebanon,Syria,Syria,"refugee,others,activities,refugee,activities,refugee,refugee,conflict,humanitarian,"
+SY,EG,LE,080,"Yield, not specified below 
+",36.2028,37.1586,27,30,33.7083,35.9025,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria",Egypt,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,TU,SY,080,"Yield, not specified below 
+",36.2028,37.1586,39,35,36.2028,37.1586,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria",Turkey,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+UK,SY,SY,100,"Demand, not specified below
+",51.5,-0.116667,35,38,35,38,http://www.standard.co.uk/showbiz/celebrity-news/stars-call-on-prime-minister-to-save-syrian-refugees-from-bloodshed-9057354.html,"London, London, City of, United Kingdom",Syria,"Refugees,help,refugee,humanitarian,Syria,asylum,aid,Syria,Syria,"
+SY,IZ,IZ,042,"Make a visit
+",35,38,33.3386,44.3939,33.3386,44.3939,http://www.almanar.com.lb/english/adetails.php?eid=129963&cid=23&fromval=1,Syria,"Baghdad, Baghdad, Iraq","Syria,"
+SY,KU,IZ,042,"Make a visit
+",35,38,29.3375,47.6581,33.3386,44.3939,http://www.almanar.com.lb/english/adetails.php?eid=129963&cid=23&fromval=1,Syria,Kuwait,"Syria,"
+SY,EG,SY,080,"Yield, not specified below 
+",36.2028,37.1586,27,30,36.2028,37.1586,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria",Egypt,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,IZ,LE,080,"Yield, not specified below 
+",36.2028,37.1586,33,44,33.7083,35.9025,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria",Iraq,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,IT,IT,042,"Make a visit
+",35,38,35.5,12.6,35.5,12.6,http://www.theguardian.com/world/2014/jan/13/lampedusa-sea-disaster-survivors-released-un-italy,Syria,"Lampedusa, Italy (general), Italy","asylum,seekers,refugee,agency,coast,asylum,seekers,asylum,seekers,asylum,seekers,"
+SY,SY,SY,042,"Make a visit
+",35.9306,36.6339,35.9306,36.6339,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,"Idlib, Idlib, Syria","Idlib, Idlib, Syria","Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+SY,JO,SY,042,"Make a visit
+",35.9306,36.6339,31,36,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,"Idlib, Idlib, Syria",Jordan,"Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+SY,JO,JO,043,"Host a visit
+",35,38,31.95,35.9333,31.95,35.9333,http://reliefweb.int/report/jordan/families-divided-conflict-syria-hoping-return-home-soon,Syria,"Amman, (JO11), Jordan","border,Syria,border,conflict,"
+SY,LE,SY,080,"Yield, not specified below 
+",36.2028,37.1586,33.7083,35.9025,36.2028,37.1586,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria","Majdal Anjar, Béa, Lebanon","Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,JO,LE,080,"Yield, not specified below 
+",36.2028,37.1586,31,36,33.7083,35.9025,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria",Jordan,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,LE,LE,010,"Make statement, not specified below
+",35,38,33.8333,36,33.8333,36,http://reliefweb.int/report/lebanon/running-out-time-survival-syrian-refugee-children-lebanon,Syria,"Bekaa Valley, Béa, Lebanon","refugee,humanitarian,funding,refugee,Refugees,humanitarian,refugee,refugee,aid,refugee,suffering,arrive,refugee,funding,refugee,refugee,billion,funding,billion,"
+SY,JO,SY,042,"Make a visit
+",35.9306,36.6339,31,36,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,"Idlib, Idlib, Syria",Jordan,"Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+SY,LE,SY,042,"Make a visit
+",35.9306,36.6339,33.8333,35.8333,35.9306,36.6339,https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-to-parliament-on-syria,"Idlib, Idlib, Syria",Lebanon,"Syria,Syria,humanitarian,suffering,terrible,humanitarian,Syria,humanitarian,aid,aid,Syria,humanitarian,humanitarian,billion,funding,billion,Syria,humanitarian,attacks,humanitarian,funding,humanitarian,border,help,conflict,regional,conflict,humanitarian,help,facilities,Syria,regional,conflict,conflict,help,aid,"
+SY,LE,SY,080,"Yield, not specified below 
+",36.2028,37.1586,33.7083,35.9025,36.2028,37.1586,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria","Majdal Anjar, Béa, Lebanon","Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SY,LE,LE,080,"Yield, not specified below 
+",36.2028,37.1586,33.7083,35.9025,33.7083,35.9025,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,"Aleppo, ?alab, Syria","Majdal Anjar, Béa, Lebanon","Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
+SA,SA,SA,080,"Yield, not specified below 
+",25,45,25,45,25,45,http://www.stuff.co.nz/world/middle-east/9604890/In-photos-Syrias-children-suffer-amid-war,Saudi Arabia,Saudi Arabia,"Syria,refugee,Syria,refugee,border,town,help,refugee,border,Syria,border,Syria,Syria,help,border,Syria,border,humanitarian,billion,help,Refugees,"
