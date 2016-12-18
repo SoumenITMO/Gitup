@@ -1,0 +1,864 @@
+CAMEO CODE DETAILS 
+
+  01 -> MAKE PUBLIC STATEMENT 
+  
+          [ It is just a simple root event name ]
+  010 ->
+          [ Make statement, not specificed below ] 
+		  
+				All public statements expressed verbally or in action not otherwise specified.
+				
+				This residual category is not coded except when distinctions among 011
+				to 017 cannot be made. Note that statements are typically subordinate
+				events; events such as comments are coded as mere statements only when
+				they do not further imply appeals, agreements, support, apologies, demands,
+				disapprovals, rejections, threats, etc
+   
+   011 --> 
+   
+          [ Decline comment ]
+		  
+		         Explicitly decline or refuse to comment on a situation
+				 
+				This event form is a verbal act. The target could be who the source actor
+				declines to make a comment to or about.
+	
+	012 -->
+	
+	      [ Make pessimistic comment ]
+		  
+		         Express pessimism, negative outlook.
+				 
+				This event form is a verbal act. Only statements with explicit pessimistic
+				components should be coded as 012; otherwise, default to 010.
+				
+	013 -->
+	
+	      [ Make optimistic comment ]
+		  
+		         Express optimism, assurance, confidence
+				 
+				This event form is a verbal act. Only statements with explicit optimistic
+				components should be coded as 013; otherwise, default to 010.
+				
+    014 -->
+	
+	      [ Consider policy option ]
+		  
+		        Review, reflect upon, or study policy option.
+		  
+				This event form is typically, although not exclusively, a verbal act. There is
+				no limitation on types of policies that could be under consideration
+		
+     015 --> 
+	 
+	      [  Acknowledge or claim responsibility ]
+	 
+				Non-apologetically claim responsibility, admit an error or wrongdoing, or
+				retract a statement without expression of remorse. 
+				
+				This event form is a verbal act. Remorseful acknowledgements should be
+				coded as ‘Apologize’ (055) instead
+				
+	  016 -->
+	  
+	       [ Reject accusation, deny responsibility ]
+		   
+		        Discard or deny accusations or charges.
+
+				This event form is a verbal act. The target for this event type is the party
+				that introduces some accusation or charge against the source actor who
+				denies responsibility
+	  
+	  017  -->
+	  
+	        [ Engage in symbolic act ]
+			
+				Engage in symbolic activities such as holding vigils, attending funerals, and
+				laying wreath
+				
+				Use this event form for all symbolic acts, including those that imply empathy.
+				Use 018 to code only empathetic comments (i.e. not actions).
+
+	   018 -->
+	   
+	        [ Make empathetic comment ]
+			
+			    Express empathy, condolences, sympathy, understanding.
+				
+				This event form refers exclusively to verbal acts or comments. Empathetic
+				and other symbolic actions should be coded as 017 instead.
+				
+	    019 --> 
+		
+		    [  Express accord ]
+			
+			     Express common understanding, agreement, or accord.
+				 
+				This event form refers exclusively to verbal acts or comments. Use this code
+				when actors indicate that they simply agree or concur on an issue but do not
+				imply commitment or intent to cooperate on that issue. These are typically
+				reciprocal events (see example below) and require coding of more than one
+				019 event with actors reversed.
+				
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+              02 -->  APPEAL
+				
+				
+		02 --> The main root event code is 02 which means all the subevent which belongs to 02 that event is related to APPEAL
+		
+		   -----
+		   
+		020 --> Make an appeal or request, not specified below
+		
+		        [ All requests, proposals, suggestions and appeals not otherwise specified ]
+				
+				This residual category is not coded except when distinctions among 021
+				through 028 cannot be made. Events coded under this category refer to
+				pleas made either on the source actor’s own behalf or on behalf of another
+				party (i.e. the source asks that the target does something either for self or
+				for a third party). Note that this and all the subcategories are distinct from
+				demands, which are more forceful, and from pledges, which imply commitments,
+				agreements, or promises on the part of the source actor.
+		
+
+        021 --> Appeal for material cooperation
+		
+		        [ Make an appeal for, request, or suggest material cooperation ]
+				
+				This event form is typically, though not exclusively, a verbal act. It refers
+				to appeals for material cooperation specifically; appeals for diplomatic cooperation,
+				such as for the provision of support on a particular policy, are
+				coded as 022 instead. (Note that the actual events of material cooperation
+				are coded under category 06.)
+				
+       --------------------------------------------- SUB EVENTS FOR 021 ---------------------------------------------------------------------
+
+									0211 --> Appeal for economic cooperation
+									
+											 [ Appeal for economic cooperation ]
+											 
+											Make an appeal for, request, or suggest initiating or expanding economic
+											ties
+											
+											Use this code for requests to develop or expand trade and other forms of economic
+											exchange. Appeals for provision of economic aid-not mutual exchangeare
+											code
+											
+									0212 -->  Appeal for military cooperation
+									
+											 [ Make an appeal for, request, or suggest initiating or expanding military ties. ]
+											 
+											Use this code for requests to develop or expand military relations by engaging
+											in acts such as joint military maneuvers or exercises. Appeals for provision of
+											military aid-not mutual exchange-are coded as 0232 instead. Actual events
+											of military cooperation are coded as 062
+
+									
+									0213 -->  Appeal for judicial cooperation
+									
+											[ Make an appeal for, request, or suggest initiating or expanding cooperation
+											in judicial matters. ]
+											
+											Use this code for requests to develop or expand cooperation in such matters
+											as extraditions. Appeals for information or other investigative tools, even if
+											to be used in courts of law, are coded as 0214 instead. Note that in case of
+											extraditions, the target for this event type is not the subject but the country
+											he would be extradited to. Actual events of judicial cooperation are coded
+											as 063.
+											
+									0214 -->  Appeal for intelligence cooperation
+
+									
+											[ Make an appeal for, request, or suggest sharing of intelligence. ]
+											
+											Use this code for requests to develop or expand intelligence and information
+											sharing. Actual events of intelligence cooperation are coded as 064
+											
+									
+		----------------------------------------------------------------------------------------------------------------------------------------
+
+
+        022 --> Appeal for diplomatic cooperation (such as policy support)
+
+		        [ Make an appeal for, request, or suggest expansion of diplomatic ties or cooperation ]
+				
+				This event form is typically, although not exclusively, a verbal act. It refers to
+				appeals for expanded diplomatic ties and non-tangible support on particular
+				policies. Appeals for more specific forms of diplomacy, such as mediation
+				and negotiation, are coded elsewhere within category 02
+	     
+		023 --> Appeal for material aid, not specified below
+		
+				[ Make an appeal for, request, or suggest provision of material assistance not
+				otherwise specified. ]
+
+				This category contains sub-forms for more detailed coding whenever possible.
+				The source could be requesting aid for itself or on behalf of a third party;
+				in either case, the actor whom the request is directed to should be coded
+				as the target. Note that only requests for or suggestions of material aid are
+				coded under this category; events coded under 023 imply neither the receipt
+				or delivery of material aid nor a commitment on the part of the source actor
+				to provide such aid. For the latter two cases, refer instead to categories 07
+				and 033, respectively
+				
+							----------------------------------------------------- SUB EVENTS OF 023 ----------------------------------------------------------------
+							
+							0231 --> Appeal for economic aid
+							
+									 [ Make an appeal for, request, or suggest economic assistance. ]
+									 
+									This event form is typically, although not exclusively, a verbal act. Requests
+									or suggestions for loans or debt relief are also coded here. Appeals for reciprocal
+									economic exchange, such as trade, should be coded as 0212 instead.
+									The source could be requesting support for itself or on behalf of another
+									party.
+							
+							0232 --> Appeal for military aid.
+
+									 [ Make an appeal for, request, or suggest military assistance. ]
+									 
+									This event form is typically, although not exclusively, a verbal act. Requests
+									for or suggestions of joint military actions, rather than unilateral military
+									aid, should be coded as 0212 instead.
+							
+							0233 --> Appeal for humanitarian aid 
+							
+									 [ Make an appeal for, request, or suggest humanitarian assistance. ]
+									 
+									Requests for or suggestions of food, medicine, and related personnel, as well
+									as shelter and protection, are all coded as 0233. Calls by refugees to be let
+									into the territories of other countries (which should be coded as targets) and
+									asylum requests all fit here.
+									
+							0234 --> Appeal for military protection or peacekeeping
+							
+									[ Make an appeal for, request, or suggest deployment of peacekeepers or other
+									military forces to preserve peace, enforce ceasefires, or protect civilians. ]
+									
+									
+									This event form is typically, although not exclusively, a verbal act. The
+									source actor could be making the appeal for itself or on behalf of another
+									party; the target should represent the actor who is expected to provide the
+									forces.
+									
+							------------------------------------------------------------------------------------------------------------------------------------------
+							
+		 
+		 024 --> Appeal for political reform, not specified below
+		 
+		         [ Make an appeal for, request, or suggest political change not otherwise specified ]
+				 
+				 This event form refers to verbal and non-threatening appeals. More forceful
+			“demands” for political change are coded under 104; expressions that
+			take the form of demonstrations, protests, etc. are coded under category 14.
+			Source actors can be local citizens as well as international actors; they could
+			be making the appeal on their own behalf or on behalf of others. Note that
+			when the requested reform clearly constitutes some form of concession or
+			yielding by the target such as the easing of administrative sanctions, a more
+			appropriate ‘Appeal’ code might be found under 025.
+		
+								-------------------------------------------------------- SUB EVENTS FOR 024 ---------------------------------------------------------------------------		
+									 0241 -->   Appeal for leadership change
+									 
+												[ Make an appeal for, request, or suggest change in leadership or power. ]
+												
+												This event form refers to verbal and non-threatening appeals. More forceful
+												“demands” for leadership change are coded as 1041; demonstrations,
+												protests, etc. demanding change in leadership/power are coded under category
+												14. Note that even though calls for the target to resign or relinquish
+												power are forms of yielding, they are still coded here. Also code appeals for
+												elections here.					
+									 
+									 0242 -->   Appeal for policy change
+									 
+												[ Make an appeal for, request, or suggest change in any particular policy. ]
+												
+												This event form refers to verbal and non-threatening appeals. More forceful
+												“demands” for policy change are coded as 1042; demonstrations, protests,
+												etc. demanding change in leadership/power are coded under category 14.
+												Just like the source actor, the policy in question can also be domestic or
+												international in nature. If it is clear from the lead that by requesting certain
+												policy changes the source is in fact appealing to the target to yield or concede,
+												the event might be better coded under 035.
+												
+									  0243 -->  Appeal for rights 
+									  
+												[ Make an appeal for, request, or suggest provision or expansion of social,
+												political, or other rights. ]
+												
+												This event form refers to verbal and non-threatening appeals. More forceful
+												“demands” for rights are coded as 1043; demonstrations, protests, etc.
+												demanding certain rights are coded under category 14. If it is clear from
+												the lead that by requesting certain rights the source is in fact appealing
+												to the target to yield or concede, the event might be better coded under
+												025. Appeals for provision of compensation for previously violated rights,
+												for instance, are coded as 025.
+									   
+									   0244 --> Appeal for change in institutions, regime
+									   
+												[ Make an appeal for, request, or suggest major institutional, constitutional,
+												or regime change. ]
+												
+												This event form refers to verbal and non-threatening appeals. More forceful
+												“demands” for institutional change are coded as 1044; demonstrations,
+												protests, etc. demanding such change are coded under category 14. Institutional
+												change is different from policy change in that the former directly
+												alters the rules of the game. Requests for fundamental changes in the political
+												system (e.g. democratization) as well as for more limited institutional
+												changes (e.g. changing electoral law) are coded here
+												
+								  ------------------------------------------------------------------------------------------------------------------------------------------------
+
+    025 -->  Appeal to yield, not specified below
+	
+			[ Make an appeal for, request, or suggest that target yields or concedes; not
+			otherwise specified. ]
+			
+			This event form is typically, although not exclusively, a verbal act. The
+			source for this event type may or may not be one of the adversaries; a third
+			party could also be appealing to one or more of the parties in conflict (who
+			are coded as targets) to yield. When the source itself expresses its intent
+			to yield—rather than requesting it from another party—the event should
+			be coded under 035 instead. When yielding actually takes place, use the
+			appropriate code under category 08
+		
+								   ----------------------------------------------------------------- SUB EVENT OF 025 ------------------------------------------------------------------------		
+
+  								   0251 --> Appeal for easing of administrative sanction
+									
+											[ Make an appeal for, request, or suggest that target relaxes administrative
+											restrictions. ]
+											
+											Use this code when a government is requested to undertake some political
+											changes that clearly constitute some form of concession or yielding, such as
+											relaxing or removing bans or other restrictions that are already in place
+									
+									0252 --> Appeal for easing of political dissent
+									
+											[ Make an appeal for, request, or suggest that target stops political protest
+											activities. ]
+											
+											Use this code for requests for the target to stop engaging in protests, demonstrations,
+											strikes, etc.
+											
+									0253 -->  Appeal for release of persons or property
+									
+											[ Make an appeal for, request, or suggest that target releases persons or property ]
+
+											Use this code for requests for the target to release prisoners, hostages, and
+											any confiscated property.
+									
+									0254 -->  Appeal for easing of economic sanctions, boycott, or embargo
+									
+											[ Make an appeal for, request, or suggest that target stops or eases economic
+											sanctions, boycott, or embargo ]
+											
+											Use this code only for economic sanctions, boycotts, or embargoes.
+											
+									0255 -->  Appeal to allow international involvement (non-mediation)
+
+											[ Make an appeal for, request, or suggest that target allows the entry of international
+											actors, such as observers, humanitarian agencies, and peacekeeping
+											forces. ]
+											
+											Requests for adversaries to allow mediation are coded as 028 instead
+											
+									0256 --> Appeal for target to de-escalation of military engagement
+
+											[ Make an appeal for, request, or suggest that target stops fighting or takes
+											measures to ease military conflict or tension. ]
+											
+											Use this code for appeals for ceasefires, military withdrawals, and demobilization.
+								   ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      026 --> Appeal to others to meet or negotiate
+	  
+	          [ Propose or suggest meeting, negotiation, or discussion among other parties. ]
+			  
+				This event form is typically, although not exclusively, a verbal act. The
+				source for this event cannot be the actors whose meeting or negotiation is
+				called for ; it has to be third parties who appeal to one or more actors—
+				target actors—to meet and/or negotiate. When parties themselves express
+				their intent to meet and/or negotiate, use 036 instead. When meetings or
+				negotiations do take place, use the appropriate code under category 04
+					
+	  027 --> Appeal to others to settle dispute
+	  
+			[ Propose or suggest that others reach a settlement, agreement, or resolution
+			of conflict. ]
+			
+			This event form is typically, although not exclusively, a verbal act. Note that
+			the source for this event cannot be the adversaries themselves. When one or
+			more parties to a conflict call for ending the conflict, that is taken to be an
+			expression of intent on the part of that source actor to reach a settlement
+			and is thus coded as 037 instead.
+	  
+	  028 --> Appeal to others to engage in or accept mediation
+	  
+	        [ Propose or suggest that target mediates or accepts the mediation of others. ]
+			
+			This event form is typically, although not exclusively, a verbal act. Note that
+			the source for this event cannot be the potential mediator or parties to the
+			conflict. When an actor proposes to play the role of mediator himself, this is
+			assumed to be a commitment on his part and is coded as 039 instead. When
+			one or more of the adversaries request that another party plays the role of
+			a mediator, this is understood to be a commitment on their part to accept
+			mediation and is thus coded as 038. The target can either be a potential
+			mediator (whose mediation is being requested) or one of the adversaries (who
+			is requested to allow involvement of mediators).
+			
+	   
+	   03 -->  EXPRESS INTENT 
+	   
+	        030 -->  Express intent to cooperate, not specified below
+			 
+					[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+					cooperate not otherwise specified] 
+					
+					This residual category is not coded except when distinctions among codes
+					031 through 039 cannot be made. All cooperative actions reported in future
+					tense are also taken to imply intentions, if not promises or commitments,
+					to cooperate and are hence coded under this category. These events can be
+					reciprocal or unilateral.
+					
+			 031 --> Express intent to engage in material cooperation, not specified
+                     below
+					 
+					[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+					engage in or expand material cooperative exchange not otherwise specified. ]
+					
+					This category contains sub-forms for more detailed coding whenever possible.
+					This event form refers to commitments or indications of intent by
+					parties to boost their material exchange; they could be reciprocal or unilateral
+					agreements, promises, commitments, or other indications of intent to
+					cooperate. Pledges to provide unilateral material aid, however, are coded
+					under category 033. Expressions of intent to engage in or further diplomatic
+					cooperation, such as negotiations, settling disputes, or provision of policy
+					support are coded elsewhere under category 03. Note that events coded
+					here are intents and commitments, and not actual events of cooperation,
+					which should be coded under 06
+			
+			               0311 --> Express intent to cooperate economically
+						   
+									[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+									engage in or expand economic ties. ]
+									
+									This event form refers to agreements, promises, commitments, or other indications
+									of intent to develop or expand trade and other forms of economic
+									exchange. Offers, promises, or commitments by one actor to provide economic
+									aid to another should be coded as 0331 instead.
+									
+						   0312 --> Express intent to cooperate militarily
+						            
+									[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+									engage in or expand military ties. ]
+									
+									This event form refers to agreements, promises, commitments, or other indications
+									of intent to develop or expand military relations by engaging in such
+									acts as joint military maneuvers or exercises. Offers, promises, or commitments
+									by one actor to provide military aid to another should be coded as
+									0332 instead
+						    
+							0313 --> Express intent to cooperate on judicial matters
+							 
+									[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+									engage in or expand judicial cooperation. ]
+									
+									This event form refers to agreements, promises, commitments, or other indications
+									of intent to develop or expand judicial cooperation by engaging in
+									such acts as extraditions.
+									
+							0314 --> Express intent to cooperate on intelligence
+							
+									[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+									engage in or expand intelligence sharing ]
+									
+									This event form refers to agreements, promises, commitments, or other indications
+									of intent to develop or expand intelligence cooperation by providing
+									or exchanging intelligence or information.
+							
+			032 --> Express intent to engage in diplomatic cooperation (such as policy
+					support)
+					
+					[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+					expand diplomatic ties or cooperation ]
+							
+					This event form is typically, although not exclusively, a verbal act. The
+					offered or promised support should be non-material, such as supporting or
+					backing particular policies and/or goals. Note that agreements or promises
+					to engage in more specific forms of diplomatic cooperation, such as negotiations
+					and mediation, are coded elsewhere under category 03. The target
+					should be the recipient of the potential support.
+					
+			033 -->  Express intent to provide material aid, not specified below
+			
+					[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+					provide some form of material support not otherwise specified.]
+					
+					This event category contains sub-forms for more detailed coding whenever
+					possible. Note that more general commitments to broaden material exchange
+					or cooperation are coded under 031 instead. Reported deliveries of material
+					support are coded under category 07. The target should be the prospective
+					recipient of aid.
+					
+					 0331 --> Express intent to provide economic aid
+
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							provide economic support. ]
+							
+							Code commitments to provide financial support, in form of grants, loans, or
+							debt relief under this event code. Trade commitments should be coded as
+							0311 instead.
+							
+					 0332 --> Express intent to provide military aid
+					 
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							provide military support. ]
+							
+							Use this event form to code commitments to provide all forms of military aid.
+							Promises to engage in bilateral or multilateral military cooperation should
+							be coded as 0312 instead.
+						
+					  0333 -->  Express intent to provide humanitarian aid
+					  
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							provide humanitarian support. ]
+							
+							Use this code for commitments to provide all forms of humanitarian aid, including
+							evacuations from dangerous zones and shelter for refugees. However,
+							note that expressions of intent to provide military security or peacekeeping
+							forces are coded as 0334 instead. Actual provisions of humanitarian aid are
+							coded as 073.
+							
+					  0334 -->  Express intent to provide military protection or peacekeeping
+					  
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							deploy peacekeeping or other military forces for security. ]
+							
+							Source actor for this event is the party making the commitment to provide
+							forces, while the target represents the prospective location of deployment.
+							Actual deployments should be coded as linked events ‘Provide military protection
+							or peacekeeping’ (074) and ‘Receive deployment of peacekeepers’
+							(0861) with actors reversed. Commitments by adversaries to accept peacekeepers
+							should be coded as 0355.
+							
+		  
+		   034 --> Express intent to institute political reform, not specified below
+		   
+					[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+					institute political change not otherwise specified. ]
+					
+					If the promised reforms clearly constitutes some form of concession or yielding
+					by the source, such as the easing of existing administrative sanctions, a
+					more appropriate code might be found under 035. If there are specific groups
+					or individuals asking for that change and that information is codeable given
+					the structure of the lead, those actors should be coded as targets; otherwise,
+					the country in general or actors to be affected by the change should be coded
+					as the target.
+					
+					0341 --> Express intent to change leadership 
+					
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							change leadership or relinquish power. ]
+							
+							Commitments to resign or hand over power, as well to hold elections that
+							might open the way for change in leadership, are coded here. Note that while
+							commitments for other forms of yielding are coded under 035, commitments
+							to give up power are coded here.
+					
+					0342 --> Express intent to change policy 
+					
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment
+							for policy change. ]
+							
+							Use this code for commitments to bring policy change—political, economic,
+							military, social, or otherwise. If the policy change in question clearly represents
+							a form of yielding, the appropriate code under 035 should be used
+							instead.
+							
+				    0343 --> Express intent to provide rights 
+					
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+							provide social, political, economic, or other rights and freedoms. ]
+
+				    0344 --> Express intent to change institutions, regime
+
+							[ Offer, promise, agree to, or otherwise indicate willingness or commitment
+							to make fundamental political changes, such as moving from one type of
+							political system to another and reforming political institutions or key laws. ]
+							
+		035 --> Express intent to yield, not specified below
+
+				[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+				yield not otherwise specified ]
+				
+				This event form refers to general expressions of willingness or commitment to
+				concede; use the subcategories for more detailed coding. The actual events
+				of yielding are coded under category 08.
+				
+				0351 -->  Express intent to ease administrative sanctions
+ 
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						ease administrative sanctions, such as censorship, curfew, state of emergency,
+						and martial law. ]
+						
+				0352 -->  Express intent to ease popular dissent
+				
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						reduce or stop political protest activities, such as demonstrations and rallies. ]
+				
+				0353 -->  Express intent to release persons or property
+				
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						release or return persons or property. ]
+						
+						Commitments to release or exchange prisoners and hostages, as well as commitments
+						to return previously confiscated properties, are coded here.
+						
+				0354 -->   Express intent to ease economic sanctions, boycott, or embargo
+				
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						reduce or eliminate economic sanctions, boycotts, or embargoes ]
+						
+						Use this code only for economic sanctions, boycotts, or embargoes.
+						
+				0355 -->   Express intent to allow international involvement (non-mediation)
+
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						allow access to international actors, such as observers, humanitarian agencies,
+						and peacekeeping forces ]
+						
+						Prospective peacekeepers, observers, etc. are coded as targets. Commitments
+						to accept mediation by third parties are coded as 038 instead
+					
+				0356 -->   Express intent to de-escalate military engagement
+				
+						[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+						stop fighting or take measures to ease military conflict or tension. ]
+						
+						Use this code for appeals for ceasefires, military withdrawals, and demobilization
+						
+		
+		036 --> Express intent to meet or negotiate
+		
+				[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+				meet, visit, or engage in talks or negotiations. ]
+				
+				This event code refers to future commitments to meet and/or negotiate;
+				when meetings, negotiations, or other talks do take place, those are coded
+				under category 04 instead. When mediation is mentioned specifically, appropriate
+				mediation-related codes take precedence over meetings or negotiations
+				
+	    037 --> Express intent to settle dispute
+
+				[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+				reach a comprehensive settlement, agreement, or resolution to conflict. ]
+				
+				Note that specific commitments to yield, which might be present steps to
+				settling disputes, are coded elsewhere under category 03. Both the source
+				and the target for this event type should be adversaries themselves. When
+				other parties make appeals to end disputes in which they are not directly
+				involved, use ‘Appeal to others to settle dispute’ (027) instead.
+				
+	    038 -->  Express intent to accept mediation
+		
+				[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+				accept mediation ] 
+				
+				This code represents adversaries’ commitments to receive mediation by third
+				parties. The latter should be coded as targets, while the source has to be
+				one or more of the parties in conflict for this event. Note that when reports
+				involve references to mediation specifically, mediation-related codes such as
+				this take precedence over others, such as ‘Agree to meet or negotiate,’ ‘Make
+				a visit,’ ‘Host a visit,’ and ‘Meet at a third location.’ For commitments by
+				third parties to mediate refer to code 039 instead. For simple suggestions by
+				actors other than adversaries and potential mediators that mediation occurs,
+				use ‘Appeal to others to engage in or accept mediation’ (028).
+				
+		039 -->  Express intent to mediate
+		
+				[ Offer, promise, agree to, or otherwise indicate willingness or commitment to
+				play the role of a mediator. ]
+				
+				This code represents a commitment by third parties to mediate between parties
+				in conflict. The former should be coded as source and the later as targets
+				for this event. Note that when reports involve references to mediation specifically,
+				mediation-related codes such as this take precedence over others, such
+				as ‘Agree to meet or negotiate,’ ‘Make a visit,’ ‘Host a visit,’ and ‘Meet at
+				a third location.’ For commitments of adversaries to accept mediation by
+				actors other than the adversaries and potential mediators that mediation
+				occurs, refer to ‘Appeal to others to engage in or accept mediation’ (028).
+				
+		
+		
+		
+		--------------------------------------------------------------------------------------------------------------------------------
+		
+		040  -->   Consult, not specified below
+		
+		           [ All consultations and meetings not otherwise specified ]
+				   
+					This residual category is not coded except when distinctions among 041
+					through 046 cannot be made. Note that events coded under 04 are typically,
+					although not always, reciprocal events.
+				   
+	    050 -->    Engage in diplomatic cooperation, not specified below
+		
+					[  Initiate, resume, improve, or expand diplomatic, non-material cooperation
+					or exchange not otherwise specified. ]
+					
+					This residual category is not coded except when the support in question
+					cannot be further specified and codes 051-057 cannot be used.
+					
+		060 -->   Engage in material cooperation, not specified below
+
+					[ Initiate, resume, improve, or expand material cooperation or exchange, not
+					otherwise specified. ]
+					
+					This residual category is not coded except when distinctions among codes
+					061-064 cannot be made.
+		
+		070 -->   Provide aid, not specified below
+		
+		            [ All provisions, extension of material aid, not otherwise specified. ]
+					
+					This residual category is not coded except when distinctions among codes
+					071-075 cannot be made. In order to be coded under this category, the leads
+					must report the delivery of aids; promises to provide aid should be coded
+					under category 033 instead.
+		
+		080 -->   Yield, not specified below
+		
+		           [ All yieldings, concessions not otherwise specified. ]
+				   
+					This residual category is not coded except when distinctions among codes
+					081-087 cannot be made. Not that all of the event forms under this category
+					refer to reported yieldings and tot to future commitments, agreements, or
+					promises.
+	     
+		090 -->    Investigate, not specified below
+		
+		           [ All non-covert investigations not otherwise specified. ]
+				   
+					This residual category is not coded except when distinctions among codes
+					091-094 cannot be made. Also note that category 09 should be used only
+					when investigations are being or have been carried out. Investigation of
+					historical cases should also be coded here.
+	    
+		 100 -->   Demand, not specified below
+		 
+		          [ All demands and orders not otherwise specified. ]
+				   
+					This residual category is not coded except when distinctions among codes
+					101-108 cannot be made. Note that demands are stronger or more forceful
+					and potentially carry more serious repercussions—although not as much as
+					threats—than simple appeals. We rely primarily on the language used by
+					reporters to make this distinction. All demands are verbal acts.
+					
+		110 -->   Disapprove, not specified below
+		
+		         [ Express disapprovals, objections, and complaints not otherwise specified. ]
+				 
+					This residual category is not coded except when distinctions among codes
+					111-116 cannot be made. Disapprovals are typically verbal events
+					
+		120 -->    Reject, not specified below 
+		
+		         [ All rejections and refusals not otherwise specified. ]
+				 
+					This residual category is not coded except when distinctions among codes
+					121-129 cannot be made. All rejections coded under this category should
+					imply refusals to cooperate or yield in some way.
+		
+		130 -->    Threaten, not specified below 
+		
+				[ All threats, coercive or forceful warnings with serious potential repercussions,
+				not otherwise specified. ]
+				
+				Threats are typically verbal acts. This residual category is not coded except
+				when distinctions among codes 131-139 cannot be made. When any conflictual
+				behavior is forecasted using future tense, it is treated as a “threat” (e.g.
+				’will attack’ is coded as ’Threaten to attack’).
+				
+		140 -->   Engage in political dissent, not specified below.
+ 
+				[ All civilian demonstrations and other collective actions carried out as
+				protests against the target actor not otherwise specified. ]
+ 
+        
+		150 -->  Exhibit military or police power, not specified below
+ 
+				[ All military or police moves that fall short of the actual use of force, not
+				otherwise specified. ]
+
+				This category is different from cue categories 18, 19, and 20, as they refer to
+				uses of force, while military posturing falls short of actual use of force and is
+				typically a demonstration of military capabilities and readiness. Category 15
+				is also distinct from category 13 in that the latter refers merely to threats,
+				is typically verbal, and does not involve any activity that is undertaken
+				to demonstrate military power. Note that source actors for codes 150-153
+				are not necessarily militaries affiliated with states but any organized armed
+				groups. Targets are actors against whom the source mobilizes its military
+				capabilities in a threatening manner.
+
+
+        160  --> Reduce relations, not specified below 
+		
+				[ All reductions in normal, routine, or cooperative relations not otherwise
+				specified ]
+				
+				This residual category is not coded except when distinctions among codes
+				161-166 cannot be made				
+
+	    170 -->  Coerce, not specified below
+		
+				[ Repression, violence against civilians, or their rights or properties not otherwise
+				specified. ]
+				
+		180 --> Use unconventional violence, not specified below
+		 
+				[ Use of unconventional forms of violence which do not require high levels of
+				organization or conventional weaponry, not otherwise specified ] 
+				
+				Use this event form to code use of forms of force and violence that do not require
+				high levels of organization typical of state-military establishments. Terrorist
+				attacks, if not further specified, should be coded here. Use this default
+				code also for use of knives, rocks and other such unsophisticated weapons.
+				This residual category is not coded except when distinctions among codes
+				181-186 cannot be made.
+				
+		190 --> Use conventional military force, not specified below
+		
+				[ All uses of conventional force and acts of war typically by organized armed
+				groups not otherwise specified. ]
+
+				This residual category is not coded except when distinctions among codes
+				191-196 cannot be made. In addition to unspecified acts of fighting,
+				“killings” of any kind when the weapons used are not specified should also be
+				coded here. When news leads refer to acts of killing that take place during
+				an attack or some form of military engagement as “murders”, those should
+				still be coded here. However, murders in general—as criminal acts with no
+				political connotations—are not coded under the CAMEO framework. The
+				first example below illustrates how one can differentiate between these two
+				different uses of the verb “murder”.
+				
+		200 --> Use massive unconventional force, not specified below
+		
+				[ All uses of unconventional force that are meant to cause mass destruction,
+				casualties, and suffering not otherwise specified. ]
+				
+				This residual category is not coded except when distinctions among codes
+				201-204 cannot be made
+				
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+						            
+
+					

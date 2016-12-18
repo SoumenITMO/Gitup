@@ -1,0 +1,370 @@
+Root Event Color Code,Root Event Code,Root Event Name,Total Count Root Event,Event Code,Event Code Name,Number of Event Code
+"['144e57\n', '144e62']",18,"ASSAULT
+",2,182,"Physically assault, not specified below
+",1
+"['144e57\n', '144e66']",18,"ASSAULT
+",2,186,"Assassinate 
+",1
+"['bf5e75\n', 'bf5e82']",19,"FIGHT
+",3,193,"Fight with small arms and light weapons
+",1
+"['bf5e75\n', 'bf5e7f']",19,"FIGHT
+",3,190,"Use conventional military force, not specified below
+",2
+"['5f2fc4\n', '5f2fcb']",02,"APPEAL
+",3,025,"Appeal to yield
+",3
+"['c1f827\n', 'c1f833']",08,"YIELD
+",5,084,"Return, release, not specified below
+",3
+"['c1f827\n', 'c1f833']",08,"YIELD
+",5,0841,"Return, release person(s)
+",2
+"['57144e\n', '571454']",14,"PROTEST
+",2,141,"Demonstrate or rally
+",2
+"['bf5e75\n', 'bf5e7b']",04,"CONSULT
+",4,042,"Make a visit
+",2
+"['bf5e75\n', 'bf5e7c']",04,"CONSULT
+",4,043,"Host a visit
+",2
+"['571d21\n', '571d27']",06,"ENGAGE IN MATERIAL COOPERATION
+",2,060,"Engage in material cooperation, not specified below
+",2
+"['17534d \n', '175354']",07,"PROVIDE AID
+",1,070,"Provide aid, not specified below
+",1
+"['c1f827\n', 'c1f833']",08,"YIELD
+",1,084,"Return, release, not specified below
+",1
+"['c03624\n', 'c0362d']",09,"INVESTIGATE
+",2,090,"Investigate, not specified below
+",2
+"['571d14\n', '571d1f']",17,"COERCE
+",1,173,"Arrest, detain, or charge with legal action 
+",1
+"['571d14\n', '571d1a']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",4,051,"Praise or endorse
+",4
+"['57144e\n', '571454']",14,"PROTEST
+",3,141,"Demonstrate or rally
+",3
+"['571d14\n', '571d1a']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",4,051,"Praise or endorse
+",4
+"['c1f827\n', 'c1f833']",08,"YIELD
+",9,0841,"Return, release person(s)
+",9
+"['bf5e75\n', 'bf5e79']",04,"CONSULT
+",15,040,"Consult, not specified below
+",9
+"['17534d \n', '175354']",07,"PROVIDE AID
+",2,070,"Provide aid, not specified below
+",2
+"['bf5e75\n', 'bf5e7c']",04,"CONSULT
+",15,043,"Host a visit
+",3
+"['bf5e75\n', 'bf5e7b']",04,"CONSULT
+",15,042,"Make a visit
+",3
+"['e9c392\n', 'e9c396']",11,"DISAPPROVE
+",3,112,"Accuse, not specified below
+",3
+"['57144e\n', '571454']",14,"PROTEST
+",1,141,"Demonstrate or rally
+",1
+"['571d14\n', '571d1a']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",4,051,"Praise or endorse
+",4
+"['c1f827\n', 'c1f833']",08,"YIELD
+",2,0841,"Return, release person(s)
+",2
+"['5f2fc4\n', '5f2fc6']",02,"APPEAL
+",2,020,"Appeal, not specified below
+",2
+"['571d14\n', '571d1c']",17,"COERCE
+",1,170,"Coerce, not specified below 
+",1
+"['571d14\n', '571d20']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",8,057,"Sign formal agreement
+",4
+"['bf5e75\n', 'bf5e7b']",04,"CONSULT
+",12,042,"Make a visit
+",4
+"['1d1831\n', '1d183b']",15,"EXHIBIT FORCE POSTURE
+",1,154,"Mobilize or increase armed forces 
+",1
+"['bf5e75\n', 'bf5e7c']",04,"CONSULT
+",12,043,"Host a visit
+",4
+"['5e75bf\n', '5e75c2']",03,"EXPRESS INTENT TO COOPERATE
+",6,030,"Express intent to cooperate, not specified below
+",3
+"['c1f827\n', 'c1f82f']",08,"YIELD
+",33,080,"Yield, not specified below 
+",17
+"['c1f827\n', 'c1f833']",08,"YIELD
+",33,0841,"Return, release person(s)
+",10
+"['ff4800\n', 'ff4804']",01,"MAKE PUBLIC STATEMENT
+",26,013,"Make optimistic comment
+",10
+"['ff4800\n', 'ff4808']",01,"MAKE PUBLIC STATEMENT
+",26,017,"Engage in symbolic act
+",10
+"['57144e\n', '571454']",14,"PROTEST
+",8,141,"Demonstrate or rally
+",8
+"['571d21\n', '571d27']",06,"ENGAGE IN MATERIAL COOPERATION
+",4,060,"Engage in material cooperation, not specified below
+",4
+"['bf5e75\n', 'bf5e82']",19,"FIGHT
+",25,193,"Fight with small arms and light weapons
+",1
+"['ff4800\n', 'ff4803']",01,"MAKE PUBLIC STATEMENT
+",26,012,"Make pessimistic comment
+",2
+"['17534d \n', '175359']",07,"PROVIDE AID
+",23,075,"Grant asylum
+",6
+"['bf5e75\n', 'bf5e81']",19,"FIGHT
+",25,192,"Occupy territory
+",22
+"['ff4800\n', 'ff4801']",01,"MAKE PUBLIC STATEMENT
+",26,010,"Make statement, not specified below
+",3
+"['94c42f\n', '94c432']",12,"REJECT
+",4,120,"Reject, not specified below
+",4
+"['571d14\n', '571d1a']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",8,051,"Praise or endorse
+",4
+"['c1f827\n', 'c1f833']",08,"YIELD
+",33,084,"Return, release, not specified below
+",3
+"['5f2fc4\n', '5f2fcb']",02,"APPEAL
+",6,025,"Appeal to yield
+",3
+"['571d14\n', '571d1c']",17,"COERCE
+",17,170,"Coerce, not specified below 
+",14
+"['5f2fc4\n', '5f2fc8']",02,"APPEAL
+",6,022,"Appeal for diplomatic cooperation, such as policy support
+",1
+"['17534d \n', '175357']",07,"PROVIDE AID
+",23,073,"Provide humanitarian aid
+",9
+"['bf5e75\n', 'bf5e79']",04,"CONSULT
+",12,040,"Consult, not specified below
+",4
+"['17534d \n', '175354']",07,"PROVIDE AID
+",23,070,"Provide aid, not specified below
+",1
+"['5f2fc4\n', '5f2fc6']",02,"APPEAL
+",6,020,"Appeal, not specified below
+",1
+"['e9c392\n', 'e9c395']",11,"DISAPPROVE
+",2,111,"Criticize or denounce 
+",1
+"['5f2fc4\n', '5f2fc9']",02,"APPEAL
+",6,0233,"Appeal for humanitarian aid
+",1
+"['bf5e75\n', 'bf5e7f']",19,"FIGHT
+",25,190,"Use conventional military force, not specified below
+",2
+"['571d14\n', '571d1f']",17,"COERCE
+",17,173,"Arrest, detain, or charge with legal action 
+",3
+"['5e75bf\n', '5e75c8']",03,"EXPRESS INTENT TO COOPERATE
+",6,036,"Express intent to meet or negotiate
+",3
+"['bf5e75\n', 'bf5e7b']",10,"DEMAND
+",1,1053,"Demand release of persons or property
+",1
+"['e9c392\n', 'e9c394']",11,"DISAPPROVE
+",2,110,"Disapprove, not specified below
+",1
+"['c1f827\n', 'c1f835']",08,"YIELD
+",33,086,"Allow international involvement not specified below
+",3
+"['17534d \n', '175356']",07,"PROVIDE AID
+",23,072,"Provide military aid
+",7
+"['ff4800\n', 'ff4805']",01,"MAKE PUBLIC STATEMENT
+",26,014,"Consider policy option
+",1
+"['17534d \n', '175357']",07,"PROVIDE AID
+",238,073,"Provide humanitarian aid
+",107
+"['5e75bf\n', '5e75c2']",03,"EXPRESS INTENT TO COOPERATE
+",53,030,"Express intent to cooperate, not specified below
+",4
+"['571d14\n', '571d1e']",17,"COERCE
+",26,172,"Impose administrative sanctions, not specified below
+",16
+"['bf5e75\n', 'bf5e79']",04,"CONSULT
+",291,040,"Consult, not specified below
+",69
+"['5f2fc4\n', '5f2fc9']",02,"APPEAL
+",71,023,"Appeal for aid, not specified below
+",1
+"['c1f827\n', 'c1f82f']",08,"YIELD
+",127,080,"Yield, not specified below 
+",101
+"['17534d \n', '175359']",07,"PROVIDE AID
+",238,075,"Grant asylum
+",125
+"['571d14\n', '571d1a']",05,"ENGAGE IN DIPLOMATIC COOPERATION
+",22,051,"Praise or endorse
+",22
+"['5f2fc4\n', '5f2fcb']",02,"APPEAL
+",71,025,"Appeal to yield
+",10
+"['571d14\n', '571d20']",17,"COERCE
+",26,174,"Expel or deport individuals
+",4
+"['e9c392\n', 'e9c395']",11,"DISAPPROVE
+",29,111,"Criticize or denounce 
+",4
+"['57144e\n', '571454']",14,"PROTEST
+",51,141,"Demonstrate or rally
+",36
+"['144e57\n', '144e60']",18,"ASSAULT
+",13,180,"Use unconventional violence, not specified below
+",9
+"['e9c392\n', 'e9c394']",11,"DISAPPROVE
+",29,110,"Disapprove, not specified below
+",6
+"['bf5e75\n', 'bf5e82']",19,"FIGHT
+",125,193,"Fight with small arms and light weapons
+",3
+"['57144e\n', '571457']",14,"PROTEST
+",51,144,"Obstruct passage, block
+",2
+"['f82758\n', 'f8275c']",13,"THREATEN
+",3,130,"Threaten, not specified below
+",3
+"['c1f827\n', 'c1f836']",08,"YIELD
+",127,0874,"Retreat or surrender militarily
+",11
+"['bf5e75\n', 'bf5e81']",19,"FIGHT
+",125,192,"Occupy territory
+",109
+"['bf5e75\n', 'bf5e7f']",19,"FIGHT
+",125,190,"Use conventional military force, not specified below
+",13
+"['5e75bf\n', '5e75c5']",03,"EXPRESS INTENT TO COOPERATE
+",53,0333,"Express intent to provide humanitarian aid
+",1
+"['bf5e75\n', 'bf5e7b']",04,"CONSULT
+",291,042,"Make a visit
+",99
+"['bf5e75\n', 'bf5e7c']",04,"CONSULT
+",291,043,"Host a visit
+",101
+"['5f2fc4\n', '5f2fc6']",02,"APPEAL
+",71,020,"Appeal, not specified below
+",26
+"['ff4800\n', 'ff4803']",01,"MAKE PUBLIC STATEMENT
+",48,012,"Make pessimistic comment
+",8
+"['144e57\n', '144e62']",18,"ASSAULT
+",13,182,"Physically assault, not specified below
+",3
+"['c1f827\n', 'c1f833']",08,"YIELD
+",127,084,"Return, release, not specified below
+",1
+"['ff4800\n', 'ff4801']",01,"MAKE PUBLIC STATEMENT
+",48,010,"Make statement, not specified below
+",27
+"['ff4800\n', 'ff4802']",01,"MAKE PUBLIC STATEMENT
+",48,011,"Decline comment
+",1
+"['5e75bf\n', '5e75c8']",03,"EXPRESS INTENT TO COOPERATE
+",53,036,"Express intent to meet or negotiate
+",46
+"['5e75bf\n', '5e75c3']",03,"EXPRESS INTENT TO COOPERATE
+",53,031,"Express intent to engage in material cooperation,  not specified below
+",1
+"['e9c392\n', 'e9c396']",11,"DISAPPROVE
+",29,1123,"Accuse of aggression
+",17
+"['5f2fc4\n', '5f2fc9']",02,"APPEAL
+",71,0233,"Appeal for humanitarian aid
+",26
+"['c03624\n', 'c0362d']",09,"INVESTIGATE
+",7,090,"Investigate, not specified below
+",7
+"['b3dd2a\n', 'b3dd31']",16,"REDUCE RELATIONS
+",4,160,"Reduce relations, not specified below
+",4
+"['e9c392\n', 'e9c396']",11,"DISAPPROVE
+",29,112,"Accuse, not specified below
+",1
+"['571d14\n', '571d1c']",17,"COERCE
+",26,170,"Coerce, not specified below 
+",2
+"['bf5e75\n', 'bf5e7f']",04,"CONSULT
+",291,046,"Engage in negotiation
+",12
+"['1d1831\n', '1d1837']",15,"EXHIBIT FORCE POSTURE
+",3,150,"Demonstrate military or police power, not specified below
+",2
+"['571d21\n', '571d27']",06,"ENGAGE IN MATERIAL COOPERATION
+",3,060,"Engage in material cooperation, not specified below
+",3
+"['ff4800\n', 'ff4804']",01,"MAKE PUBLIC STATEMENT
+",48,013,"Make optimistic comment
+",9
+"['5f2fc4\n', '5f2fcc']",02,"APPEAL
+",71,026,"Appeal to others to meet or negotiate
+",8
+"['bf5e75\n', 'bf5e76']",10,"DEMAND
+",14,100,"Demand, not specified below
+",14
+"['17534d \n', '175354']",07,"PROVIDE AID
+",238,070,"Provide aid, not specified below
+",2
+"['c1f827\n', 'c1f833']",08,"YIELD
+",127,0841,"Return, release person(s)
+",14
+"['57144e\n', '571455']",14,"PROTEST
+",51,142,"Conduct hunger strike, not specified below
+",11
+"['bf5e75\n', 'bf5e7d']",04,"CONSULT
+",291,044,"Meet at a ÒhirdÓlocation
+",2
+"['bf5e75\n', 'bf5e7e']",04,"CONSULT
+",291,045,"Mediate
+",8
+"['57144e\n', '571453']",14,"PROTEST
+",51,140,"Engage in political dissent, not specified below
+",2
+"['1d1831\n', '1d183b']",15,"EXHIBIT FORCE POSTURE
+",3,154,"Mobilize or increase armed forces 
+",1
+"['571d14\n', '571d1f']",17,"COERCE
+",26,173,"Arrest, detain, or charge with legal action 
+",2
+"['571d14\n', '571d21']",17,"COERCE
+",26,175,"Use tactics of violent repression  
+",2
+"['5e75bf\n', '5e75c5']",03,"EXPRESS INTENT TO COOPERATE
+",53,033,"Express intent to provide matyerial aid, not specified below
+",1
+"['144e57\n', '144e62']",18,"ASSAULT
+",13,1821,"Sexually assault
+",1
+"['94c42f\n', '94c432']",12,"REJECT
+",1,120,"Reject, not specified below
+",1
+"['17534d \n', '175356']",07,"PROVIDE AID
+",238,072,"Provide military aid
+",4
+"['ff4800\n', 'ff4808']",01,"MAKE PUBLIC STATEMENT
+",48,017,"Engage in symbolic act
+",3
+"['e9c392\n', 'e9c398']",11,"DISAPPROVE
+",29,114,"Complain officially 
+",1

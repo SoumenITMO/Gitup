@@ -1,0 +1,613 @@
+Event_COLOR_CODE,Event_COLOR_ROOT_CODE,Actor1Geo_CountryCode,Actor2Geo_CountryCode,ActionGeo_CountryCode,Event Code,RootEventCode,MainReason,Reason,AC1_lat,AC1_lon,AC2_lat,AC2_lon,AC_lat,AC_lon,Source Url,Source City,Destination City,Keyword,GeoMove
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,33.5,36.3,33.5,36.3,--,Lebanon,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,33.5,36.3,33.8333,35.8333,--,Lebanon,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,36.2028,37.1586,36.2028,37.1586,--,Lebanon,"Aleppo, ?alab, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,36.2028,37.1586,33.8333,35.8333,--,Lebanon,"Aleppo, ?alab, Syria",,4
+"bf5e75
+",bf5e7f,SY,SY,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.459,36.2374,33.4749,36.2842,33.5,36.3,--,"Daraya, Rif Dimashq, Syria","Qadam, Dimashq, Syria",,4
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.459,36.2374,39,35,33.459,36.2374,--,"Daraya, Rif Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.459,36.2374,39,35,33.5,36.3,--,"Daraya, Rif Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,SY,TU,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.5,36.3,33.4749,36.2842,39,35,--,"Damascus, Dimashq, Syria","Qadam, Dimashq, Syria",,4
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.5,36.3,39,35,33.4749,36.2842,--,"Damascus, Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.5,36.3,39,35,33.459,36.2374,--,"Damascus, Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,SY,TU,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.4749,36.2842,33.4749,36.2842,39,35,--,"Qadam, Dimashq, Syria","Qadam, Dimashq, Syria",,4
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.4749,36.2842,39,35,33.4749,36.2842,--,"Qadam, Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,TU,TU,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.4749,36.2842,39,35,39,35,--,"Qadam, Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7f,SY,TU,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",33.5,36.3,39,35,33.4749,36.2842,--,"Damascus, Dimashq, Syria",Turkey,,1
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,35.8333,33.5,36.3,--,"Damascus, Dimashq, Syria",Lebanon,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,35.8333,33.8333,35.8333,--,"Damascus, Dimashq, Syria",Lebanon,,1
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",36.2028,37.1586,33.8333,35.8333,36.2028,37.1586,--,"Aleppo, ?alab, Syria",Lebanon,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",36.2028,37.1586,33.8333,35.8333,33.8333,35.8333,--,"Aleppo, ?alab, Syria",Lebanon,,1
+"bf5e75
+",bf5e7b,IS,IS,IS,042,04,"CONSULT
+","Make a visit
+",31.5,34.75,31.5,34.75,31.5,34.75,--,Israel,Israel,,1
+"c1f827
+",c1f82f,SY,TU,SY,080,08,"YIELD
+","Yield, not specified below 
+",36.2028,37.1586,39,35,36.2028,37.1586,--,"Aleppo, ?alab, Syria",Turkey,,1
+"ff4800
+",ff4803,TU,SY,TU,012,01,"MAKE PUBLIC STATEMENT
+","Make pessimistic comment
+",39.9272,32.8644,33.5,36.3,39.9272,32.8644,--,"Ankara, Ankara, Turkey","Damascus, Dimashq, Syria",,4
+"17534d 
+",175359,TU,SY,SY,075,07,"PROVIDE AID
+","Grant asylum
+",39.9272,32.8644,35,38,35,38,--,"Ankara, Ankara, Turkey",Syria,,1
+"17534d 
+",175359,SY,SY,SY,075,07,"PROVIDE AID
+","Grant asylum
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"ff4800
+",ff4801,TU,SY,TU,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",39,35,36.2028,37.1586,39,35,--,Turkey,"Aleppo, ?alab, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,33.5,36.3,33.5,36.3,--,Lebanon,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,33.5,36.3,33.8333,35.8333,--,Lebanon,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,35.8333,33.5,36.3,--,"Damascus, Dimashq, Syria",Lebanon,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,35.8333,33.8333,35.8333,--,"Damascus, Dimashq, Syria",Lebanon,,1
+"ff4800
+",ff4808,SY,SY,SY,017,01,"MAKE PUBLIC STATEMENT
+","Engage in symbolic act
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"144e57
+",144e62,EG,SY,SY,182,18,"ASSAULT
+","Physically assault, not specified below
+",27,30,35,38,35,38,--,Egypt,Syria,,1
+"c1f827
+",c1f833,SY,SY,TU,0841,08,"YIELD
+","Return, release person(s)
+",35,38,35,38,39,35,--,Syria,Syria,,1
+"c1f827
+",c1f833,TU,SY,TU,0841,08,"YIELD
+","Return, release person(s)
+",39,35,35,38,39,35,--,Turkey,Syria,,1
+"5f2fc4
+",5f2fc9,SY,TU,SY,0233,02,"APPEAL
+","Appeal for humanitarian aid
+",35,38,39,35,35,38,--,Syria,Turkey,,1
+"bf5e75
+",bf5e81,TU,SY,SY,192,19,"FIGHT
+","Occupy territory
+",39.9272,32.8644,35.9306,36.6339,35.9306,36.6339,--,"Ankara, Ankara, Turkey","Idlib, Idlib, Syria",,4
+"bf5e75
+",bf5e81,TS,TS,TS,192,19,"FIGHT
+","Occupy territory
+",34,9,34,9,34,9,--,Tunisia,Tunisia,,1
+"c1f827
+",c1f832,TU,SY,SY,083,08,"YIELD
+","Accede to requests or demands for political reform not specified below
+",39,35,35,38,35,38,--,Turkey,Syria,,1
+"c1f827
+",c1f832,TU,SY,TU,083,08,"YIELD
+","Accede to requests or demands for political reform not specified below
+",39,35,35,38,39,35,--,Turkey,Syria,,1
+"c1f827
+",c1f833,TU,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",39,35,35,38,35,38,--,Turkey,Syria,,1
+"144e57
+",144e62,EG,SY,SY,182,18,"ASSAULT
+","Physically assault, not specified below
+",27,30,35,38,35,38,--,Egypt,Syria,,1
+"bf5e75
+",bf5e7f,KU,KU,KU,190,19,"FIGHT
+","Use conventional military force, not specified below
+",29.2533,47.7878,29.2533,47.7878,29.2533,47.7878,--,"Sulaibiya, Kuwait (general), Kuwait","Sulaibiya, Kuwait (general), Kuwait",,4
+"bf5e75
+",bf5e7f,SY,KU,KU,190,19,"FIGHT
+","Use conventional military force, not specified below
+",35,38,29.2533,47.7878,29.2533,47.7878,--,Syria,"Sulaibiya, Kuwait (general), Kuwait",,4
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"c1f827
+",c1f833,SY,SY,SY,084,08,"YIELD
+","Return, release, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"17534d 
+",175359,SY,SY,SY,075,07,"PROVIDE AID
+","Grant asylum
+",35.7631,36.5603,35.7631,36.5603,35.7631,36.5603,--,"Rami, Idlib, Syria","Rami, Idlib, Syria",,4
+"17534d 
+",175359,TU,SY,TU,075,07,"PROVIDE AID
+","Grant asylum
+",39,35,35.7631,36.5603,39,35,--,"Anatolia, Turkey (general), Turkey","Rami, Idlib, Syria",,4
+"17534d 
+",175359,TU,SY,SY,075,07,"PROVIDE AID
+","Grant asylum
+",39,35,33.5,36.3,33.5,36.3,--,"Anatolia, Turkey (general), Turkey","Damascus, Dimashq, Syria",,4
+"17534d 
+",175359,TU,SY,TU,075,07,"PROVIDE AID
+","Grant asylum
+",39,35,33.5,36.3,39,35,--,"Anatolia, Turkey (general), Turkey","Damascus, Dimashq, Syria",,4
+"c1f827
+",c1f833,TU,TU,TU,0841,08,"YIELD
+","Return, release person(s)
+",36.2066,36.1572,36.2066,36.1572,36.2066,36.1572,--,"Hatay, Hatay, Turkey","Hatay, Hatay, Turkey",,4
+"c1f827
+",c1f833,SY,TU,TU,0841,08,"YIELD
+","Return, release person(s)
+",35,38,36.2066,36.1572,36.2066,36.1572,--,Syria,"Hatay, Hatay, Turkey",,4
+"bf5e75
+",bf5e7b,IS,SY,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,32.9049,35.8072,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Golan Heights, Syria (general), Syria",,4
+"bf5e75
+",bf5e7b,IS,IS,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",34.6684,36.2599,34.6684,36.2599,34.6684,36.2599,--,"Tal Kalakh, ?ims, Syria","Tal Kalakh, ?ims, Syria",,4
+"ff4800
+",ff4801,SY,SY,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",34.6684,36.2599,34.6684,36.2599,33.8719,35.5097,--,"Tal Kalakh, ?ims, Syria","Tal Kalakh, ?ims, Syria",,4
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"c1f827
+",c1f833,SY,SY,SY,084,08,"YIELD
+","Return, release, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"bf5e75
+",bf5e7c,SY,IS,IS,043,04,"CONSULT
+","Host a visit
+",32.9049,35.8072,31.797,35.1924,31.797,35.1924,--,"Golan Heights, Syria (general), Syria","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7c,IS,IS,IS,043,04,"CONSULT
+","Host a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"5f2fc4
+",5f2fc6,SY,SY,LE,020,02,"APPEAL
+","Appeal, not specified below
+",33.5,36.3,33.5,36.3,33.8961,35.5008,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5f2fc4
+",5f2fc6,LE,LE,LE,020,02,"APPEAL
+","Appeal, not specified below
+",33.8961,35.5008,33.8961,35.5008,33.8961,35.5008,--,"Grand Serail, Beyrouth, Lebanon","Grand Serail, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",34.6667,36.3,34.6667,36.3,34.6667,36.3,--,"Arida, ?ims, Syria","Arida, ?ims, Syria",,4
+"bf5e75
+",bf5e7b,IS,SY,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,32.9049,35.8072,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Golan Heights, Syria (general), Syria",,4
+"bf5e75
+",bf5e7b,IS,IS,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",34.6684,36.2599,34.6684,36.2599,34.6684,36.2599,--,"Tal Kalakh, ?ims, Syria","Tal Kalakh, ?ims, Syria",,4
+"ff4800
+",ff4801,SY,SY,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",34.6684,36.2599,34.6684,36.2599,33.8719,35.5097,--,"Tal Kalakh, ?ims, Syria","Tal Kalakh, ?ims, Syria",,4
+"bf5e75
+",bf5e7c,SY,IS,IS,043,04,"CONSULT
+","Host a visit
+",32.9049,35.8072,31.797,35.1924,31.797,35.1924,--,"Golan Heights, Syria (general), Syria","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7c,IS,IS,IS,043,04,"CONSULT
+","Host a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"57144e
+",571454,SY,SY,TU,141,14,"PROTEST
+","Demonstrate or rally
+",35,38,35,38,39,35,--,Syria,Syria,,1
+"571d21
+",571d27,SY,SY,JO,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",33.2854,35.69,33.2854,35.69,31,36,--,"Ramtha, Al Qunaytirah, Syria","Ramtha, Al Qunaytirah, Syria",,4
+"571d21
+",571d27,SY,JO,JO,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",33.2854,35.69,31,36,31,36,--,"Ramtha, Al Qunaytirah, Syria",Jordan,,1
+"17534d 
+",175355,SY,SY,SY,071,07,"PROVIDE AID
+","Provide economic aid
+",33.2854,35.69,33.2854,35.69,33.2854,35.69,--,"Ramtha, Al Qunaytirah, Syria","Ramtha, Al Qunaytirah, Syria",,4
+"571d21
+",571d27,SY,JO,JO,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",33.2854,35.69,31,36,31,36,--,"Ramtha, Al Qunaytirah, Syria",Jordan,,1
+"17534d 
+",175355,SY,JO,SY,071,07,"PROVIDE AID
+","Provide economic aid
+",33.2854,35.69,31,36,33.2854,35.69,--,"Ramtha, Al Qunaytirah, Syria",Jordan,,1
+"bf5e75
+",bf5e7b,IS,SY,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,32.9049,35.8072,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Golan Heights, Syria (general), Syria",,4
+"bf5e75
+",bf5e7b,IS,IS,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7c,SY,IS,IS,043,04,"CONSULT
+","Host a visit
+",32.9049,35.8072,31.797,35.1924,31.797,35.1924,--,"Golan Heights, Syria (general), Syria","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7c,IS,IS,IS,043,04,"CONSULT
+","Host a visit
+",31.797,35.1924,31.797,35.1924,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7b,SY,IS,SY,042,04,"CONSULT
+","Make a visit
+",32.9049,35.8072,31.7667,35.2333,32.9049,35.8072,--,"Golan Heights, Syria (general), Syria","Jerusalem, Israel (general), Israel",,4
+"bf5e75
+",bf5e7b,IS,SY,IS,042,04,"CONSULT
+","Make a visit
+",31.797,35.1924,32.9049,35.8072,31.797,35.1924,--,"Lifta, Yerushalayim, Israel","Golan Heights, Syria (general), Syria",,4
+"bf5e75
+",bf5e7c,SY,IS,IS,043,04,"CONSULT
+","Host a visit
+",32.9049,35.8072,31.797,35.1924,31.797,35.1924,--,"Golan Heights, Syria (general), Syria","Lifta, Yerushalayim, Israel",,4
+"bf5e75
+",bf5e7c,IS,SY,SY,043,04,"CONSULT
+","Host a visit
+",31.7667,35.2333,32.9049,35.8072,32.9049,35.8072,--,"Jerusalem, Israel (general), Israel","Golan Heights, Syria (general), Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,32.7359,35.7441,32.7359,35.7441,--,Lebanon,"Wadi Khaled, Al Qunaytirah, Syria",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,--,Lebanon,Lebanon,,1
+"c1f827
+",c1f833,LE,LE,LE,0841,08,"YIELD
+","Return, release person(s)
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,--,Lebanon,Lebanon,,1
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"5f2fc4
+",5f2fc6,SY,IN,SY,020,02,"APPEAL
+","Appeal, not specified below
+",35,38,18.975,72.8258,35,38,--,Syria,"Mumbai, Maharashtra, India",,4
+"57144e
+",571454,IS,IS,IS,141,14,"PROTEST
+","Demonstrate or rally
+",31.5,34.75,31.5,34.75,31.5,34.75,--,Israel,Israel,,1
+"57144e
+",571454,SY,SY,SY,141,14,"PROTEST
+","Demonstrate or rally
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"5f2fc4
+",5f2fc6,US,US,US,020,02,"APPEAL
+","Appeal, not specified below
+",40.1023,-75.2743,40.1023,-75.2743,40.1023,-75.2743,--,"Plymouth Meeting, Pennsylvania, United States","Plymouth Meeting, Pennsylvania, United States",,3
+"5f2fc4
+",5f2fc6,SY,TU,SY,020,02,"APPEAL
+","Appeal, not specified below
+",35,38,39,35,35,38,--,Syria,Turkey,,1
+"ff4800
+",ff4801,LE,LE,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,--,Lebanon,Lebanon,,1
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,--,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria",,4
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"c1f827
+",c1f833,SY,SY,SY,084,08,"YIELD
+","Return, release, not specified below
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,--,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria",,4
+"94c42f
+",94c432,SY,SY,SY,120,12,"REJECT
+","Reject, not specified below
+",34.6684,36.2599,34.6684,36.2599,34.6684,36.2599,--,"Tal Kalakh, ?ims, Syria","Tal Kalakh, ?ims, Syria",,4
+"94c42f
+",94c432,SY,LE,SY,120,12,"REJECT
+","Reject, not specified below
+",34.6684,36.2599,33.6667,35.8333,34.6684,36.2599,--,"Tal Kalakh, ?ims, Syria","Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7f,SY,SY,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"bf5e75
+",bf5e81,JO,JO,JO,192,19,"FIGHT
+","Occupy territory
+",31.95,35.9333,31.95,35.9333,31.95,35.9333,--,"Amman, (JO11), Jordan","Amman, (JO11), Jordan",,4
+"bf5e75
+",bf5e7f,SY,SY,SY,190,19,"FIGHT
+","Use conventional military force, not specified below
+",35,38,35,38,35,38,--,Syria,Syria,,1
+"bf5e75
+",bf5e7b,SY,UK,SY,042,04,"CONSULT
+","Make a visit
+",35,38,54,-2,35,38,--,Syria,United Kingdom,,1
+"bf5e75
+",bf5e7b,UK,UK,SY,042,04,"CONSULT
+","Make a visit
+",54,-2,54,-2,35,38,--,United Kingdom,United Kingdom,,1
+"571d21
+",571d27,SY,SY,SY,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,--,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria",,4
+"571d21
+",571d27,US,GM,US,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",38,-97,51,9,38,-97,--,United States,Germany,,1
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",34.7268,36.7234,34.7268,36.7234,34.7268,36.7234,--,"Homs, ?ims, Syria","Homs, ?ims, Syria",,4
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"ff4800
+",ff4801,LE,SY,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.8719,35.5097,32.7359,35.7441,33.8719,35.5097,--,"Beirut, Beyrouth, Lebanon","Wadi Khaled, Al Qunaytirah, Syria",,4
+"17534d 
+",175357,LE,SY,SY,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8719,35.5097,32.7359,35.7441,32.7359,35.7441,--,"Beirut, Beyrouth, Lebanon","Wadi Khaled, Al Qunaytirah, Syria",,4
+"17534d 
+",175357,LE,SY,LE,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8719,35.5097,32.7359,35.7441,33.8719,35.5097,--,"Beirut, Beyrouth, Lebanon","Wadi Khaled, Al Qunaytirah, Syria",,4
+"bf5e75
+",bf5e81,SY,SY,SY,192,19,"FIGHT
+","Occupy territory
+",32.7359,35.7441,32.7359,35.7441,32.7359,35.7441,--,"Wadi Khaled, Al Qunaytirah, Syria","Wadi Khaled, Al Qunaytirah, Syria",,4
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,--,"Lattakia, Al Ladhiqiyah, Syria","Lattakia, Al Ladhiqiyah, Syria",,4
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5e75bf
+",5e75c5,US,US,US,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",40.3736,-82.7755,40.3736,-82.7755,40.3736,-82.7755,--,"Ohio, United States","Ohio, United States",,2
+"5f2fc4
+",5f2fc9,SP,SY,SY,0233,02,"APPEAL
+","Appeal for humanitarian aid
+",40.4,-3.68333,35,38,35,38,--,"Madrid, Madrid, Spain",Syria,,1
+"5f2fc4
+",5f2fc9,SY,SY,SP,0233,02,"APPEAL
+","Appeal for humanitarian aid
+",35,38,35,38,40.4,-3.68333,--,Syria,Syria,,1
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,--,"Lattakia, Al Ladhiqiyah, Syria","Lattakia, Al Ladhiqiyah, Syria",,4
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5e75bf
+",5e75c5,US,US,US,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",40.3736,-82.7755,40.3736,-82.7755,40.3736,-82.7755,--,"Ohio, United States","Ohio, United States",,2
+"57144e
+",571454,SY,JO,SY,141,14,"PROTEST
+","Demonstrate or rally
+",33.5,36.3,31.95,35.9333,33.5,36.3,--,"Damascus, Dimashq, Syria","Amman, (JO11), Jordan",,4
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",34.7268,36.7234,34.7268,36.7234,34.7268,36.7234,--,"Homs, ?ims, Syria","Homs, ?ims, Syria",,4
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,IZ,SY,SY,042,04,"CONSULT
+","Make a visit
+",33,44,33.5,36.3,33.5,36.3,--,Iraq,"Damascus, Dimashq, Syria",,4
+"5f2fc4
+",5f2fcc,RS,SY,SY,026,02,"APPEAL
+","Appeal to others to meet or negotiate
+",55.7522,37.6156,33.5,36.3,33.5,36.3,--,"Moscow, Moskva, Russia","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,RS,SY,SY,042,04,"CONSULT
+","Make a visit
+",55.7522,37.6156,33.5,36.3,33.5,36.3,--,"Moscow, Moskva, Russia","Damascus, Dimashq, Syria",,4
+"c03624
+",c0362d,RS,SY,SY,090,09,"INVESTIGATE
+","Investigate, not specified below
+",55.7522,37.6156,33.5,36.3,33.5,36.3,--,"Moscow, Moskva, Russia","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,IZ,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33,44,33.5,36.3,--,"Damascus, Dimashq, Syria",Iraq,,1
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,--,"Lattakia, Al Ladhiqiyah, Syria","Lattakia, Al Ladhiqiyah, Syria",,4
+"bf5e75
+",bf5e7c,SY,RS,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,55.7522,37.6156,33.5,36.3,--,"Damascus, Dimashq, Syria","Moscow, Moskva, Russia",,4
+"ff4800
+",ff4801,SY,SY,SY,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5f2fc4
+",5f2fc6,SY,SY,SY,020,02,"APPEAL
+","Appeal, not specified below
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5e75bf
+",5e75c5,SY,SY,SY,0333,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide humanitarian aid
+",35.5148,35.7768,35.5148,35.7768,35.5148,35.7768,--,"Lattakia, Al Ladhiqiyah, Syria","Lattakia, Al Ladhiqiyah, Syria",,4
+"571d14
+",571d1a,SY,SY,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,33.5,36.3,33.5,36.3,--,"Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"571d14
+",571d1a,SY,RS,RS,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,55.7522,37.6156,55.7522,37.6156,--,"Damascus, Dimashq, Syria","Moscow, Moskva, Russia",,4
+"bf5e75
+",bf5e7b,IS,SY,SY,042,04,"CONSULT
+","Make a visit
+",31.5,34.75,33.5,36.3,33.5,36.3,--,Israel,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,IZ,SY,SY,042,04,"CONSULT
+","Make a visit
+",33,44,33.5,36.3,33.5,36.3,--,Iraq,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,IS,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,31.5,34.75,33.5,36.3,--,"Damascus, Dimashq, Syria",Israel,,1
+"bf5e75
+",bf5e7c,SY,IZ,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33,44,33.5,36.3,--,"Damascus, Dimashq, Syria",Iraq,,1
+"bf5e75
+",bf5e7b,IS,SY,SY,042,04,"CONSULT
+","Make a visit
+",31.5,34.75,33.5,36.3,33.5,36.3,--,Israel,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,IZ,SY,SY,042,04,"CONSULT
+","Make a visit
+",33,44,33.5,36.3,33.5,36.3,--,Iraq,"Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,IS,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,31.5,34.75,33.5,36.3,--,"Damascus, Dimashq, Syria",Israel,,1
+"bf5e75
+",bf5e7c,SY,IZ,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33,44,33.5,36.3,--,"Damascus, Dimashq, Syria",Iraq,,1
+"5f2fc4
+",5f2fcb,IZ,SY,SY,025,02,"APPEAL
+","Appeal to yield
+",34.1966,43.8739,35,38,35,38,--,"Samarra, Sala? ad Din, Iraq",Syria,,1
+"571d14
+",571d1a,LE,LE,LE,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.8719,35.5097,33.8719,35.5097,33.8719,35.5097,--,"Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon",,4
+"571d14
+",571d1a,LE,SY,LE,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.8719,35.5097,35,38,33.8719,35.5097,--,"Beirut, Beyrouth, Lebanon",Syria,,1
+"c1f827
+",c1f833,SY,SY,SY,0841,08,"YIELD
+","Return, release person(s)
+",35.8143,36.3206,35.8143,36.3206,35.8143,36.3206,--,"Jisr Al-Shughour, Idlib, Syria","Jisr Al-Shughour, Idlib, Syria",,4
+"c1f827
+",c1f833,TU,SY,TU,0841,08,"YIELD
+","Return, release person(s)
+",36.2066,36.1572,35.8143,36.3206,36.2066,36.1572,--,"Antakya, Hatay, Turkey","Jisr Al-Shughour, Idlib, Syria",,4
+"17534d 
+",175357,LE,SY,SY,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8719,35.5097,32.7359,35.7441,32.7359,35.7441,--,"Beirut, Beyrouth, Lebanon","Wadi Khaled, Al Qunaytirah, Syria",,4
+"17534d 
+",175357,LE,SY,LE,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8719,35.5097,32.7359,35.7441,33.8719,35.5097,--,"Beirut, Beyrouth, Lebanon","Wadi Khaled, Al Qunaytirah, Syria",,4
+"c1f827
+",c1f833,TU,TU,TU,0841,08,"YIELD
+","Return, release person(s)
+",39,35,39,35,39,35,--,Turkey,Turkey,,1
+"17534d 
+",175357,LE,SY,SY,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8333,35.8333,32.7359,35.7441,32.7359,35.7441,--,Lebanon,"Wadi Khaled, Al Qunaytirah, Syria",,4
+"17534d 
+",175357,LE,SY,LE,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",33.8333,35.8333,32.7359,35.7441,33.8333,35.8333,--,Lebanon,"Wadi Khaled, Al Qunaytirah, Syria",,4
