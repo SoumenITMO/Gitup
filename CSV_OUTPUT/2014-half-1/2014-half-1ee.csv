@@ -1,0 +1,936 @@
+Event_COLOR_CODE,Event_COLOR_ROOT_CODE,Actor1Geo_CountryCode,Actor2Geo_CountryCode,ActionGeo_CountryCode,Event Code,RootEventCode,MainReason,Reason,AC1_lat,AC1_lon,AC2_lat,AC2_lon,AC_lat,AC_lon,Source Url,Source City,Destination City,Keyword,GeoMove
+"5f2fc4
+",5f2fc6,TU,TU,TU,020,02,"APPEAL
+","Appeal, not specified below
+",39,35,39,35,39,35,"http://www.eubusiness.com/news-eu/syria-conflict-aid.qjg#1393143382
+",Turkey,Turkey,,1
+"bf5e75
+",bf5e7c,EG,SY,LE,043,04,"CONSULT
+","Host a visit
+",27,30,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Egypt,Syria,,1
+"bf5e75
+",bf5e7c,IZ,SY,LE,043,04,"CONSULT
+","Host a visit
+",33,44,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Iraq,Syria,,1
+"bf5e75
+",bf5e7b,IR,SY,IR,042,04,"CONSULT
+","Make a visit
+",35.75,51.5148,35.3359,40.1408,35.75,51.5148,"http://english.farsnews.com/newstext.aspx?nn=13921204001299
+","Tehran, Tehran, Iran","Deir Ezzor, Dayr az Zawr, Syria",,4
+"bf5e75
+",bf5e7b,IR,SY,IR,042,04,"CONSULT
+","Make a visit
+",35.75,51.5148,35,38,35.75,51.5148,"http://english.farsnews.com/newstext.aspx?nn=13921204001299&c=KLaT2NZNcQ7DuWPA5pTLs_Q80Lg5xjNqr7CWCHVycFE&mkt=en-us
+","Tehran, Tehran, Iran",Syria,,1
+"bf5e75
+",bf5e7c,IZ,SY,LE,043,04,"CONSULT
+","Host a visit
+",33,44,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Iraq,Syria,,1
+"bf5e75
+",bf5e7c,TU,SY,LE,043,04,"CONSULT
+","Host a visit
+",39,35,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Turkey,Syria,,1
+"bf5e75
+",bf5e7c,JO,SY,LE,043,04,"CONSULT
+","Host a visit
+",31,36,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Jordan,Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Lebanon,Syria,,1
+"5e75bf
+",5e75c8,LE,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.6667,35.8333,33.5,36.3,33.5,36.3,"http://en.trend.az/news/un/2245341.html
+","Beqaa, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,33.8333,36,"http://www.dailystar.com.lb/News/Lebanon-News/2014/Feb-24/248275-jolie-in-lebanon-to-meet-syrian-refugee-families.ashx
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Lebanon,Syria,,1
+"571d14
+",571d1a,SY,SY,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",35,38,35,38,35,38,"http://www.nrc.no/?did=9690061
+",Syria,Syria,,1
+"571d14
+",571d1a,SY,SY,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",35,38,35,38,35,38,"http://www.nrc.no/?did=9690061
+",Syria,Syria,,1
+"571d14
+",571d1a,SY,SY,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://sana.sy/eng/21/2014/02/23/529676.htm
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"571d14
+",571d1a,SY,IS,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,31.5,34.75,33.5,36.3,"http://sana.sy/eng/21/2014/02/23/529676.htm
+","Damascus, Dimashq, Syria",Israel,,1
+"5f2fc4
+",5f2fc6,SY,SY,SY,020,02,"APPEAL
+","Appeal, not specified below
+",35,38,35,38,35,38,"http://www.thenational.ae/uae/relief-aid-for-200-000-syrians-sets-sail-from-uae
+",Syria,Syria,,1
+"5f2fc4
+",5f2fc9,SY,SY,SY,0231,02,"APPEAL
+","Appeal for economic aid
+",35,38,35,38,35,38,"http://www.thenational.ae/uae/relief-aid-for-200-000-syrians-sets-sail-from-uae
+",Syria,Syria,,1
+"17534d 
+",175354,SY,SY,SY,070,07,"PROVIDE AID
+","Provide aid, not specified below
+",35,38,35,38,35,38,"http://www.kuna.net.kw/ArticleDetails.aspx?id=2362878&language=en
+",Syria,Syria,,1
+"c1f827
+",c1f835,US,US,US,0862,08,"YIELD
+","Receive inspectors
+",38,-97,38,-97,38,-97,"http://www.huffingtonpost.com/2014/02/22/impact-news-round-up_n_4830509.html?utm_hp_ref=impact
+",United States,United States,,1
+"bf5e75
+",bf5e7b,SY,EG,LE,042,04,"CONSULT
+","Make a visit
+",35,38,27,30,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Egypt,,1
+"bf5e75
+",bf5e7b,SY,IZ,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33,44,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Iraq,,1
+"c1f827
+",c1f82f,SY,EG,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,27,30,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Egypt,,1
+"c1f827
+",c1f82f,SY,IZ,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33,44,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Iraq,,1
+"bf5e75
+",bf5e7b,SY,IZ,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33,44,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Iraq,,1
+"bf5e75
+",bf5e7b,SY,TU,LE,042,04,"CONSULT
+","Make a visit
+",35,38,39,35,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Turkey,,1
+"c1f827
+",c1f82f,SY,IZ,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33,44,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Iraq,,1
+"c1f827
+",c1f82f,SY,TU,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,39,35,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Turkey,,1
+"bf5e75
+",bf5e7b,SY,JO,LE,042,04,"CONSULT
+","Make a visit
+",35,38,31,36,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Jordan,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,35.8333,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Lebanon,,1
+"c1f827
+",c1f82f,SY,JO,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,31,36,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Jordan,,1
+"c1f827
+",c1f82f,SY,LE,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33.8333,35.8333,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Lebanon,,1
+"ff4800
+",ff4801,SY,LE,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.5,36.3,33.6667,35.8333,33.6667,35.8333,"http://en.trend.az/news/un/2245341.html
+","Damascus, Dimashq, Syria","Beqaa, Béa, Lebanon",,5
+"5f2fc4
+",5f2fc9,SY,LE,SY,0233,02,"APPEAL
+","Appeal for humanitarian aid
+",33.8,36.4333,34.1794,36.4208,33.8,36.4333,"http://www.alaskadispatch.com/article/20140223/assad-offensive-near-homs-sends-syrians-fleeing-lebanon
+","Qalamoun, Rif Dimashq, Syria","Arsal, Mohafazat Baalbek-Hermel, Lebanon",,4
+"5f2fc4
+",5f2fc9,US,LE,SY,0233,02,"APPEAL
+","Appeal for humanitarian aid
+",61.385,-152.268,34.1794,36.4208,33.8,36.4333,"http://www.alaskadispatch.com/article/20140223/assad-offensive-near-homs-sends-syrians-fleeing-lebanon
+","Alaska, United States","Arsal, Mohafazat Baalbek-Hermel, Lebanon",,4
+"5e75bf
+",5e75c8,SY,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.worldbulletin.net/haberler/129469/hollywood-actress-visits-syrian-refugees-in-lebanon
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5e75bf
+",5e75c8,SY,SY,LE,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.5,36.3,33.5,36.3,33.6667,35.8333,"http://www.worldbulletin.net/haberler/129469/hollywood-actress-visits-syrian-refugees-in-lebanon
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"5e75bf
+",5e75c8,SY,LE,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.5,36.3,33.6667,35.8333,33.5,36.3,"http://en.trend.az/news/un/2245341.html
+","Damascus, Dimashq, Syria","Beqaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,33.8333,36,"http://www.dailystar.com.lb/News/Lebanon-News/2014/Feb-24/248275-jolie-in-lebanon-to-meet-syrian-refugee-families.ashx
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,35.8333,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Lebanon,,1
+"17534d 
+",175354,SY,LE,SY,070,07,"PROVIDE AID
+","Provide aid, not specified below
+",35,38,33.6667,35.8333,35,38,"http://www.kuna.net.kw/ArticleDetails.aspx?id=2362878&language=en
+",Syria,"Bekaa, Béa, Lebanon",,5
+"c1f827
+",c1f82f,SY,LE,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33.8333,35.8333,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Lebanon,,1
+"bf5e75
+",bf5e81,US,US,US,192,19,"FIGHT
+","Occupy territory
+",38,-97,38,-97,38,-97,"http://www.huffingtonpost.com/2014/02/22/impact-news-round-up_n_4830509.html?utm_hp_ref=impact
+",United States,United States,,1
+"bf5e75
+",bf5e7b,SY,JO,LE,042,04,"CONSULT
+","Make a visit
+",35,38,31,36,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Jordan,,1
+"bf5e75
+",bf5e7b,SY,TU,LE,042,04,"CONSULT
+","Make a visit
+",35,38,39,35,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Syria,Turkey,,1
+"c1f827
+",c1f82f,SY,JO,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,31,36,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Jordan,,1
+"c1f827
+",c1f82f,SY,TU,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,39,35,35,38,"http://main.omanobserver.om/?p=59143
+",Syria,Turkey,,1
+"bf5e75
+",bf5e7c,JO,SY,LE,043,04,"CONSULT
+","Host a visit
+",31,36,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Jordan,Syria,,1
+"bf5e75
+",bf5e7c,TU,SY,LE,043,04,"CONSULT
+","Host a visit
+",39,35,35,38,33.8333,35.8333,"http://main.omanobserver.om/?p=59143
+",Turkey,Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,33.8333,36,"http://www.independent.ie/world-news/asia-pacific/angelinas-surprise-visit-highlights-plight-of-syrian-refugee-children-30038089.html
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,33.8333,36,"http://www.independent.ie/world-news/asia-pacific/angelinas-surprise-visit-highlights-plight-of-syrian-refugee-children-30038089.html
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,IZ,SY,SY,042,04,"CONSULT
+","Make a visit
+",33,44,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Iraq,Syria,,1
+"bf5e75
+",bf5e7b,IZ,SY,SY,042,04,"CONSULT
+","Make a visit
+",33,44,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Iraq,Syria,,1
+"bf5e75
+",bf5e7b,JO,SY,SY,042,04,"CONSULT
+","Make a visit
+",31,36,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Jordan,Syria,,1
+"ff4800
+",ff4801,LE,SY,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.8333,36,35,38,33.8333,36,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"5f2fc4
+",5f2fcc,LE,SY,LE,026,02,"APPEAL
+","Appeal to others to meet or negotiate
+",33.8961,35.5008,35,38,33.8961,35.5008,"http://www.dailystar.com.lb/News/Lebanon-News/2014/Feb-25/248398-jolie-lauds-lebanese-generosity.ashx
+","Grand Serail, Beyrouth, Lebanon",Syria,,1
+"5e75bf
+",5e75c8,LE,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.6667,35.8333,33.5,36.3,33.5,36.3,"http://www.arabnews.com/news/530711
+","Beqaa, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e79,LE,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",33.8333,36,35,38,35,38,"http://www.khaleejtimes.com/kt-article-display-1.asp?section=middleeast&xfile=data/middleeast/2014/February/middleeast_February269.xml&c=TEc8E-pRhozbSJ66FQGCQbBT4_NYZ79lvRF9ijDwnGg&mkt=en-us
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e79,LE,SY,LE,040,04,"CONSULT
+","Consult, not specified below
+",33.8333,35.8333,35,38,33.8333,35.8333,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Lebanon,Syria,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.iol.co.za/news/world/jolie-visits-syrian-children-in-lebanon-1.1651989
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,LE,SY,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.5,36.3,33.8333,36,"http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2014-02-24-Syria/id-531f7931cbb84cd0a6c7a812bc9c0c37
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,33.8333,36,"http://www.panarmenian.net/eng/news/176212/Jolie_visits_Syrian_refugee_children_in_Lebanon
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,SY,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,35,38,33.8333,36,"http://www.columbian.com/news/2014/feb/24/jolie-visits-refugee-children-of-war-torn-syria-in/
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,LE,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,36,35,38,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,JO,SY,SY,042,04,"CONSULT
+","Make a visit
+",31,36,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Jordan,Syria,,1
+"bf5e75
+",bf5e7b,LE,SY,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,35.8333,35,38,33.8333,35.8333,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Lebanon,Syria,,1
+"bf5e75
+",bf5e7b,LE,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,35.8333,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Lebanon,Syria,,1
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://kdwn.com/2014/02/24/angelina-jolie-visits-syrian-children-in-lebanon/
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.5,36.3,33.8719,35.5097,"http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2014-02-24-Syria/id-531f7931cbb84cd0a6c7a812bc9c0c37
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,LE,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.8333,36,33.5,36.3,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.5,36.3,33.5,36.3,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.5,36.3,33.8333,36,"http://www.dailymail.co.uk/tvshowbiz/article-2566619/Angelina-Jolie-makes-surprise-visit-Lebanon-humanitarian-trip.html
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,LE,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.8333,36,33.5,36.3,"http://www.therepublic.com/view/story/541ab8b3fb8247dcb4752389b69725af/ML--Syria
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,LE,LE,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.8333,36,33.8333,36,"http://www.columbian.com/news/2014/feb/24/jolie-visits-refugee-children-of-war-torn-syria-in/
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,33.8333,36,"http://www.eveningtelegraph.co.uk/news/uk-world/jolie-visits-syrian-child-refugees-1.238726
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,35,38,"http://web.orange.co.uk/article/news/aneglina_jolie_meets_syrian_refugees_in_lebanon
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,LE,SY,043,04,"CONSULT
+","Host a visit
+",33.8719,35.5097,33.8719,35.5097,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8719,35.5097,35,38,33.8719,35.5097,"http://www.dawn.com/news/1089297/jolie-meets-syrian-refugee-children-on-visit-to-lebanon
+","Beirut, Beyrouth, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8719,35.5097,35,38,35,38,"http://www.dawn.com/news/1089297/jolie-meets-syrian-refugee-children-on-visit-to-lebanon
+","Beirut, Beyrouth, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8497,35.9042,35,38,33.8497,35.9042,"http://news.yahoo.com/jolie-meets-syria-refugee-children-visit-lebanon-005230180.html
+","Zahle, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8497,35.9042,35,38,35,38,"http://news.yahoo.com/jolie-meets-syria-refugee-children-visit-lebanon-005230180.html
+","Zahle, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,35.8333,35,38,35,38,"http://nz.news.yahoo.com/a/-/top-stories/21680545/aid-agencies-call-public-to-sign-online-petition/
+",Lebanon,Syria,,1
+"bf5e75
+",bf5e7c,SY,LE,SY,043,04,"CONSULT
+","Host a visit
+",35,38,33.8719,35.5097,35,38,"http://www.nst.com.my/latest/jolie-meets-syria-refugee-children-on-visit-to-lebanon-1.492192?cache=%253Fpage%253D0%252F7.197525%2F7.16010%3Fpage%3D0%2F7.256566%2F7.320411%2F7.320411%2F7.454177%2F7.454177%2F7.454177%2F7.494333%2F7.541994%2F7.541994%2F7.557
+",Syria,"Beirut, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",35,38,35,38,35,38,"http://news.yahoo.com/jolie-meets-syria-refugee-children-visit-lebanon-005230180.html
+",Syria,Syria,,1
+"bf5e75
+",bf5e7f,LE,SY,SY,046,04,"CONSULT
+","Engage in negotiation
+",33.8333,36,35,38,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"17534d 
+",175357,SY,SY,SY,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",35,38,35,38,35,38,"http://www.digitaljournal.com/news/world/angelina-jolie-visits-with-displaced-syrian-refugee-children/article/372842
+",Syria,Syria,,1
+"5e75bf
+",5e75c8,LE,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.8333,36,35,38,35,38,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"5e75bf
+",5e75c8,LE,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.8719,35.5097,35,38,35,38,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+","Beirut, Beyrouth, Lebanon",Syria,,1
+"bf5e75
+",bf5e79,LE,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",33.8719,35.5097,35,38,35,38,"http://www.eonline.com/news/514049/angelina-jolie-visits-syrian-refugee-children-in-lebanon-see-the-pic
+","Beirut, Beyrouth, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",35,38,35,38,35,38,"http://web.orange.co.uk/article/news/aneglina_jolie_meets_syrian_refugees_in_lebanon
+",Syria,Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.6667,35.8333,33.5,36.3,33.5,36.3,"http://en.europeonline-magazine.eu/unhcr-envoy-angelina-jolie-urges-aid-for-syrian-children_322199.html
+","Bekaa, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.6667,35.8333,35,38,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,US,043,04,"CONSULT
+","Host a visit
+",33.6667,35.8333,35,38,34.0983,-118.327,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.5,36.3,33.8333,36,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,LE,SY,LE,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,33.8333,36,"http://www.columbian.com/news/2014/feb/24/jolie-visits-refugee-children-of-war-torn-syria-in/
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,36,35,38,35,38,"http://www.talktalk.co.uk/news/world/article/jolie-visits-syrian-child-refugees/120837/
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"5e75bf
+",5e75c5,QA,QA,QA,033,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to provide matyerial aid, not specified below
+",25.5,51.25,25.5,51.25,25.5,51.25,"http://al-shorfa.com/en_GB/articles/meii/newsbriefs/2014/02/24/newsbrief-12?change_locale=true&c=O1b4-cJcQFe6mXpJyfIIbEo9hMlonCp70UiaM1sNJQs&mkt=en-us
+",Qatar,Qatar,,1
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",35,38,35,38,35,38,"http://www.petra.gov.jo/Public_News/Nws_NewsDetails.aspx?Site_Id=1&lang=2&NewsID=141419&CatID=13&Type=Home&GType=1
+",Syria,Syria,,1
+"571d14
+",571d1a,SY,SY,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://sana.sy/eng/21/2014/02/24/529676.htm
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"571d14
+",571d1a,SY,IS,SY,051,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Praise or endorse
+",33.5,36.3,31.5,34.75,33.5,36.3,"http://sana.sy/eng/21/2014/02/24/529676.htm
+","Damascus, Dimashq, Syria",Israel,,1
+"5e75bf
+",5e75c8,SY,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",35,38,35,38,35,38,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+",Syria,Syria,,1
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",35,38,35,38,35,38,"http://www.eonline.com/news/514049/angelina-jolie-visits-syrian-refugee-children-in-lebanon-see-the-pic
+",Syria,Syria,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://en.europeonline-magazine.eu/unhcr-envoy-angelina-jolie-urges-aid-for-syrian-children_322199.html
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,33.8333,36,"http://www.independent.ie/world-news/asia-pacific/angelinas-surprise-visit-highlights-plight-of-syrian-refugee-children-30038089.html
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",35,38,35,38,35,38,"http://news.xinhuanet.com/english/world/2014-02/25/c_126184417.htm
+",Syria,Syria,,1
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",35,38,35,38,35,38,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Syria,Syria,,1
+"571d21
+",571d27,SY,SY,LE,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",35,38,35,38,33.8333,36,"http://www.dawn.com/news/1089297/jolie-meets-syrian-refugee-children-on-visit-to-lebanon
+",Syria,Syria,,1
+"571d21
+",571d27,SY,SY,SY,060,06,"ENGAGE IN MATERIAL COOPERATION
+","Engage in material cooperation, not specified below
+",35,38,35,38,35,38,"http://www.dawn.com/news/1089297/jolie-meets-syrian-refugee-children-on-visit-to-lebanon
+",Syria,Syria,,1
+"17534d 
+",175357,SY,SY,SY,073,07,"PROVIDE AID
+","Provide humanitarian aid
+",35,38,35,38,35,38,"http://www.theguardian.com/law/2014/feb/24/wrongful-prosecutions-refugee-woe
+",Syria,Syria,,1
+"94c42f
+",94c432,SY,SY,AS,120,12,"REJECT
+","Reject, not specified below
+",36.2028,37.1586,36.2028,37.1586,-27,133,"http://au.ibtimes.com/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+","Aleppo, ?alab, Syria","Aleppo, ?alab, Syria",,4
+"94c42f
+",94c432,AS,AS,AS,120,12,"REJECT
+","Reject, not specified below
+",-27,133,-27,133,-27,133,"http://www.ibtimes.co.in/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+",Australia,Australia,,1
+"94c42f
+",94c432,SY,SY,AS,120,12,"REJECT
+","Reject, not specified below
+",35,38,35,38,-27,133,"http://www.ibtimes.co.in/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+",Syria,Syria,,1
+"5f2fc4
+",5f2fcb,SY,AS,AS,025,02,"APPEAL
+","Appeal to yield
+",36.2028,37.1586,-27,133,-27,133,"http://au.ibtimes.com/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+","Aleppo, ?alab, Syria",Australia,,1
+"5f2fc4
+",5f2fcb,SY,AS,AS,025,02,"APPEAL
+","Appeal to yield
+",35,38,-27,133,-27,133,"http://www.ibtimes.co.in/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+",Syria,Australia,,1
+"94c42f
+",94c432,SY,AS,AS,120,12,"REJECT
+","Reject, not specified below
+",36.2028,37.1586,-27,133,-27,133,"http://au.ibtimes.com/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+","Aleppo, ?alab, Syria",Australia,,1
+"94c42f
+",94c432,SY,AS,AS,120,12,"REJECT
+","Reject, not specified below
+",35,38,-27,133,-27,133,"http://www.ibtimes.co.in/articles/540363/20140225/human-rights-amnesty-international-tony-abbott-australia.htm
+",Syria,Australia,,1
+"571d14
+",571d19,SY,AG,AG,050,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Engage in diplomatic cooperation, not specified below
+",35,38,36.7631,3.05056,36.7631,3.05056,"http://www.kens5.com/news/world/242437511.html
+",Syria,"Algiers, Alger, Algeria",,4
+"bf5e75
+",bf5e81,SY,JO,SY,192,19,"FIGHT
+","Occupy territory
+",35,38,31.95,35.9333,35,38,"http://petra.gov.jo/Public_News/Nws_NewsDetails.aspx?Site_Id=1&lang=2&NewsID=141331&CatID=-1
+",Syria,"Amman, (JO11), Jordan",,4
+"bf5e75
+",bf5e81,SY,JO,SY,192,19,"FIGHT
+","Occupy territory
+",35,38,31,36,35,38,"Ammun News website, Amman/BBC Monitoring/(c) BBC
+",Syria,Jordan,,1
+"ff4800
+",ff4801,SY,LE,LE,010,01,"MAKE PUBLIC STATEMENT
+","Make statement, not specified below
+",33.5,36.3,33.6667,35.8333,33.6667,35.8333,"http://www.arabnews.com/news/530711
+","Damascus, Dimashq, Syria","Beqaa, Béa, Lebanon",,5
+"5e75bf
+",5e75c8,SY,LE,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.5,36.3,33.6667,35.8333,33.5,36.3,"http://www.arabnews.com/news/530711
+","Damascus, Dimashq, Syria","Beqaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e79,LE,LE,LE,040,04,"CONSULT
+","Consult, not specified below
+",33.8333,36,33.8333,36,33.8333,36,"http://www.khaleejtimes.com/kt-article-display-1.asp?section=middleeast&xfile=data/middleeast/2014/February/middleeast_February269.xml&c=TEc8E-pRhozbSJ66FQGCQbBT4_NYZ79lvRF9ijDwnGg&mkt=en-us
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e79,SY,LE,SY,040,04,"CONSULT
+","Consult, not specified below
+",35,38,33.8333,36,35,38,"http://www.khaleejtimes.com/kt-article-display-1.asp?section=middleeast&xfile=data/middleeast/2014/February/middleeast_February269.xml&c=TEc8E-pRhozbSJ66FQGCQbBT4_NYZ79lvRF9ijDwnGg&mkt=en-us
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e79,SY,LE,LE,040,04,"CONSULT
+","Consult, not specified below
+",35,38,33.8333,35.8333,33.8333,35.8333,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Syria,Lebanon,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.therepublic.com/view/story/541ab8b3fb8247dcb4752389b69725af/ML--Syria
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,SY,SY,LE,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.8719,35.5097,"http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2014-02-24-Syria/id-531f7931cbb84cd0a6c7a812bc9c0c37
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,36,33.5,36.3,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,36,33.8333,36,"http://www.dailymail.co.uk/tvshowbiz/article-2566619/Angelina-Jolie-makes-surprise-visit-Lebanon-humanitarian-trip.html
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.5,36.3,33.5,36.3,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,LE,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,33.5,36.3,"http://bostonherald.com/inside_track/celebrity_news/2014/02/angelina_jolie_visits_syrian_children_in_lebanon
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,33.8333,36,"http://news.yahoo.com/jolie-meets-syria-refugee-children-visit-lebanon-005230180.html
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.8719,35.5097,33.8719,35.5097,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Beirut, Beyrouth, Lebanon","Beirut, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.8497,35.9042,35,38,35,38,"http://www.zawya.com/story/Jolie_in_Lebanon_to_meet_Syrian_refugee_families-DS24022014_dsart*248275/
+","Zahle, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,33.8333,36,"http://www.eveningtelegraph.co.uk/news/uk-world/jolie-visits-syrian-child-refugees-1.238726
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,35,38,"http://www.eveningtelegraph.co.uk/news/uk-world/jolie-visits-syrian-child-refugees-1.238726
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,35.8333,35,38,"http://nz.news.yahoo.com/a/-/top-stories/21680545/aid-agencies-call-public-to-sign-online-petition/
+",Syria,Lebanon,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",35,38,35,38,35,38,"http://www.dawn.com/news/1089297/jolie-meets-syrian-refugee-children-on-visit-to-lebanon
+",Syria,Syria,,1
+"bf5e75
+",bf5e7c,SY,LE,LE,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.8333,36,33.8333,36,"http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2014-02-24-Syria/id-531f7931cbb84cd0a6c7a812bc9c0c37
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,LE,LE,SY,043,04,"CONSULT
+","Host a visit
+",33.8333,36,33.8333,36,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,SY,LE,LE,043,04,"CONSULT
+","Host a visit
+",35,38,33.8333,36,33.8333,36,"http://www.columbian.com/news/2014/feb/24/jolie-visits-refugee-children-of-war-torn-syria-in/
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,SY,LE,SY,043,04,"CONSULT
+","Host a visit
+",35,38,33.8333,36,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,SY,LE,LE,043,04,"CONSULT
+","Host a visit
+",35,38,33.8333,35.8333,33.8333,35.8333,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Syria,Lebanon,,1
+"bf5e75
+",bf5e7c,SY,LE,SY,043,04,"CONSULT
+","Host a visit
+",35,38,33.8333,35.8333,35,38,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Syria,Lebanon,,1
+"bf5e75
+",bf5e7f,SY,LE,SY,046,04,"CONSULT
+","Engage in negotiation
+",35,38,33.8333,36,35,38,"http://www.itn.co.uk/World/96327/angelina-jolie-makes-humanitarian-trip-to-lebanon
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"c1f827
+",c1f82f,SY,LE,LE,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33.8333,35.8333,33.8333,35.8333,"http://www.neurope.eu/article/commissioner-georgieva-welcomes-un-resolution-syria
+",Syria,Lebanon,,1
+"c1f827
+",c1f82f,SY,LE,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,33.8333,35.8333,35,38,"http://www.neurope.eu/article/commissioner-georgieva-welcomes-un-resolution-syria
+",Syria,Lebanon,,1
+"c1f827
+",c1f82f,SY,SY,SY,080,08,"YIELD
+","Yield, not specified below 
+",35,38,35,38,35,38,"http://www.neurope.eu/article/commissioner-georgieva-welcomes-un-resolution-syria
+",Syria,Syria,,1
+"5e75bf
+",5e75c8,LE,LE,LE,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",33.8333,36,33.8333,36,33.8333,36,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"5e75bf
+",5e75c8,SY,LE,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",35,38,33.8719,35.5097,35,38,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+",Syria,"Beirut, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e79,SY,LE,SY,040,04,"CONSULT
+","Consult, not specified below
+",35,38,33.8719,35.5097,35,38,"http://www.eonline.com/news/514049/angelina-jolie-visits-syrian-refugee-children-in-lebanon-see-the-pic
+",Syria,"Beirut, Beyrouth, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.therepublic.com/view/story/541ab8b3fb8247dcb4752389b69725af/ML--Syria
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.6667,35.8333,33.5,36.3,"http://en.europeonline-magazine.eu/unhcr-envoy-angelina-jolie-urges-aid-for-syrian-children_322199.html
+","Damascus, Dimashq, Syria","Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.8333,36,33.8333,36,"http://www.philstar.com/world/2014/02/25/1294361/angelina-jolie-visits-syrian-children-lebanon
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.6667,35.8333,33.6667,35.8333,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon","Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,36,33.8333,36,33.8333,36,"http://www.panarmenian.net/eng/news/176212/Jolie_visits_Syrian_refugee_children_in_Lebanon
+","Bekaa Valley, Béa, Lebanon","Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,US,US,LE,042,04,"CONSULT
+","Make a visit
+",34.0983,-118.327,34.0983,-118.327,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Hollywood, California, United States","Hollywood, California, United States",,3
+"bf5e75
+",bf5e7b,SY,LE,LE,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,33.8333,36,"http://www.columbian.com/news/2014/feb/24/jolie-visits-refugee-children-of-war-torn-syria-in/
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",35,38,33.8333,36,35,38,"http://www.eveningtelegraph.co.uk/news/uk-world/jolie-visits-syrian-child-refugees-1.238726
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7c,SY,LE,SY,043,04,"CONSULT
+","Host a visit
+",35,38,33.8333,36,35,38,"http://web.orange.co.uk/article/news/aneglina_jolie_meets_syrian_refugees_in_lebanon
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",35,38,35,38,35,38,"http://www.petra.gov.jo/Public_News/Nws_NewsDetails.aspx?Site_Id=1&lang=2&NewsID=141419&CatID=13&Type=Home&GType=1
+",Syria,Syria,,1
+"5e75bf
+",5e75c8,SY,SY,SY,036,03,"EXPRESS INTENT TO COOPERATE
+","Express intent to meet or negotiate
+",35,38,35,38,35,38,"http://www.binghamtonhomepage.com/story/d/story/angelina-jolie-visited-syrian-refugees/20558/SWXLYUJgFUWvEntfa5LA_A
+",Syria,Syria,,1
+"bf5e75
+",bf5e79,SY,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",35,38,35,38,35,38,"http://www.eonline.com/news/514049/angelina-jolie-visits-syrian-refugee-children-in-lebanon-see-the-pic
+",Syria,Syria,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.8333,35.8333,33.8333,35.8333,33.8333,35.8333,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Lebanon,Lebanon,,1
+"bf5e75
+",bf5e7b,LE,SY,SY,042,04,"CONSULT
+","Make a visit
+",33.8333,35.8333,35,38,35,38,"http://blog.sfgate.com/dailydish/2014/02/24/angelina-jolie-makes-surprise-trip-to-meet-syrian-refugees/
+",Lebanon,Syria,,1
+"bf5e75
+",bf5e7b,SY,SY,SY,042,04,"CONSULT
+","Make a visit
+",35,38,35,38,35,38,"http://english.farsnews.com/newstext.aspx?nn=13921205000335
+",Syria,Syria,,1
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.5,36.3,33.5,36.3,33.5,36.3,"http://en.europeonline-magazine.eu/unhcr-envoy-angelina-jolie-urges-aid-for-syrian-children_322199.html
+","Damascus, Dimashq, Syria","Damascus, Dimashq, Syria",,4
+"bf5e75
+",bf5e7c,SY,SY,SY,043,04,"CONSULT
+","Host a visit
+",35,38,35,38,35,38,"http://news.xinhuanet.com/english/world/2014-02/25/c_126184417.htm
+",Syria,Syria,,1
+"571d14
+",571d1c,SY,SY,SY,053,05,"ENGAGE IN DIPLOMATIC COOPERATION
+","Rally support on behalf of
+",35,38,35,38,35,38,"http://www.independent.ie/world-news/asia-pacific/angelinas-surprise-visit-highlights-plight-of-syrian-refugee-children-30038089.html
+",Syria,Syria,,1
+"bf5e75
+",bf5e79,SY,LE,SY,040,04,"CONSULT
+","Consult, not specified below
+",35,38,33.8333,36,35,38,"http://radaronline.com/exclusives/2014/02/angelina-jolie-syrian-refugee-camp/
+",Syria,"Bekaa Valley, Béa, Lebanon",,4
+"bf5e75
+",bf5e7b,SY,LE,SY,042,04,"CONSULT
+","Make a visit
+",35,38,33.6667,35.8333,35,38,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+",Syria,"Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7b,SY,US,SY,042,04,"CONSULT
+","Make a visit
+",35,38,34.0983,-118.327,35,38,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+",Syria,"Hollywood, California, United States",,3
+"bf5e75
+",bf5e7c,SY,LE,US,043,04,"CONSULT
+","Host a visit
+",35,38,33.6667,35.8333,34.0983,-118.327,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+",Syria,"Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7c,SY,US,LE,043,04,"CONSULT
+","Host a visit
+",35,38,34.0983,-118.327,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+",Syria,"Hollywood, California, United States",,3
+"bf5e75
+",bf5e7c,SY,US,US,043,04,"CONSULT
+","Host a visit
+",35,38,34.0983,-118.327,34.0983,-118.327,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+",Syria,"Hollywood, California, United States",,3
+"bf5e75
+",bf5e79,SY,LE,SY,040,04,"CONSULT
+","Consult, not specified below
+",33.5,36.3,33.8333,36,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Damascus, Dimashq, Syria","Bekaa Valley, Béa, Lebanon",,4
+"5f2fc4
+",5f2fc6,TU,TU,TU,020,02,"APPEAL
+","Appeal, not specified below
+",40.5333,29.3333,40.5333,29.3333,40.5333,29.3333,"http://en.cihan.com.tr/news/US-based-Turkish-NGOs-launch-aid-campaign-for-Syrian-refugees_1650-CHMTM1MTY1MC80
+","Cihan, Bursa, Turkey","Cihan, Bursa, Turkey",,4
+"bf5e75
+",bf5e79,LE,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",33.8333,36,35,38,35,38,"http://radaronline.com/exclusives/2014/02/angelina-jolie-syrian-refugee-camp/
+","Bekaa Valley, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,LE,LE,LE,042,04,"CONSULT
+","Make a visit
+",33.6667,35.8333,33.6667,35.8333,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon","Bekaa, Béa, Lebanon",,5
+"bf5e75
+",bf5e7b,LE,US,LE,042,04,"CONSULT
+","Make a visit
+",33.6667,35.8333,34.0983,-118.327,33.6667,35.8333,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon","Hollywood, California, United States",,3
+"bf5e75
+",bf5e7b,LE,SY,US,042,04,"CONSULT
+","Make a visit
+",33.6667,35.8333,35,38,34.0983,-118.327,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7b,US,SY,US,042,04,"CONSULT
+","Make a visit
+",34.0983,-118.327,35,38,34.0983,-118.327,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Hollywood, California, United States",Syria,,1
+"bf5e75
+",bf5e7c,LE,SY,SY,043,04,"CONSULT
+","Host a visit
+",33.6667,35.8333,35,38,35,38,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Bekaa, Béa, Lebanon",Syria,,1
+"bf5e75
+",bf5e7c,US,SY,SY,043,04,"CONSULT
+","Host a visit
+",34.0983,-118.327,35,38,35,38,"Zaman al-Wasl website, Doha/BBC Monitoring/(c) BBC
+","Hollywood, California, United States",Syria,,1
+"bf5e75
+",bf5e79,LE,SY,SY,040,04,"CONSULT
+","Consult, not specified below
+",33.8333,36,33.5,36.3,33.5,36.3,"http://www.southernminn.com/ap/international/article_af3affb4-01e5-50bf-a204-11ae28b6f6f3.html
+","Bekaa Valley, Béa, Lebanon","Damascus, Dimashq, Syria",,4
