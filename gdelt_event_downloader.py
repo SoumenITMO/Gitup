@@ -8,7 +8,7 @@ from datetime import datetime
 def gdeltDownloader():
 
         #...................................  DOWNLOAD GDELT ARCHRIVE FILES  ............................... #
-        N = 2200  # NUMBER OF DAYS TO GO BACK TO PREVIOUS YEAR #
+        N = 2260  # NUMBER OF DAYS TO GO BACK TO PREVIOUS YEAR #
         date_N_days_ago = datetime.now() - timedelta(days=N)
         sart_dat = datetime.now()
         end_date = date_N_days_ago
@@ -25,18 +25,19 @@ def gdeltDownloader():
             if link != [] and link[0] != b"md5sums" and link[0] != b"filesizes" and \
                             link[0] != b"GDELT.MASTERREDUCEDV2.1979-2013.zip":
                 #print(link[0], " --- ", counter)
+
                 if end_date == link[0]:
                      break
                 else:
-                    if counter >= 1366:
+                    if counter >= 1425:
                         download_file_lnk = b"http://data.gdeltproject.org/events/" + link[0]
-                        download_file_lnk_conv = download_file_lnk.decode(encoding='UTF-8')
-                        file_name = req.urlopen(download_file_lnk_conv)
-                        response = file_name.read()
-                        print(link[0])
-                        with open(b"Gdelt_Files__\\"+link[0], 'wb') as f:
-                            f.write(response)
-                        f.close()
+                        #download_file_lnk_conv = download_file_lnk.decode(encoding='UTF-8')
+                        #file_name = req.urlopen(download_file_lnk_conv)
+                        #response = file_name.read()
+                        #with open(b"Gdelt_Files__\\"+link[0], 'wb') as f:
+                            #f.write(response)
+                        #f.close()
+
                         print(link[0] + b"FILE DOWNLOADED .." + str(counter))
                 counter += 1
         print("DOWNLOADING COMPLETED ... ")

@@ -80,8 +80,8 @@ map_data__ = []
 
 def map():
 
-    year = "2014"
-    part = "2"
+    year = "2015"
+    part = "1"
     all_lattitudes = []
     all_longitudes = []
     map_data__ = []
@@ -133,7 +133,7 @@ def map():
                                     )
                 )
 
-            if skip_header_lin >= 5000:
+            if skip_header_lin >= 4000:
                 break
             skip_header_lin += 1
 
@@ -179,7 +179,6 @@ def map():
     if part == "2":
         map_year_time_span = "Jul "+year+" - Dec "+year
     plt.plotly.plot(fig, filename=map_year_time_span+'Syria-Refugee' )
-
 def csv_fiter():
     ct = 0
     data = ""
@@ -187,7 +186,7 @@ def csv_fiter():
 
     skip_header = 0
     temp_data__ = []
-    fname = "half-1"
+    fname = "half-2"
     year = "2015"
 
     with open("CSV_OUTPUT\\"+year+"-half-1\\"+fname+".csv", 'rb') as map_data:
@@ -198,6 +197,7 @@ def csv_fiter():
                 temp_data.append(j)
                 file_records_count += 1
             skip_header = 1
+
 
     with open("CSV_OUTPUT\\"+year+"-half-1\\"+fname+".csv", 'rb') as map_data_1:
         dup = []
@@ -263,6 +263,7 @@ def csv_fiter():
                                          "Duplicate Entry": duplicate_record_number
                              })
             counter_to_extract_duplicate_data += 1
+
 """
 def lets_stream():
     s = py.Stream(stream_id='ipn5a4kaxn')
