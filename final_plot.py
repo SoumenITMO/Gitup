@@ -2,47 +2,42 @@ __author__ = 'Soumen'
 from plotly import session as se
 import plotly.graph_objs as go
 import plotly.plotly as py
+import csv
+from numpy import arange,array,ones
+from scipy import stats
+import pandas
+from sklearn.metrics import mean_squared_error
+import matplotlib.pyplot as plt
+import seaborn as sns
+from pykalman import KalmanFilter
 
-def plot(x_data, y_data, colors, labels, nodes, segment, title):
-    se.sign_in("scottt1987", "T7ztp3BTkd0kFqeqilZX")
-    #labels = ['Television', 'Newspaper', 'Internet', 'Radio']
-    #colors = ['rgba(67,67,67,1)', 'rgba(115,115,115,1)', 'rgba(49,130,189, 1)', 'rgba(189,189,189,1)']
+def plot(x_data, y_data, colors, other_lables, labels, nodes, segment, title):
+    se.sign_in("scottt1987", "T7ztp3BTkd0kFqeqilZX")   # Do Not Share It
     mode_size = [8, 8, 12, 8]
     line_size = [2, 2, 4, 2]
 
-    """
-    x_data = [
-        [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013],
-        [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013],
-        [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013],
-        [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013],
-    ]
-
-    y_data = [
-        [74, 82, 80, 74, 73, 72, 74, 70, 70, 66, 66, 69],
-        [45, 42, 50, 46, 36, 36, 34, 35, 32, 31, 31, 28],
-        [13, 14, 20, 24, 20, 24, 24, 40, 35, 41, 43, 50],
-        [18, 21, 18, 21, 16, 14, 13, 18, 17, 16, 19, 23],
-    ]
-    """
     traces = []
     for i in range(0, segment):
-        print(colors[i])
+        #print(y_data[i],  y_data[i])
+
+
         traces.append(go.Scatter(
             x=x_data[i],
             y=y_data[i],
             mode='lines',
-            line=dict(color=colors[i], width=1),
+            name=other_lables[i],
+            line=dict(color=colors[i], width=2),
             connectgaps=True,
         ))
 
-        print(x_data[i])
         traces.append(go.Scatter(
             x=[x_data[i][0], x_data[i][nodes]],
             y=[y_data[i][0], y_data[i][nodes]],
+            name = "",
             mode='markers',
             marker=dict(color=colors[i], size=1)
         ))
+
 
     layout = go.Layout(
         xaxis=dict(
@@ -75,7 +70,7 @@ def plot(x_data, y_data, colors, labels, nodes, segment, title):
             r=20,
             t=110,
         ),
-        showlegend=False,
+        showlegend=True,
     )
 
     annotations = []
@@ -120,3 +115,84 @@ def plot(x_data, y_data, colors, labels, nodes, segment, title):
 
     fig = go.Figure(data=traces, layout=layout)
     py.plot(fig, filename='news-source')
+
+
+def isqrt(x):
+    if x < 0:
+        raise ValueError('square root not defined for negative numbers')
+    n = int(x)
+    if n == 0:
+        return 0
+    a, b = divmod(n.bit_length(), 2)
+    x = 2**(a+b)
+    while True:
+        y = (x + n//x)//2
+        if y >= x:
+            return x
+        x = y
+
+#se.sign_in("scottt1987", "T7ztp3BTkd0kFqeqilZX")   # Do Not Share It
+se.sign_in("mark99", "4F7tE4Uo3aKnQNEziTO6")   # Do Not Share It
+xi = []
+
+#data = pandas.read_csv("D3-data-file-refugee-main.csv", delimiter='\t')
+#print(data['Syria'])
+
+x_dat = []
+y_dat = []
+counter = 0
+with open("D3-data-file-refugee.csv") as csvfile:
+    reader = csvfile.readlines()
+    skipline = 0
+    for row in reader:
+        if skipline > 1 and skipline < 40:
+            xi.append(counter)
+            x_dat.append(row.split("\t")[0])
+            y_dat.append(int(row.split("\t")[1]))  # FOR RUSSIA
+            counter += 1
+        skipline += 1
+
+
+kf = KalmanFilter(initial_state_mean=0, n_dim_obs=1)
+measurements = [[y_dat[0]], [y_dat[1]], [y_dat[2]]]
+print(kf.em(measurements).smooth([[y_dat[3]], [y_dat[4]], [y_dat[5]]])[0])
+
+# Generated linear fit
+slope, intercept, r_value, p_value, std_err = stats.linregress(xi,y_dat)
+line = slope*xi+intercept
+
+# Creating the dataset, and generating the plot
+trace1 = go.Scatter(
+                  x=x_dat,
+                  y=y_dat,
+                  mode='markers',
+                  marker=go.Marker(color='rgb(255, 187, 19)'),
+                  name='Data'
+                  )
+
+trace2 = go.Scatter(
+                  x=x_dat,
+                  y=line,
+                  mode='lines',
+                  marker=go.Marker(color='rgb(31, 119, 180)'),
+                  name='Fit'
+                  )
+
+annotation = go.Annotation(
+                  x=3.5,
+                  y=23.5,
+                  text='$R^2 = '+str(float(std_err)),
+                  showarrow=False,
+                  font=go.Font(size=16)
+                  )
+layout = go.Layout(
+                title='Linear Regression on Lebanon Refugee',
+                plot_bgcolor='rgb(229, 229, 229)',
+                  xaxis=go.XAxis(zerolinecolor='rgb(255,255,255)', gridcolor='rgb(255,255,255)'),
+                  yaxis=go.YAxis(zerolinecolor='rgb(255,255,255)', gridcolor='rgb(255,255,255)'),
+                  annotations=[annotation]
+                )
+
+data = [trace1, trace2]
+fig = go.Figure(data=data, layout=layout)
+py.plot(fig, filename='Refugee Liner Refression')

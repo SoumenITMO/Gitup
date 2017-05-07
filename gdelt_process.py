@@ -5,7 +5,6 @@ import zipfile as z
 import csv
 import CAMEO_PROCESS as cam
 import re
-import final_plot as fp
 #................................. START CRAWLING ................................................... #
 
 def crawl():
@@ -151,7 +150,6 @@ def crawl():
             stage_2 = 0
             stage_3 = 0
             ccsv.close()
-
 def data_analysis():
 
     all_country = []
@@ -159,11 +157,89 @@ def data_analysis():
     skip_header = 0
     raw_processed_data = []
 
-    date__ = [["13-Apr F", "13-Apr-Data-1"], ["13-Apr S", "13-Apr-Data-2"], ["13-Apr T", "13-Apr-Data-3"],
-              ["13-Apr FO", "13-Apr-Data-4"], ["13-May F", "13-May-Data-1"]]
-    country_count = 4
 
-    with open("finalpoint-refugee-counter.csv", "r")as fo:
+    date__1 = [["13-Apr F" , "13-Apr-Data-1"],["13-Apr S","13-Apr-Data-2"],["13-Apr T","13-Apr-Data-3"],
+            ["13-Apr FO","13-Apr-Data-4"],["13-May F","13-May-Data-1"],["13-May S","13-May-Data-2"],
+            ["13-May T","13-May-Data-3"],["13-May FO","13-May-Data-4"],["13-Jun F","13-Jun-Data-1"],
+            ["13-Jun S","13-Jun-Data-2"],["13-Jun T","13-Jun-Data-3"],["13-Jun FO","13-Jun-Data-4"],
+            ["13-July F","13-July-Data-1"],["13-July S","13-July-Data-2"],["13-July T","13-July-Data-3"],
+            ["13-July FO","13-July-Data-4"],["13-Aug F","13-Aug-Data-1"],["13-Aug S","13-Aug-Data-2"],
+            ["13-Aug T","13-Aug-Data-3"],["13-Aug FO","13-Aug-Data-4"],["13-Sep F","13-Sep-Data-1"],
+            ["13-Sep S","13-Sep-Data-2"],["13-Sep T","13-Sep-Data-3"],["13-Sep FO","13-Sep-Data-4"],
+            ["13-Oct F","13-Oct-Data-1"],["13-Oct S","13-Oct-Data-2"],["13-Oct T","13-Oct-Data-3"],
+            ["13-Oct FO","13-Oct-Data-4"],["13-Nov F","13-Nov-Data-1"],["13-Nov S","13-Nov-Data-2"],
+            ["13-Nov T","13-Nov-Data-3"],["13-Nov FO","13-Nov-Data-4"],["13-Dec F","13-Dec-Data-1"],
+            ["13-Dec S","13-Dec-Data-2"],["13-Dec T","13-Dec-Data-3"],["13-Dec FO","13-Dec-Data-4"]]
+
+    """
+    date__2 = [["14-Jan F","14-Jan-Data-1"],["14-Jan S","14-Jan-Data-2"],["14-Jan T","14-Jan-Data-3"],
+               ["14-Jan FO","14-Jan-Data-4"],["14-Feb F","14-Feb-Data-1"],["14-Feb S","14-Feb-Data-2"],
+               ["14-Feb T","14-Feb-Data-3"],["14-Feb FO","14-Feb-Data-4"],["14-Mar F","14-Mar-Data-1"],
+               ["14-Mar S","14-Mar-Data-2"],["14-Mar T","14-Mar-Data-3"],["14-Mar FO","14-Mar-Data-4"],
+               ["14-Apr F","14-Apr-Data-1"],["14-Apr S","14-Apr-Data-2"],["14-Apr T","14-Apr-Data-3"],
+               ["14-Apr FO","14-Apr-Data-4"],["14-May F","14-May-Data-1"],["14-May S","14-May-Data-2"],
+               ["14-May T","14-May-Data-3"],["14-May FO","14-May-Data-4"],["14-Jun F","14-Jun-Data-1"],
+               ["14-Jun S","14-Jun-Data-2"],["14-Jun T","14-Jun-Data-3"],["14-Jun FO","14-Jun-Data-4"],
+               ["14-Jul F","14-Jul-Data-1"],["14-Jul S","14-Jul-Data-2"],["14-Jul T","14-Jul-Data-3"],
+               ["14-Jul FO","14-Jul-Data-4"],["14-Aug F","14-Aug-Data-1"],["14-Aug S","14-Aug-Data-2"],
+               ["14-Aug T","14-Aug-Data-3"],["14-Aug FO","14-Aug-Data-4"],["14-Sep F","14-Sep-Data-1"],
+               ["14-Sep S","14-Sep-Data-2"],["14-Sep T","14-Sep-Data-3"],["14-Sep FO","14-Sep-Data-4"],
+               ["14-Oct F","14-Oct-Data-1"],["14-Oct S","14-Oct-Data-2"],["14-Oct T","14-Oct-Data-3"],
+               ["14-Oct FO","14-Oct-Data-4"],["14-Nov F","14-Nov-Data-1"],["14-Nov S","14-Nov-Data-2"],
+               ["14-Nov T","14-Nov-Data-3"],["14-Nov FO","14-Nov-Data-4"],["14-Dec F","14-Dec-Data-1"],
+               ["14-Dec S","14-Dec-Data-2"],["14-Dec T","14-Dec-Data-3"],["14-Dec FO","14-Dec-Data-4"]] """
+
+    date__2 = [["14-Jan FO","14-Jan-Data-4"],["14-Feb F","14-Feb-Data-1"],["14-Feb S","14-Feb-Data-2"],
+               ["14-Feb T","14-Feb-Data-3"],["14-Feb FO","14-Feb-Data-4"],["14-Mar F","14-Mar-Data-1"],
+               ["14-Mar S","14-Mar-Data-2"],["14-Mar T","14-Mar-Data-3"],["14-Mar FO","14-Mar-Data-4"],
+               ["14-Apr F","14-Apr-Data-1"],["14-Apr S","14-Apr-Data-2"],["14-Apr T","14-Apr-Data-3"],
+               ["14-Apr FO","14-Apr-Data-4"],["14-May F","14-May-Data-1"],["14-May S","14-May-Data-2"],
+               ["14-May T","14-May-Data-3"],["14-May FO","14-May-Data-4"],["14-Jun F","14-Jun-Data-1"],
+               ["14-Jun S","14-Jun-Data-2"],["14-Jun T","14-Jun-Data-3"],["14-Jun FO","14-Jun-Data-4"],
+               ["14-Jul F","14-Jul-Data-1"],["14-Jul S","14-Jul-Data-2"],["14-Jul T","14-Jul-Data-3"],
+               ["14-Jul FO","14-Jul-Data-4"],["14-Aug F","14-Aug-Data-1"],["14-Aug S","14-Aug-Data-2"],
+               ["14-Aug T","14-Aug-Data-3"],["14-Aug FO","14-Aug-Data-4"],["14-Sep F","14-Sep-Data-1"],
+               ["14-Sep S","14-Sep-Data-2"],["14-Sep T","14-Sep-Data-3"],["14-Sep FO","14-Sep-Data-4"],
+               ["14-Oct F","14-Oct-Data-1"],["14-Oct S","14-Oct-Data-2"],["14-Oct T","14-Oct-Data-3"],
+               ["14-Oct FO","14-Oct-Data-4"],["14-Nov F","14-Nov-Data-1"],["14-Nov S","14-Nov-Data-2"],
+               ["14-Nov T","14-Nov-Data-3"],["14-Nov FO","14-Nov-Data-4"],["14-Dec F","14-Dec-Data-1"],
+               ["14-Dec S","14-Dec-Data-2"]]
+
+
+    date__3 = [["15-Jan FO","15-Jan-Data-4"],["15-Feb F","15-Feb-Data-1"],["15-Feb S","15-Feb-Data-2"],
+            ["15-Feb T","15-Feb-Data-3"],["15-Feb FO","15-Feb-Data-4"],["15-Mar F","15-Mar-Data-1"],
+            ["15-Mar S","15-Mar-Data-2"],["15-Mar T","15-Mar-Data-3"],["15-Mar FO","15-Mar-Data-4"],
+            ["15-Apr F","15-Apr-Data-1"],["15-Apr S","15-Apr-Data-2"],["15-Apr T","15-Apr-Data-3"],
+            ["15-Apr FO","15-Apr-Data-4"],["15-May F","15-May-Data-1"],["15-May S","15-May-Data-2"],
+            ["15-May T","15-May-Data-3"],["15-May FO","15-May-Data-4"],["15-Jun F","15-Jun-Data-1"],
+            ["15-Jun S","15-Jun-Data-2"],["15-Jun T","15-Jun-Data-3"],["15-Jun FO","15-Jun-Data-4"],
+            ["15-Jul F","15-Jul-Data-1"],["15-Jul S","15-Jul-Data-2"],["15-Jul T","15-Jul-Data-3"],
+            ["15-Jul FO","15-Jul-Data-4"],["15-Aug F","15-Aug-Data-1","15-Aug S","15-Aug-Data-2"],
+            ["15-Aug T","15-Aug-Data-3"],["15-Aug FO","15-Aug-Data-4"],["15-Sep F","15-Sep-Data-1"],
+            ["15-Sep S","15-Sep-Data-2"],["15-Sep T","15-Sep-Data-3"],["15-Sep FO","15-Sep-Data-4"],
+            ["15-Oct F","15-Oct-Data-1"],["15-Oct S","15-Oct-Data-2"],["15-Oct T","15-Oct-Data-3"],
+            ["15-Oct FO","15-Oct-Data-4"],["15-Nov F","15-Nov-Data-1"],["15-Nov S","15-Nov-Data-2"],
+            ["15-Nov T","15-Nov-Data-3"],["15-Nov FO","15-Nov-Data-4"],["15-Dec F","15-Dec-Data-1"],
+            ["15-Dec S","15-Dec-Data-2"]]
+
+
+
+
+
+    date__ = [["13-Apr F", "13-Apr-Data-1"], ["13-Apr S", "13-Apr-Data-2"], ["13-Apr T", "13-Apr-Data-3"],
+              ["13-Apr FO", "13-Apr-Data-4"], ["13-May F", "13-May-Data-1"], ["13-May S", "13-May-Data-2"],
+              ["13-May T", "13-May-Data-3"], ["13-May FO", "13-May-Data-4"], ["13-Jun F","13-Jun-Data-1"],
+            ["13-Jun S","13-Jun-Data-2"],["13-Jun T","13-Jun-Data-3"],["13-Jun FO","13-Jun-Data-4"],
+            ["13-July F","13-July-Data-1"],["13-July S","13-July-Data-2"],["13-July T","13-July-Data-3"],
+            ["13-July FO","13-July-Data-4"],["13-Aug F","13-Aug-Data-1"],["13-Aug S","13-Aug-Data-2"],
+            ["13-Aug T", "13-Aug-Data-3"], ["13-Aug FO", "13-Aug-Data-4"]]
+
+    country_count = 9
+
+    date__ = date__2
+
+    with open("midpoint-refugee-counter-7.csv", "r")as fo:
+    #with open("finalpoint-refugee-counter.csv", "r")as fo:
         data = fo.readlines()
         for read_all in data:
             if read_all not in store_all_data:
@@ -178,7 +254,13 @@ def data_analysis():
                                     country_count -= 1
             skip_header += 1
 
-    all_country = ["Algeria"]  # FOR TESTING PURPOSE
+    all_country = ["Algeria", "Syria", "France", "Somalia", "Tunisia"]  # FOR TESTING PURPOSE
+
+    #all_country = ["Syria", "Russia"]  # FOR TESTING PURPOSE
+    all_country = ["Algeria", "Syria", "Lebanon", "Somalia", "Israel", "Turkey", "France", "Greece", "United Kingdom"]#, "Germany"]  # FOR TESTING PURPOSE
+    all_country___ = ["", "", "", "", "", "", "", "", ""]  # FOR TESTING PURPOSE
+
+
 
     with open("finalpoint-refugee-counter.csv", "r") as fo1:
         csv_dict_data = csv.DictReader(fo1)
@@ -206,9 +288,6 @@ def data_analysis():
                 build_tmp_refugee_counter.append([extract_raw_data[2], extract_raw_data[1]])
         build_refugee_counter.append(build_tmp_refugee_counter)
         build_tmp_refugee_counter = []
-
-
-
 
     for ext_date in date__:
         single_time_series.append(ext_date[0])
@@ -280,13 +359,68 @@ def data_analysis():
         tmp_ref_count_arr = []
         color_counter += 1
 
-    print(all_country)
     print(_time_series)
-    #print(plt_color_set)
     print(final_ref_count_arr)
-    plt_color_set = ["red", "green", "black", "yellow", "orange"]
-    #fp.plot(_time_series, final_ref_count_arr, plt_color_set, all_country, 4, len(all_country) - 1, "Refugee Flow")
 
+    #print(all_country)
+    #print(_time_series)
+    #print(plt_color_set)
+
+    #plt_color_set = ["#fae583", "#31471c", "#f26544", "#7b7b7b", "#7f2221", "#7e816e", "#9c9c9c", "#ff4500", "#CD5C5C"]
+    #fp.plot(_time_series, final_ref_count_arr, plt_color_set, all_country, all_country___, 7, len(all_country), "Refugee Flow destination country")
+
+    #print(single_time_series)
+    #print(final_ref_count_arr)
+    #print(all_count
+    data_string__  = ""
+
+
+
+
+    with open("D3-data-file-refugee-1.csv", "w")as fw:
+        data_string__ += "iteration" + "\t"
+        for extract_country_plt in all_country:
+            data_string__ += extract_country_plt + ","
+        fw.writelines(data_string__)
+        fw.writelines("\n")
+        hold_data = []
+        tmp_hold_data = []
+        count__ = 0
+
+        for da in date__:
+            for t in final_ref_count_arr:
+                tmp_hold_data.append(t[count__])
+            count__ += 1
+            hold_data.append(tmp_hold_data)
+            tmp_hold_data = []
+            if count__ == 5:
+                ""
+            #count__ = 0
+
+        array_index = 0
+        hold_data_1 = []
+        tmp_hold_data = ""
+        date_flag = 0
+        data_date_str__ = ""
+        fw.close()
+
+    with open("D3-data-file-refugee-1.csv", "a")as fw1:
+        for k in hold_data:
+            for ex_int in k:
+                if date_flag == 0:
+                    data_date_str__ = date__[array_index][0] + "\t" + ex_int + "\t"
+                    #data_date_str__ = data_date_str__ + "\t" +ex_int + "\t"
+                    date_flag = 1
+                else:
+                    data_date_str__ += ex_int + "\t"
+
+            date_flag = 0
+            fw1.writelines(data_date_str__)
+            fw1.writelines("\n")
+            array_index += 1
+            data_date_str__ = ""
+            #data_date_str__ = 0
+        fw1.close()
 
 def RepresentsInt(s):
     return re.match(r"[-+]?\d+$", s) is not None

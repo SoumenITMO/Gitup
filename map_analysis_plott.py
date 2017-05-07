@@ -1,53 +1,46 @@
 __author__ = 'Soumen'
 
-import plotly as plt
-import csv
 from plotly import graph_objs as go
-import random
-import plotly.plotly as py
-
 import csv as cs
-from plotly import session as sess
+import plotly.plotly as py
 from numpy import *
 
-username = "scottt1987"
-API_key = "ytAwGhmFGgzFGDH0axco"
-sess.sign_in(username,API_key)
-
 def plot_analysis_data():
+    fname = "2"
+    year = "2015"
+
+    X_Data = []
+    Y_Data = []
+
     """
-    N = 30.     # Number of boxes
-    # generate an array of rainbow colors by fixing the saturation and lightness of the HSL representation of colour
-    # and marching around the hue.
-    # Plotly accepts any CSS color format, see e.g. http://www.w3schools.com/cssref/css_colors_legal.asp.
+    data_X = [20, 14, 23, 300]
+    data_Y = ['giraffes', 'orangutans', 'monkeys', 'dog']
 
-    c = ['hsl('+str(h)+',50%'+',50%)' for h in linspace(0, 360, N)]
-    # Each box is represented by a dict that contains the data, the type, and the colour.
-    # Use list comprehension to describe N boxes, each with a different colour and with different randomly generated data:
-
-    data = []
-    count = 0
-    h = [11.993142123, 99.4154234]
-    for i in h:
-        data.append(
-                      dict({
-                                'y': h * random.rand(2),
-                                'type':'box',
-                                'marker':{'color': c[count]}
-                      })
-                   )
-        count += 1
-    # format the layout
-    layout = {'xaxis': {'showgrid':False,'zeroline':False, 'tickangle':60,'showticklabels':False},
-              'yaxis': {'zeroline':False,'gridcolor':'white'},
-              'paper_bgcolor': 'rgb(233,233,233)',
-              'plot_bgcolor': 'rgb(233,233,233)',
-              }
-    py.plot(data, validate=True, layout = layout)
+    data = [go.Bar(
+            x=data_X,
+            y=data_Y,
+            orientation = 'h'
+    )]
+    py.plot(data, filename='horizontal-bar')
     """
 
-    fname = "1"
-    year = "2011"
+    with open("CSV_OUTPUT\\Analysis\\FinalAnalysis\\final_analysis-"+fname+"-"+year+".csv", "rb") as csvfile:
+        spamreader = csvfile.readlines()
+        for row in spamreader:
+           string_row = row.replace("\n","")
+           string_row = string_row.split(",")
+           X_Data.append(string_row[0])
+           Y_Data.append(int(string_row[1]) / 100)
+
+    data = [go.Bar(
+            x=X_Data,
+            y=Y_Data,
+            orientation = 'h'
+    )]
+    py.plot(data, filename='horizontal-bar')
+def generateFinalDataAnalysis():
+    fname = "2"
+    year = "2015"
     tmp = []
     skip_first = 0
 
@@ -67,7 +60,6 @@ def plot_analysis_data():
     with open("CSV_OUTPUT\\Analysis\\main__analysis-"+fname+"-"+year+".csv", "rb") as csvfile:
         spamreader1 = cs.reader(csvfile)
         listdata = list(spamreader1)
-
         skip_first1 = 0
         aggregate_analysis = []
         sum = 0
@@ -80,5 +72,11 @@ def plot_analysis_data():
                        sum += int(listdata_extract[3])
                 skip_first1 = 1
             aggregate_analysis.append([extracttmp, sum])
-
-    #with open("CSV_OUTPUT\\Analysis\\FinalAnalysis\\final_analysis-"+fname+"-"+year+".csv", "rb") as csvfile:
+            sum = 0
+    with open("CSV_OUTPUT\\Analysis\\FinalAnalysis\\final_analysis-"+fname+"-"+year+".csv", "wb") as csvfile:
+        csvfile.writelines(str("name,value")+"\n")
+        for extract_analysis_data in aggregate_analysis:
+            str_write = extract_analysis_data[0]+","+str(extract_analysis_data[1])
+            csvfile.writelines(str_write+"\n")
+            str_write =""
+        csvfile.close()
