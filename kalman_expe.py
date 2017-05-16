@@ -3,7 +3,7 @@ from bokeh.models import Legend
 from pykalman import KalmanFilter
 import numpy as np
 from scipy import stats
-import math
+import statistics
 
 x_dat = []
 x_dat_1 = []
@@ -63,28 +63,6 @@ date__3 = ["14-Feb F", "", "", "", "14-Mar F", " ", " ", " ", "14-Apr F", " ", "
 
 t_s__  = []
 
-def average(x):
-    assert len(x) > 0
-    return float(sum(x)) / len(x)
-
-def pearson_def(x, y):
-    assert len(x) == len(y)
-    n = len(x)
-    assert n > 0
-    avg_x = average(x)
-    avg_y = average(y)
-    diffprod = 0
-    xdiff2 = 0
-    ydiff2 = 0
-    for idx in range(n):
-        xdiff = x[idx] - avg_x
-        ydiff = y[idx] - avg_y
-        diffprod += xdiff * ydiff
-        xdiff2 += xdiff * xdiff
-        ydiff2 += ydiff * ydiff
-
-    return diffprod / math.sqrt(xdiff2 * ydiff2)
-
 def analysis_Kalman(countries_num, type):
 
     with open("D3-data-file-refugee-1.csv") as csvfile:
@@ -94,13 +72,10 @@ def analysis_Kalman(countries_num, type):
         country_name = ""
         date_limit = 0
         c = 0
-
         delta = 1e-5
         trans_cov = delta / (1 - delta) * np.eye(2)
 
-
         for row in reader:
-
             if skipline > 1:
                 if date_limit < 20:
                     ""
@@ -108,7 +83,8 @@ def analysis_Kalman(countries_num, type):
                 t_s__.append(c)
                 tmp_kal_val__.append(int(row.split("\t")[index_number]))
                 y_dat.append(int(row.split("\t")[index_number]))
-                c+=1
+                c += 1
+
                 """
                 if date_limit > 20 and date_limit <= 40:
                     x_dat_1.append(row.split("\t")[0])
@@ -135,16 +111,14 @@ def analysis_Kalman(countries_num, type):
     p = figure(plot_width=1000, toolbar_location="right", y_axis_label = "Refuges",
               x_axis_label = "Weekly")
 
+    #state_means, _ = kf.em(np.asarray(y_dat)).smooth(np.asarray(y_dat)) #.filter(y_dat)
+    #state_means = state_means.flatten()
 
-    state_means,_ = kf.em(np.asarray(y_dat)).smooth(np.asarray(y_dat)) #.filter(y_dat)
-    state_means = state_means.flatten()
-
-    state_means1,_ = kf.filter(np.asarray(y_dat))
+    state_means1, _ = kf.filter(np.asarray(y_dat))
     state_means1 = state_means1.flatten()
 
-    MSE = stats.linregress(t_s__, state_means)
-    MSE1 = stats.linregress(t_s__, state_means1)
-
+    #MSE = stats.linregress(t_s__, state_means)
+    #MSE1 = stats.linregress(t_s__, state_means1)
     #print(MSE, MSE1)
     #print(state_means)
     #np.savetxt("trained_dataset_Syria_15.txt", state_means, delimiter=',')
@@ -173,18 +147,19 @@ def analysis_Kalman(countries_num, type):
         data_2.append(tmp_cov_1[index_])
         index_ += 1
 
-    slope, intercept, rvalue, pvalue, stderr = stats.linregress(np.array(data_1).astype(np.float), np.array(data_2).astype(np.float))
-    print pearson_def(data_1, data_2)
-    print (stderr)
-
-
+    #slope, intercept, rvalue, pvalue, stderr = stats.linregress(np.array(data_1).astype(np.float), np.array(data_2).astype(np.float))
+    #print (stderr)
 
     p = figure(x_range = x_dat, plot_width=1000, toolbar_location="right",y_axis_label = "Refuges moving through "+country_type +" country("+ country_name +")",
               x_axis_label = "Weeks")
-    p.line(x_dat, state_means, line_width=1, line_color = 'blue', legend="Kalman filter 0")
+    #p.line(x_dat, state_means, line_width=1, line_color = 'blue', legend="Kalman filter 0")
     p.line(x_dat, y_dat, line_width=1, line_color = 'green', legend="Refuge from Syria to destination country ")
     p.line(x_dat, state_means1, line_width=1, line_color = 'red', legend="Kalman filter 1")
+    #slope, intercept, rvalue, pvalue, stderr = stats.linregress(np.array(y_dat).astype(np.float), np.array(state_means1).astype(np.float))
+    slope, intercept, rvalue, pvalue, stderr = stats.linregress(t_s__, np.array(state_means1).astype(np.float))
 
+    print(stderr)
+    print statistics.pvariance(state_means1)
     #show(p)
 
     """

@@ -141,25 +141,28 @@ xi = []
 x_dat = []
 y_dat = []
 counter = 0
-with open("D3-data-file-refugee.csv") as csvfile:
+with open("D3-data-file-refugee-1.csv") as csvfile:
     reader = csvfile.readlines()
     skipline = 0
     for row in reader:
-        if skipline > 1 and skipline < 40:
+        if skipline >= 1:
             xi.append(counter)
             x_dat.append(row.split("\t")[0])
-            y_dat.append(int(row.split("\t")[1]))  # FOR RUSSIA
+            y_dat.append(int(row.split("\t")[3]))
+            print(int(row.split("\t")[5]))
             counter += 1
         skipline += 1
 
 
-kf = KalmanFilter(initial_state_mean=0, n_dim_obs=1)
-measurements = [[y_dat[0]], [y_dat[1]], [y_dat[2]]]
-print(kf.em(measurements).smooth([[y_dat[3]], [y_dat[4]], [y_dat[5]]])[0])
+#kf = KalmanFilter(initial_state_mean=0, n_dim_obs=1)
+#measurements = [[y_dat[0]], [y_dat[1]], [y_dat[2]]]
+#print(kf.em(measurements).smooth([[y_dat[3]], [y_dat[4]], [y_dat[5]]])[0])
 
 # Generated linear fit
 slope, intercept, r_value, p_value, std_err = stats.linregress(xi,y_dat)
 line = slope*xi+intercept
+
+print(line)
 
 # Creating the dataset, and generating the plot
 trace1 = go.Scatter(
@@ -192,7 +195,7 @@ layout = go.Layout(
                   yaxis=go.YAxis(zerolinecolor='rgb(255,255,255)', gridcolor='rgb(255,255,255)'),
                   annotations=[annotation]
                 )
-
+print(std_err)
 data = [trace1, trace2]
 fig = go.Figure(data=data, layout=layout)
-py.plot(fig, filename='Refugee Liner Refression')
+#py.plot(fig, filename='Refugee Liner Refression')

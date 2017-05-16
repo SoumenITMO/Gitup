@@ -156,7 +156,7 @@ def data_analysis():
     store_all_data = []
     skip_header = 0
     raw_processed_data = []
-
+    dataset_file_name = "midpoint-refugee-counter-7.csv"
 
     date__1 = [["13-Apr F" , "13-Apr-Data-1"],["13-Apr S","13-Apr-Data-2"],["13-Apr T","13-Apr-Data-3"],
             ["13-Apr FO","13-Apr-Data-4"],["13-May F","13-May-Data-1"],["13-May S","13-May-Data-2"],
@@ -238,7 +238,7 @@ def data_analysis():
 
     date__ = date__2
 
-    with open("midpoint-refugee-counter-7.csv", "r")as fo:
+    with open(dataset_file_name, "r")as fo:
     #with open("finalpoint-refugee-counter.csv", "r")as fo:
         data = fo.readlines()
         for read_all in data:
@@ -262,7 +262,7 @@ def data_analysis():
 
 
 
-    with open("finalpoint-refugee-counter.csv", "r") as fo1:
+    with open(dataset_file_name, "r") as fo1:
         csv_dict_data = csv.DictReader(fo1)
         for extract_csv_data in csv_dict_data:
             for extract_country in all_country:
@@ -421,7 +421,6 @@ def data_analysis():
             data_date_str__ = ""
             #data_date_str__ = 0
         fw1.close()
-
 def RepresentsInt(s):
     return re.match(r"[-+]?\d+$", s) is not None
 def date_to_sentence(month_code, year):
